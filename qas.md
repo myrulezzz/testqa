@@ -22,7 +22,7 @@ If you want to manually tune the DVB-T channels, the frequency information is as
 Channel 31 – Frequency 554 MHz – Velister Transport Stream 2
 Channel 32 – Frequency 562 MHz – Velister Transport Stream 1
 Channel 33 – Frequency 570 MHz – CYBC Transport Stream
-
+## Plume
 How to install Plume HomePass® by myself?
 
 Download the Plume app from either theApple StoreorGoogle Play. Next, launch thePlume app.Choose “Set up Plume”, then enter your name and email to create your Plume account.Passwords must be at least eight characters.Check your email and verify the email account that will be associated with your new Plume account.Next, there are a few steps to setup your Pod. There is an option for Advanced setup, if needed.Enter your WiFi name and password. There will be a series of helpful on-screen tips for additional pod placement.If you have more than one pod, plug it in and add it to your network now.Be sure to enable notifications. This will help you be aware of your home network activity.The Plume app will prompt you to join the new WiFi network.Finally, after you’ve allowed Plume to join your network, you’ll be taken to the home screen. Over the next 24 hours, your new Plume WiFi network will optimize to create the best performance for your connected devices.
@@ -45,10 +45,10 @@ If you have the Plume Homepass® service, follow these 3 simple steps:
    15 working days is the maximum length of time, provided that conditions allow it.
    I want to cancel my subscription, and my contract hasn’t expired yet. What do I need to pay?
    New subscribers: early termination fees for a 24month contractTerminationMonthAdministration ChargeInstallation ChargeServices Used
-
+## Cablenet Email
 I have a Cablenet email account. How can I check my emails?
 You can have check your Cablenet webmail wherever you are, byclicking here.
-Fixed Telephony
+## Fixed Telephony
 Can I keep my existing telephone number?
 You can keep your existing telephone number by following the number portability procedure. You will need a copy of your last telephone bill and to present your ID card.
 Is there any charge for the transfer of my existing telephone number to Cablenet’s network?
@@ -67,7 +67,7 @@ Calling Line Identification Presentation (CLIP)
 The telephone number (landline or mobile) that is calling you will appear on your mobile’s screen unless the caller has activated the Calling Line Identification Presentation (CLIP) service.
 Calling Line Identification Restriction (CLIR)
 To withhold your number, dial #31# before each call.
-
+## Call Forwarding
 The Number Withholding service is free.
 Call Forwarding Unconditional
 To activate Call Forwarding, dial *21*number to which you want your calls forwarded#. To deactivate, dial ##21#.
@@ -85,7 +85,7 @@ Call Forwarding when a call cannot be completed
 To activate Call Forwarding when a call cannot be completed, dial *62* and the number to which you want your calls forwarded#. To deactivate, dial ##62#.
 
 The Call Forwarding service is free. Call Forwarding when the line is busy, when you are unable to answer and when a call can not be completed can be activated simultaneously. Calls forwarded are charged according to the current pricelist.
-Barring of Outgoing Calls
+## Barring of Outgoing Calls
 To activate Blocking of Outgoing Calls, dial:
 
 *33*Barring PIN# (for Calls and SMS)
@@ -149,11 +149,10 @@ Call Waiting
 To activate Call Waiting, dial *43#. To deactivate, dial #43#.
 
 The Call Waiting service is free.
-Plume HomePass
+## Plume HomePass
 How does Plume HomePass® work?
-Plume is powered by the cloud, which means it can adapt to real life in real-time, ensuring that every room and every device has a reliable and fast connection now and into the future. Plume HomePass® is continuously learning about the user’s internet needs. It performs advanced self-optimizations and allocates capacity to the devices that need it most.
+Plume is powered by the cloud, which means it can adapt to real life in real-time, ensuring that every room and every device has a reliable and fast connection now and into the future. Plume HomePass® is continuously learning about the user’s internet needs. It performs advanced self-optimizations and allocates capacity to the devices that need it most.And it gets better each day!
 
-And it gets better each day!
 What is the HomePass® App?
 When you get onboarded with the Plume HomePass® service, you will also download the HomePass® on your mobile device. The App lets you see which devices are accessing the Internet and how much they’re uploading or downloading. You can block and unblock specific devices from accessing the Internet and delivers daily reports on your home WiFi signal strength and network activity. With this App you take control of your WiFi network.
 How to install Plume HomePass® by myself?
@@ -167,6 +166,7 @@ If you have more than one pod, plug it in and add it to your network now.
 Be sure to enable notifications. This will help you be aware of your home network activity.
 The Plume app will prompt you to join the new WiFi network.
 Finally, after you’ve allowed Plume to join your network, you’ll be taken to the home screen. Over the next 24 hours, your new Plume WiFi network will optimize to create the best performance for your connected devices.
+
 How can I delete my Plume HomePass® data history?
 All Plume members have the right to be forgotten. HomePass supports two different types of data deletions.Delete security event dataIf you’d like to just remove items from your list of blocked events from either Guard or Content Access:In the HomePass app, open the More menu.Select the Guard option.On the bottom of the Guard settings page, you will find the Delete security events button.Simply tap the button and confirm that you would like to clear the data.Note that once deleted, this data cannot be recovered
 
@@ -191,26 +191,7 @@ In addition to the firmware version, you can also view the pod’s serial number
 How does Plume’s content access work?
 Plume’s content access feature will allow you to restrict content for a device or person. We have identified the most common content filtering categories that you can use when personalizing your online experience.
 
-When setting up content filtering for a person or device, you can enable any of the four content filtering categories:No limits: You can access all types of content.Kids appropriate: Content that is tagged as NOT appropriate for kids will be filtered and inaccessible.Teenager friendly: Content that is tagged as NOT appropriate for teens will be filtered and inaccessible.No adult content: All content tagged as adult content will not be accessible.Please note that all devices associated with a person will inherit the content access settings assigned to that corresponding person. Likewise, applying content access restrictions to a device assigned to a person will apply the same settings to that person. However, if the device is unassigned, the rule will only apply to the device. Content access will not work if Privacy Mode has been enabled or if the device is using a Private/Random MAC Address.What is seen by the end-user when their content is blocked?Content that was restricted by our security feature whenever you see the “Access to this website is blocked” message displayed in their browser window. Note: This only appears for HTTP sites; HTTPS sites prevent this and display the browser’s default “can’t be reached” message. HTTPS connections cannot be redirected to the HTTP blocked page because it would break the secure trusted SSL connection.
-No limits: You can access all types of content.Kids appropriate: Content that is tagged as NOT appropriate for kids will be filtered and inaccessible.Teenager friendly: Content that is tagged as NOT appropriate for teens will be filtered and inaccessible.No adult content: All content tagged as adult content will not be accessible.
-How do I schedule an Internet Freeze for a device or person with my Plume HomePass® service?
-Internet Freeze allows you to easily manage how much time is spent on the internet by a device or person by using a Freeze schedule or as needed.Schedule or Turn on Internet Freeze for a device.Select the device in the app to access the device details page.Tap on Schedule Internet Freeze.Type in a name for this Freeze schedule.Tap on a day and enter the Freeze internet (start) time and Unfreeze internet (end) times.Choose the Repeat option if this schedule will be the same on multiple days or tap on another day to set different Freeze and Unfreeze times for that day.Choose a person if this Freeze schedule will be used for all of their devices.Tap on Save once your schedule is complete.Schedule or Turn on Internet FreezeSelect the person from the People page.Tap on Schedule Internet Freeze.Type in a name for this Freeze schedule.Tap on a day and enter the Freeze internet (start) time and Unfreeze internet (end) times. Choose the Repeat option if this schedule will be the same on multiple days or tap on another day to set different Freeze and Unfreeze times for that day.Tap on Save once your schedule is complete and Apply to confirm.Interrupt Internet FreezeYou will be able to interrupt the internet freeze by either choosing Unfreeze Until End of Day or Clear Internet Freeze to reset the freeze internet schedule.What will the user see when frozen?When a device is frozen, it will not be able to access content. How that is displayed depends on the content you are trying to access. If you try to load an HTTP site, you will be redirected to the captive portal screen. However, if it is an HTTPS site, the page will simply timeout or say it cannot be reached.
-Select the device in the app to access the device details page.Tap on Schedule Internet Freeze.Type in a name for this Freeze schedule.Tap on a day and enter the Freeze internet (start) time and Unfreeze internet (end) times.Choose the Repeat option if this schedule will be the same on multiple days or tap on another day to set different Freeze and Unfreeze times for that day.Choose a person if this Freeze schedule will be used for all of their devices.Tap on Save once your schedule is complete.
-Select the person from the People page.Tap on Schedule Internet Freeze.Type in a name for this Freeze schedule.Tap on a day and enter the Freeze internet (start) time and Unfreeze internet (end) times. Choose the Repeat option if this schedule will be the same on multiple days or tap on another day to set different Freeze and Unfreeze times for that day.Tap on Save once your schedule is complete and Apply to confirm.
-How do I disable or change a WiFi password to my Plume HomePass®?
-How do I disable or change a WiFi password?You can easily edit, delete, or temporarily disable a password by using the HomePass app. You can also edit the access level of any user with guest access. To suspend or control access on a device level, use the Device Freeze feature.Editing WiFi passwordsFrom the More menu, tap on the Access option.Tap on Home, Guests, or Internet Only to access that zone’s page.Tap the ⋯ next to the password you want to modify.Choose Edit, Disable, or Delete.In the case of Disable or Delete, confirm your selection. If you editing a password, go ahead and make your changes.
-From the More menu, tap on the Access option.Tap on Home, Guests, or Internet Only to access that zone’s page.Tap the ⋯ next to the password you want to modify.Choose Edit, Disable, or Delete.
-How do I assign a Primary Device to someone?
-Each person can have a primary device assigned to their profile. That primary device’s connections and disconnections from the network determines if they show up as being at home, which is also important for managing Sense alerts.You should always choose a device they are not likely to leave home without and that will always stay powered. Smartwatches that connect to WiFi or mobile phones are ideal.Assigning a primary device to a personTap on the people icon and choose a person. Ensure the device in question is already assigned to that person.If a primary device has not been set, the Assign primary device notification will be shown. Tap on the notification.Choose a primary device and tap on Done to save.
-Tap on the people icon and choose a person. Ensure the device in question is already assigned to that person.If a primary device has not been set, the Assign primary device notification will be shown. Tap on the notification.Choose a primary device and tap on Done to save.
-How do I add or remove a person to my Plume HomePass® service?
-Adding people allows you to conveniently monitor and manage their WiFi access.Adding a PersonFrom the People screen, tap on + button.Choose the Create a person option.Add a photo using the + , enter the Person name and Email (optional) and tap on Next.Set their Device profile information. This allows you to control Content access as well as their Guard settings for all their assigned devices while they are connected to the network.Tap on Done and the person will be added to the list of people.Use the Tap to assign device option under their card. The devices you select will apply the rules set in the previous step to those devices and allow you to monitor and manage the person’s Internet usage.Once all device have been selected and you tap on Done, you will be prompted to assign a Primary device, which is used to determine if they are home. Be sure to choose a device that they will always take with them.Tap on Done once a primary device is chosen.Please note that creating a person using the steps above does not give them the ability to manage the network. Click here if you want to Invite a person to help you manage the network.Removing a PersonFrom the person’s detail screen, tap on the ⋮ on the top right-hand corner. Tap on Remove person which will remove the profile and historical data consumption information for that person. All previously assigned devices for that person will now be unassigned. Note: This does not disable their access to the WiFi if they still have the password.
-From the People screen, tap on + button.Choose the Create a person option.Add a photo using the + , enter the Person name and Email (optional) and tap on Next.Set their Device profile information. This allows you to control Content access as well as their Guard settings for all their assigned devices while they are connected to the network.Tap on Done and the person will be added to the list of people.Use the Tap to assign device option under their card. The devices you select will apply the rules set in the previous step to those devices and allow you to monitor and manage the person’s Internet usage.Once all device have been selected and you tap on Done, you will be prompted to assign a Primary device, which is used to determine if they are home. Be sure to choose a device that they will always take with them.Tap on Done once a primary device is chosen.Please note that creating a person using the steps above does not give them the ability to manage the network. Click here if you want to Invite a person to help you manage the network.
-How do I transfer a device from one person to another with my Plume HomePass® service?
-If you accidentally assign a device to the wrong person, you can simply reassign it to another person’s profile (or create a new profile).Navigate to the incorrectly assigned device.Tap on the ⋮ on the upper right-hand corner to view the device menu and select Assign Device to…Select the appropriate profile to move the device to. You can also add a new person profile to your app at the same time!Your device will now appear under the new profile!Please note that any rules (Adblocking, Content Access, or Online Protection) will be reset to match the new profile.
-Navigate to the incorrectly assigned device.Tap on the ⋮ on the upper right-hand corner to view the device menu and select Assign Device to…Select the appropriate profile to move the device to. You can also add a new person profile to your app at the same time!Your device will now appear under the new profile!Please note that any rules (Adblocking, Content Access, or Online Protection) will be reset to match the new profile.
-Can I set different parental controls on a person, device or location level with my Plume HomePass® service?
-Adblocking, Online Protection, and any custom Approve / Block lists can only be configured on a location, person, or device level. Content Access (parental control) settings can be configured on a person and device level.Location level:Applies to all devices connected to the network.Person level:Applies to all devices assigned to a person.Device-level:Applies only to the single device only if unassigned. If the device is assigned to a person, the Content Access rule will be applied to that personWhat happens if you have different settings configured on different levels for a device?Priority is given to the most specific settings for a device. For example, if Online Protection is disabled on a location level and enabled for a device, the setting is turned on for the device.
+
 
 Additionally, if a location has a setting enabled, any new devices and profiles added will inherit the same settings by default. If should be noted that if a device is assigned to a person, Content Access rules will always be the same for a person and their associated devices.
 How to set a global or custom Internet Time Out with my Plume HomePass® service?
@@ -222,33 +203,6 @@ Use the + to increase the Time Out period in 10-minute increments. Use the – t
 How can I tell if someone is home with my Plume HomePass® service?
 If you have assigned a primary device for everyone in your home, you can use the People Notifications feature to receive notifications when people return home or leave.
 
-Enable People Notifications
-
-• Open the More menu and tap on Notifications.
-
-• Make sure People notifications are turned on and select the profiles for which you would like to receive alerts.Viewing your People at Home historyOpen the People Profiles view of the HomePass AppIf you have set up People Profiles and assigned them primary devices, the history of when they’ve been home will appear at the top.You can use the arrows to cycle the daily event history from Today all the way to 6 days ago.Each person’s status is based on when their assigned primary device connects and disconnects from the network. Because of this, it is important to assign suitable primary devices like mobile phones or WiFi enabled smartwatches. If their device disconnects because it is powered off or the WiFi is turned off, it will show them as having left. If you have Sense Alerts set up to be sent only when away (Smart Activation), those alerts will be sent 15 minutes after the last person with an assigned device disconnects from your network.
-Open the People Profiles view of the HomePass AppIf you have set up People Profiles and assigned them primary devices, the history of when they’ve been home will appear at the top.You can use the arrows to cycle the daily event history from Today all the way to 6 days ago.
-How to create a new Home WiFi Password with my Plume HomePass® service?
-During the initial setup, the first password created is a Home zone password, although you can add more. Local network access to devices connected to your network in the Home zone can be selectively shared with devices connecting with a Guest zone password.
-How to create a new Guest password with my Plume HomePass® service?
-Open the More tab and click on the Access button.While in the Guest settings page, tap on New Guest Password.Enter a name* and a new password.Use the drop-down arrow next to Auto-disable WiFi Password and choose one of the options.Add a checkmark next to one or more Shared Home Devices (printer, NAS, media player), to allow your guest access to it over the local network.Tap on the Add to save.*You can set up different device access permissions and Auto-disable WiFi Password settings for each name under the Guest zone.
-Open the More tab and click on the Access button.While in the Guest settings page, tap on New Guest Password.Enter a name* and a new password.Use the drop-down arrow next to Auto-disable WiFi Password and choose one of the options.Add a checkmark next to one or more Shared Home Devices (printer, NAS, media player), to allow your guest access to it over the local network.Tap on the Add to save.
-How to create a new Internet Only password with my Plume HomePass® service?
-Open the More tab and click on the Access button.While in the Internet Only settings page, tap on New internet only password.Enter a new password.Use the drop-down arrow next to Auto-disable WiFi Password and choose one of the options.Tap on the Add to save.
-Open the More tab and click on the Access button.While in the Internet Only settings page, tap on New internet only password.Enter a new password.Use the drop-down arrow next to Auto-disable WiFi Password and choose one of the options.Tap on the Add to save.
-How do I share network passwords with my Plume HomePass® service?
-Tap on the menu icon on the App home screen.Tap the Access option to view the Network Name and Passwords.Tap on Home, Guests or Internet Only to access that zone’s settings page.Next to the password, you want to share, tap on the Share icon.Choose the method you want to use to share the password (SMS, email, Airdrop) and send it.The recipient will receive a link. Clicking on it will take them to a web page from which they can copy the Network name and the password.
-Tap on the menu icon on the App home screen.Tap the Access option to view the Network Name and Passwords.Tap on Home, Guests or Internet Only to access that zone’s settings page.Next to the password, you want to share, tap on the Share icon.Choose the method you want to use to share the password (SMS, email, Airdrop) and send it.The recipient will receive a link. Clicking on it will take them to a web page from which they can copy the Network name and the password.
-How do I disable or change a WiFi password with my Plume HomePass® service?
-How do I disable or change a WiFi password?You can easily edit, delete, or temporarily disable a password by using the HomePass app. You can also edit the access level of any user with guest access. To suspend or control access on a device level, use the Device Freeze feature.Editing WiFi passwordsFrom the More menu, tap on the Access option.Tap on Home, Guests, or Internet Only to access that zone’s page.Tap the ⋯ next to the password you want to modify.Choose Edit, Disable, or Delete.In the case of Disable or Delete, confirm your selection. If you editing a password, go ahead and make your changes.
-From the More menu, tap on the Access option.Tap on Home, Guests, or Internet Only to access that zone’s page.Tap the ⋯ next to the password you want to modify.Choose Edit, Disable, or Delete.
-Where can I view my Plume network status?
-You can always view the status of your pods from the Home Screen by selecting Adapt. You will be able to scroll through all the pods associated with your network with its current status.App users have access to the network’s topology where you will see a web-like structure representing each pod and connected devices on your network. This enables you to easily view the status of your pods and the devices that are actively connected to your network.
-Notification “Lost Internet Connection“ on my Plume HomePass® service. How do I get past this?
-If the “Still looking for Internet connection to Plume pod…” screen pops up, it means that the HomePass App is not detecting an Internet signal on your gateway pod.Here are the most common reasons for this issue:No Internet is provided through your modem or router.• Power cycle your modem. If you have recently rebooted your modem or router, re-establishing the Internet connection can take a while. • If your gateway pod is connected to another router or switch, verify that it’s properly setup by reviewing our recommended setup here. To confirm Internet availability, try to connect the pod directly to the modem.Pod is not receiving any power.• Try to plug in the pod to another outlet. The LED should turn on.Pod does not power ON and is defective.• Try another pod so you can continue with the setup. Contact Cablenet Support to help diagnose your issue and facilitate the replacement of your defective pod.Bluetooth on your device is OFF.• Be sure to turn ON Bluetooth on your device. The Bluetooth option is often found in the Settings section of your device.The notification will automatically disappear once it detects your gateway pod, so you can continue with your setup.
-No Internet is provided through your modem or router.• Power cycle your modem. If you have recently rebooted your modem or router, re-establishing the Internet connection can take a while. • If your gateway pod is connected to another router or switch, verify that it’s properly setup by reviewing our recommended setup here. To confirm Internet availability, try to connect the pod directly to the modem.Pod is not receiving any power.• Try to plug in the pod to another outlet. The LED should turn on.Pod does not power ON and is defective.• Try another pod so you can continue with the setup. Contact Cablenet Support to help diagnose your issue and facilitate the replacement of your defective pod.Bluetooth on your device is OFF.• Be sure to turn ON Bluetooth on your device. The Bluetooth option is often found in the Settings section of your device.
-Does Plume HomePass® service Online Protection secure my network against IP based threats?
-Online Protection now supports Outbound IP Protection and Intrusion Prevention, the latest advancement of Plume Guard features! Previously, Online Protection worked by detecting only malicious DNS based threats. By now protecting devices from connecting to malicious sites using IP addresses (Outbound IP Protection) and DNS based lookups, your home is now more protected than ever!
 
 Additionally, Intrusion Prevention automatically blocks connections from high-risk IP addresses trying to remotely connect to your devices, keeping you and your family safe from online threats.
 
@@ -329,11 +283,7 @@ Push notifications may have been disabled on your device.iOS – Enable push not
 When Smart Activation has been enabled for Sense alerts, all Primary devices assigned to people must have disconnected from the network for at least 15 minutes. This also means that if someone leaves their primary device at home, alerts will not go out.Depending on your notification interval settings, not enough time has elapsed since your last alert.
 Why am I still receiving Plume HomePass® Sense motion notifications while I’m home?
 Other than Smart Activation for Sense alerts not being enabled, the most common reason you may still be getting Sense alerts while you are home is that Primary devices have not been assigned to people or People profiles have not been created. Your Home / Away status is based on when all assigned primary devices have disconnected from the network. If you have not assigned any primary devices to people, your current status will always be away and notifications will always go out if there is motion.It is also possible that if all Primary devices chosen have disconnected from the network when they go to sleep (laptops, tablets, portable game consoles) or are powered off, your status will be set to away.
-How can I change the WiFi network code?
-If you have the Plume Homepass® service, follow these 3 simple steps:
-
-1. Go to the Settings option and then the Adapt option.2. Select the type of network whose access code you wish to change (eg guests, internet only)3. Select Edit and change the access code.If you don’t have the Plume Homepass® service, call the Customer Call Centre on 130 to instantly change your WiFi access code.
-   Purple Max Internet 1G
+## Internet
    What is Purple Max Internet 1G?
    Purple Max Internet 1G is the new Internet service that offers 1 Gbps connection . Additionally, Purple Max Internet 1G includes the Plume HomePass® service, which provides the ultimate WiFI connectivity experience in the whole house.
    What is the maximum connection speed?
@@ -343,6 +293,7 @@ The Purple Max Internet upload speed is 50Mbps.
 What are the benefits having a Purple Max Internet 1G?
 You will enjoy a smart, secure and fast WiFi system, and the ultimate experience of living in a “smart” home.You will enjoy carefree and simplicity, with this one single choice.You can get the Purple Max Mobile at the reduced price of only €20/month, if you combine it with Purple Max Internet.
 You will enjoy a smart, secure and fast WiFi system, and the ultimate experience of living in a “smart” home.You will enjoy carefree and simplicity, with this one single choice.You can get the Purple Max Mobile at the reduced price of only €20/month, if you combine it with Purple Max Internet.
+## Mobile Services
 How can I connect to the Internet using my mobile?
 In instances where the APN does not appear automatically, you will have to select it as follows:Internet settings for iPhone devices:On the home screen, select SettingsSelect CellularSelect Cellular Data NetworkSelect APNType cablenetSelect Menu to save settingsInternet settings for Android devices:Select AppsSelect SettingsSelect Wireless & Networks or ConnectionsSelect More Networks or More SettingsSelect Mobile NetworksSelect Access Point NamesSelect the Menu buttonSelect New APNSelect NameType cablenet and press OKInternet settings for Win 8 Phones devices:On the home screen, slide your finger to the leftSelect SettingsSelect Mobile NetworkSelect Add Internet APNType cablenet• Select save to create the internet APN
 On the home screen, select SettingsSelect CellularSelect Cellular Data NetworkSelect APNType cablenetSelect Menu to save settings
@@ -439,7 +390,7 @@ The Cablenet mobile telephony network supports B7 – 2600MHz and B20 - 800MHz b
 
 I want to cancel my subscription, and my contract hasn’t expired yet. What do I need to pay?
 New subscribers: early termination fees for a 24month contractTerminationMonthAdministration ChargeInstallation ChargeServices Used.
-##ESIM
+## ESIM
 What is the difference between an eSIM and a SIM?
 The main difference between a SIM card and an eSIM is the physical presence. A SIM is a physical card that needs to be inserted into a device, while an eSIM is embedded into the device’s hardware. This allows the user to use mobile services without the need of a physical card.
 
@@ -698,13 +649,7 @@ You will be notified via SMS on your mobile the day before the date set for the 
 Can I transfer my current mobile number to the Cablenet Prepaid service?
 Yes, you can transfer your number at any Cablenet Store or online byclicking here.
 
-## Post Paid
-
-How can I transfer my number from another provider to Cablenet?
-You can visit any one of our stores and present your ID card/passport and a recent bill from your current provider. Activation will be completed two working days from the date of number transfer from the previous provider to Cablenet. You can see available packages andchoose whichever suits your needs here.
-
-
-## Prepaid
+## Prepaid Mobile Subscribers
 
 Where can I buy a Cablenet Prepaid SIM
 pack?
@@ -1220,7 +1165,7 @@ Cablenet network as it is optimised for coaxial cable networks. All of
 Cablenet’s TV channels are transmitted in this format. Cypriot free-to-air
 channels are transmitted in an unencrypted format, while all other channels
 included in Cablenet’s TV packages are encrypted. For all information regarding
-Cablenet’s channels and TV packages, visithttps://cablenet.com.cy/en/channels/A
+Cablenet’s channels and TV packages, visit https://cablenet.com.cy.
 Cablenet decoder is required to view Cablenet’s encrypted TV services and it is
 also used to view Cypriot free-to-air channels. Other devices capable of
 receiving DVB-C, such as TV sets with DVB-C (Digital Cable) tuners can be used
@@ -1410,3 +1355,6 @@ I want to cancel my subscription, and my
 contract hasn’t expired yet. What do I need to pay?
 
 subscribers: early termination fees for a 24month
+
+## Cablenet.me
+Cablenet.me is the portal where a Cablenet Subscriber can login check its balances, call history make payments e.t.c
