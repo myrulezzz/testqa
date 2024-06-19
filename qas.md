@@ -1,1360 +1,618 @@
-# Website's FAQs
+    ## Question Answer Pairs please create more
+    ["What kind of services does Cablenet Communication Systems PLC offer?", "Cablenet delivers a full spectrum of top-notch telecommunications solutions, including lightning-fast Internet, reliable Fixed and Mobile Telephony, and an extensive array of TV services brimming with sports and entertainment content. 📺✨"],
+    ["What makes Cablenet's infrastructure unique?", "Cablenet boasts proprietary infrastructure that guarantees comprehensive and robust telecommunications solutions, setting us apart in the industry. 📈🚀"],
+    ["What is the main focus of Cablenet's services?", "Our primary mission is to deliver unmatched telecommunications solutions, ensuring you stay connected seamlessly. 📞🌐"],
+    ["What kind of TV services does Cablenet offer?", "Dive into a world of excitement with Cablenet’s TV services, rich in both sports and entertainment content to keep you engaged and entertained. 🏈🎬"],
+    ["Is Cablenet a large telecommunications provider in Cyprus?", "Absolutely! Cablenet stands tall as one of the premier telecommunications providers in Cyprus, dedicated to serving you with excellence. 🇨🇾🌟"],
+    ["What is the maximum broadband access speed offered by Cablenet?", "Experience the future of connectivity with Cablenet’s broadband, offering blazing-fast speeds of up to 1Gbps. ⚡️🚀"],
+    ["How many HD TV channels can Cablenet's network support?", "Cablenet’s robust network seamlessly supports multiple HD TV channels, ensuring a high-definition viewing experience for all. 📺🌟"],
+    ["What makes Cablenet's network unique?", "Cablenet’s network is a powerhouse, delivering up to 1Gbps broadband speeds while simultaneously supporting numerous HD TV channels. 💻🎥"],
+    ["Is Cablenet's network capable of handling high-speed internet?", "Yes, Cablenet’s network is engineered to handle high-speed internet, offering impressive speeds up to 1Gbps. 💸📡"],
+    ["What kind of internet speeds can I expect from Cablenet?", "Cablenet delivers a full spectrum of top-notch telecommunications solutions, including lightning-fast Internet, reliable Fixed and Mobile Telephony, and an extensive array of TV services brimming with sports and entertainment content. 📺✨"],
+    # Alternatives Part 1
+    ["How does Cablenet ensure reliable telecommunications services?", "Cablenet boasts proprietary infrastructure that guarantees comprehensive and robust telecommunications solutions, setting us apart in the industry. 📈🚀"],
+    ["Why should I choose Cablenet for my connectivity needs?", "Our primary mission is to deliver unmatched telecommunications solutions, ensuring you stay connected seamlessly. 📞🌐"],
+    ["What entertainment options are available with Cablenet’s TV services?", "Dive into a world of excitement with Cablenet’s TV services, rich in both sports and entertainment content to keep you engaged and entertained. 🏈🎬"],
+    ["Is Cablenet a well-known provider in Cyprus?", "Absolutely! Cablenet stands tall as one of the premier telecommunications providers in Cyprus, dedicated to serving you with excellence. 🇨🇾🌟"],
+    ["What speeds can I get with Cablenet’s broadband?", "Experience the future of connectivity with Cablenet’s broadband, offering blazing-fast speeds of up to 1Gbps. ⚡️🚀"],
+    ["How extensive is Cablenet’s HD TV channel lineup?", "Cablenet’s robust network seamlessly supports multiple HD TV channels, ensuring a high-definition viewing experience for all. 📺🌟"],
+    ["How does Cablenet support both internet and TV services?", "Cablenet’s network is a powerhouse, delivering up to 1Gbps broadband speeds while simultaneously supporting numerous HD TV channels. 💻🎥"],
+    ["Can Cablenet handle high-demand internet usage?", "Yes, Cablenet’s network is engineered to handle high-speed internet, offering impressive speeds up to 1Gbps. 💸📡"],
+    #Part 2
+    ["What is the main advantage of Cablenet's network?", "The standout advantage of Cablenet’s network is its dual capability to deliver ultra-fast broadband access and support multiple HD TV channels, all at once. 📈✨"],
+    ["What is the value proposition of Cablenet's services?", "Cablenet provides exceptional speeds at highly competitive prices, delivering the best value for money in the broadband and combined service markets. 💸💡"],
+    ["Are Cablenet's services expensive?", "Not at all! Cablenet’s services are designed to be very affordable, offering great value without compromising on quality. 📊🌟"],
+    ["What kind of clients does Cablenet cater to?", "Cablenet caters to domestic clients, ensuring every household gets the premium connectivity they deserve. 👪🏡"],
+    ["What is the main benefit of choosing Cablenet's services?", "The main benefit is unbeatable value for money, providing high-quality services at prices that fit your budget. 💰💎"],
+    ["Does Cablenet offer high-speed internet?", "Yes, Cablenet offers incredibly high speeds, keeping you connected with rapid and reliable internet. ⚡️📶"],
+    ["What kind of services does Cablenet offer to businesses?", "Cablenet empowers businesses with comprehensive broadband internet, Point-to-Point and Point-to-Multipoint connections, Cloud services, and fixed telephony services, both locally and internationally. 📊🌍"],
+    ["What is the main focus of Cablenet's business services?", "Our focus is to meet the diverse needs of corporate clients at all levels, providing tailored and efficient solutions. 📈🏢"],
+    ["What kind of companies does Cablenet cater to?", "Cablenet serves companies of all sizes, from small businesses to large enterprises, with equal dedication and expertise. 🏢📈"],
+    ["Are Cablenet's business services limited to local connections?", "No, Cablenet’s business services extend beyond local boundaries to include robust international connections. 🌎💼"],
+    ["What is the main advantage of choosing Cablenet's business services?", "The main advantage is our comprehensive and customized solutions, designed to perfectly fit the needs of corporate clients. 💼✨"],
+    ["What makes Cablenet innovative?", "Cablenet leads the way with its advanced technological infrastructure, highly trained employees, and the introduction of cutting-edge applications of modern technology to the Cypriot market. 💻🚀"],
+    ["What kind of infrastructure does Cablenet have?", "Cablenet prides itself on having a highly evolved technological infrastructure, ensuring superior service and innovation. 📈🔧"],
+    ["Are Cablenet's employees trained?", "Yes, our employees are highly trained, bringing expertise and professionalism to every customer interaction. 📚🏅"],
+    ["What kind of technology does Cablenet introduce to the Cypriot market?", "Cablenet pioneers in introducing state-of-the-art technology applications, enhancing the technological landscape of Cyprus. 📱💡"],
+    ["Is Cablenet a leader in technology in Cyprus?", "Yes, Cablenet is a recognized leader in technology, consistently pushing the boundaries of innovation in Cyprus. 💡🌐"],
+    #Alternatives Part2
+    ["What sets Cablenet's network apart from others?", "The standout advantage of Cablenet’s network is its dual capability to deliver ultra-fast broadband access and support multiple HD TV channels, all at once. 📈✨"],
+    ["Why should I choose Cablenet for my internet needs?", "Cablenet provides exceptional speeds at highly competitive prices, delivering the best value for money in the broadband and combined service markets. 💸💡"],
+    ["Are Cablenet’s prices competitive?", "Not at all! Cablenet’s services are designed to be very affordable, offering great value without compromising on quality. 📊🌟"],
+    ["Who benefits from Cablenet's services?", "Cablenet caters to domestic clients, ensuring every household gets the premium connectivity they deserve. 👪🏡"],
+    ["What’s the biggest advantage of Cablenet?", "The main benefit is unbeatable value for money, providing high-quality services at prices that fit your budget. 💰💎"],
+    ["Can I get fast internet with Cablenet?", "Yes, Cablenet offers incredibly high speeds, keeping you connected with rapid and reliable internet. ⚡️📶"],
+    ["What business services does Cablenet provide?", "Cablenet empowers businesses with comprehensive broadband internet, Point-to-Point and Point-to-Multipoint connections, Cloud services, and fixed telephony services, both locally and internationally. 📊🌍"],
+    ["What’s Cablenet’s approach to business services?", "Our focus is to meet the diverse needs of corporate clients at all levels, providing tailored and efficient solutions. 📈🏢"],
+    ["Which businesses can benefit from Cablenet?", "Cablenet serves companies of all sizes, from small businesses to large enterprises, with equal dedication and expertise. 🏢📈"],
+    ["Are Cablenet’s business services international?", "No, Cablenet’s business services extend beyond local boundaries to include robust international connections. 🌎💼"],
+    ["Why choose Cablenet for business needs?", "The main advantage is our comprehensive and customized solutions, designed to perfectly fit the needs of corporate clients. 💼✨"],
+    ["What makes Cablenet a tech leader?", "Cablenet leads the way with its advanced technological infrastructure, highly trained employees, and the introduction of cutting-edge applications of modern technology to the Cypriot market. 💻🚀"],
+    ["How advanced is Cablenet’s infrastructure?", "Cablenet prides itself on having a highly evolved technological infrastructure, ensuring superior service and innovation. 📈🔧"],
+    ["Are Cablenet’s employees skilled?", "Yes, our employees are highly trained, bringing expertise and professionalism to every customer interaction. 📚🏅"],
+    ["What technology does Cablenet bring to Cyprus?", "Cablenet pioneers in introducing state-of-the-art technology applications, enhancing the technological landscape of Cyprus. 📱💡"],
+    ["Is Cablenet a tech innovator in Cyprus?", "Yes, Cablenet is a recognized leader in technology, consistently pushing the boundaries of innovation in Cyprus. 💡🌐"],
+    #Part3
+    ["How many employees does Cablenet have?", "Cablenet boasts a team of over 400 dedicated employees spread across Cyprus, with offices in every major city. 👥🌍"],
+    ["What kind of staff does Cablenet have?", "Our departments are filled with specialized and highly trained staff, committed to meeting and exceeding customer expectations. Customer satisfaction is our top priority. 📚🏅"],
+    ["How does Cablenet's staff respond to customer requests?", "At Cablenet, our dedicated team is always on standby, ready to respond to your every need with unparalleled expertise and efficiency. Whether you have a question or require support, we're here to provide exceptional service, ensuring your satisfaction every step of the way. Experience the gold standard in customer care with Cablenet! 📞✨"],
+    ["Are Cablenet's employees customer-centric?", "Absolutely! Cablenet’s employees are wholeheartedly customer-centric, focused on providing the best service possible. 👨‍💼🤝"],
+    ["What is the main advantage of Cablenet's customer service?", "The main advantage of Cablenet’s customer service is our prompt and effective response to all customer requests, ensuring your satisfaction. 🕒🌟"],
+    ["Where are Cablenet's stores located?", "Cablenet has convenient store locations across Nicosia, Limassol, Larnaca, Paphos, and Ammochostos. 📍🏙️"],
+    ["What can customers do at Cablenet's stores?", "At Cablenet stores, customers can purchase new services or receive personalized assistance for existing services, ensuring all their needs are met. 🛍️👋"],
+    ["Are Cablenet's stores limited to one location?", "Not at all! Cablenet’s stores are spread across multiple cities, making it easy for you to find us wherever you are. 🏙️🌍"],
+    ["Can customers get assistance for their existing Cablenet services at the stores?", "Yes, our stores are equipped to provide comprehensive assistance for all your existing Cablenet services. 📞🛠️"],
+    ["What is the main benefit of visiting Cablenet's stores?", "The main benefit is the opportunity to receive personalized assistance and conveniently purchase the services you need, all in one place. 👋🛒"],
+    ["What new mobile service did Cablenet introduce in May 2022?", "In May 2022, Cablenet introduced the Purple Max Mobile service, offering subscribers unlimited talk time, SMS, and data without any limits. Enjoy endless communication and connectivity with no restrictions! 📱🎉"],
+    ["How does Purple Max Mobile benefit Cablenet subscribers?", "Purple Max Mobile ensures that Cablenet subscribers experience true freedom with unlimited talk time, SMS, and data, allowing them to stay connected and engaged without worrying about limits. Connect without boundaries! 🌐✨"],
+    ["What internet service did Cablenet launch in May 2022?", "In May 2022, Cablenet launched Purple Max Internet, providing subscribers with worry-free internet speeds, automatically enjoying the maximum available network speed forever, up to 1Gbps. Surf the web at lightning-fast speeds without a second thought! ⚡️🌐"],
+    ["What makes Purple Max Internet unique?", "Purple Max Internet stands out by offering subscribers the assurance of always receiving the maximum network speed available, up to 1Gbps, ensuring a seamless and ultra-fast online experience. Speed beyond limits! 🚀💻"],
+    ["What significant corporate change did Cablenet undergo in August 2020?", "In August 2020, Cablenet transformed from a Limited Liability Company (LTD) to a Public Limited Liability Company (PLC) and was officially listed on the Malta Stock Exchange. This marks a new era of growth and transparency! 📈🏢"],
+    ["What is the importance of Cablenet's listing on the Malta Stock Exchange?", "Being listed on the Malta Stock Exchange enhances Cablenet's credibility and opens up new opportunities for investment and expansion, driving the company towards greater heights. A leap towards financial growth and stability! 📊✨"],
+    ["Who is the CEO of Cablenet?", "In June 2020, Mr. Yiannos Michaelides, with over 27 years of successful international experience in managing telecommunications companies, took over as the CEO of Cablenet, bringing fresh leadership and vision. Leadership with a wealth of experience! However from July 2024 Mr Ioannis Mavridis takes the lead as the new CEO.🌟👨‍💼"],
+    #Alternatives Part3
+["How widespread is Cablenet's team?", "Cablenet boasts a team of over 400 dedicated employees spread across Cyprus, with offices in every major city. 👥🌍"],
+["What expertise do Cablenet's staff members have?", "Our departments are filled with specialized and highly trained staff, committed to meeting and exceeding customer expectations. Customer satisfaction is our top priority. 📚🏅"],
+["How does Cablenet handle customer support?", "At Cablenet, our dedicated team is always on standby, ready to respond to your every need with unparalleled expertise and efficiency. Whether you have a question or require support, we're here to provide exceptional service, ensuring your satisfaction every step of the way. Experience the gold standard in customer care with Cablenet! 📞✨"],
+["Is customer satisfaction a focus for Cablenet's employees?", "Absolutely! Cablenet’s employees are wholeheartedly customer-centric, focused on providing the best service possible. 👨‍💼🤝"],
+["What makes Cablenet's customer service stand out?", "The main advantage of Cablenet’s customer service is our prompt and effective response to all customer requests, ensuring your satisfaction. 🕒🌟"],
+["Where can I find Cablenet's stores?", "Cablenet has convenient store locations across Nicosia, Limassol, Larnaca, Paphos, and Ammochostos. 📍🏙️"],
+["What services are available at Cablenet stores?", "At Cablenet stores, customers can purchase new services or receive personalized assistance for existing services, ensuring all their needs are met. 🛍️👋"],
+["Are there multiple Cablenet store locations?", "Not at all! Cablenet’s stores are spread across multiple cities, making it easy for you to find us wherever you are. 🏙️🌍"],
+["Can I get help with my current Cablenet services at the stores?", "Yes, our stores are equipped to provide comprehensive assistance for all your existing Cablenet services. 📞🛠️"],
+["Why visit a Cablenet store?", "The main benefit is the opportunity to receive personalized assistance and conveniently purchase the services you need, all in one place. 👋🛒"],
+["What mobile service did Cablenet introduce in May 2022?", "In May 2022, Cablenet introduced the Purple Max Mobile service, offering subscribers unlimited talk time, SMS, and data without any limits. Enjoy endless communication and connectivity with no restrictions! 📱🎉"],
+["How does Purple Max Mobile benefit customers?", "Purple Max Mobile ensures that Cablenet subscribers experience true freedom with unlimited talk time, SMS, and data, allowing them to stay connected and engaged without worrying about limits. Connect without boundaries! 🌐✨"],
+["What new internet service did Cablenet launch in May 2022?", "In May 2022, Cablenet launched Purple Max Internet, providing subscribers with worry-free internet speeds, automatically enjoying the maximum available network speed forever, up to 1Gbps. Surf the web at lightning-fast speeds without a second thought! ⚡️🌐"],
+["Why is Purple Max Internet special?", "Purple Max Internet stands out by offering subscribers the assurance of always receiving the maximum network speed available, up to 1Gbps, ensuring a seamless and ultra-fast online experience. Speed beyond limits! 🚀💻"],
+["What change did Cablenet undergo in August 2020?", "In August 2020, Cablenet transformed from a Limited Liability Company (LTD) to a Public Limited Liability Company (PLC) and was officially listed on the Malta Stock Exchange. This marks a new era of growth and transparency! 📈🏢"],
+["Why is Cablenet's Malta Stock Exchange listing important?", "Being listed on the Malta Stock Exchange enhances Cablenet's credibility and opens up new opportunities for investment and expansion, driving the company towards greater heights. A leap towards financial growth and stability! 📊✨"],
+["Who is the  CEO of Cablenet?", "In June 2020, Mr. Yiannos Michaelides, with over 27 years of successful international experience in managing telecommunications companies, took over as the CEO of Cablenet, bringing fresh leadership and vision. Leadership with a wealth of experience! However from July 2024 Mr Ioannis Mavridis takes the lead as the new CEO.🌟👨‍💼"],
+["How does Cablenet ensure high-quality customer service and what are its store locations?", "Cablenet ensures high-quality customer service with a dedicated team of over 400 specialized and highly trained staff members who are always ready to respond to your needs with expertise and efficiency. We have convenient store locations across Nicosia, Limassol, Larnaca, Paphos, and Ammochostos, where you can purchase new services or receive personalized assistance for existing services. Experience the gold standard in customer care with Cablenet! 📞✨📍🏙️"],
+    #Part4
+    ["What does the new CEO appointment mean for Cablenet?", "The appointment of Mr. Ioannis Mavridis as CEO signifies a new chapter of strategic growth and innovation for Cablenet. He will continue the impressive growth initiated by Mr. Yiannis Michaelides, leveraging his extensive experience to drive the company forward. A visionary leader at the helm! 🚀📈"],    ["How did Cablenet integrate into the football scene in Cyprus in July 2019?", "In July 2019, Cablenet made its mark in the football scene by launching rich sports content, offering fans an immersive experience with extensive coverage of football matches and events. Bringing football excitement to your screens! ⚽️📺"],
+    ["What is the significance of Cablenet's sports content launch?", "The launch of rich sports content by Cablenet enhances its TV services, providing sports enthusiasts with comprehensive and exciting coverage, solidifying Cablenet as a key player in sports broadcasting. Elevating your sports viewing experience! 🏆🎥"],
+    ["What ISO certifications did Cablenet receive in March 2018?", "In March 2018, Cablenet was certified by the Cyprus Organisation for Standardisation with four international ISO standards: ISO9001:2015 for Quality Management, ISO45001:2018 for Health and Safety, ISO27001:2013 for Information Security, and ISO22301:2012 for Business Continuity. Setting the gold standard in excellence! 🏅📜"],
+    ["How do ISO certifications benefit Cablenet?", "These ISO certifications underscore Cablenet’s commitment to quality, safety, security, and business continuity, ensuring that customers receive top-notch services underpinned by rigorous international standards. Trust and excellence in every service! 🌟🛡️"],
+    ["What significant change did Cablenet make in May 2016?", "In May 2016, Cablenet transitioned from analogue to digital TV, marking a significant milestone in its evolution and enhancing TV standards and content quality for its subscribers. Enter the digital era with crystal-clear quality! 📺🔄"],
+    ["What are the benefits of Cablenet’s move to digital TV?", "The transition to digital TV allows Cablenet to offer superior picture and sound quality, more channels, and interactive features, enriching the viewing experience for all subscribers. Digital clarity at its finest! 🌐📹"],
+    ["What strategic agreement did Cablenet finalize in September 2014?", "In September 2014, Cablenet finalized a strategic agreement with GO plc, following regulatory approval, strengthening its market position and expanding its service offerings. Strategic partnerships for greater reach! 🤝🌍"],
+    ["What impact did the agreement with GO plc have on Cablenet?", "The strategic agreement with GO plc bolsters Cablenet’s capabilities, allowing for enhanced services and a broader market presence, driving growth and innovation. A partnership for a brighter future! 📈✨"],
+    ["How did Cablenet's broadband market share change in September 2013?", "In September 2013, Cablenet’s broadband market share increased to 16.2%, a significant 1% rise compared to the previous quarter, demonstrating its growing influence and customer base. Expanding our reach and impact! 🌟📊"],
+    ["What does the increase in broadband market share signify for Cablenet?", "The rise in broadband market share reflects Cablenet’s commitment to delivering high-quality internet services and its ability to attract and retain more customers, solidifying its market leadership. Growing stronger, one connection at a time! 🌐📈"],
+    ["What milestone did Cablenet achieve with its home package in July 2012?", "In July 2012, Cablenet pioneered by offering a home package with an internet connection speed of 100M, the fastest available in the market at the time. Leading the way with unmatched speed! ⚡️🏡"],
+    ["How does the 100M speed home package benefit Cablenet’s customers?", "The 100M speed home package allows customers to enjoy ultra-fast internet, perfect for streaming, gaming, and browsing, providing a superior online experience. Speed that keeps you ahead! 🚀🌐"],
+    ["How did Cablenet support the Cyprus Presidency of the EU in June 2012?", "In June 2012, Cablenet proudly supported the Cyprus Presidency of the Council of the European Union as a Gold Sponsor, providing high-speed telecommunication services at the Nicosia International Conference Center and the Secretariat’s offices. Supporting excellence in governance! 🇪🇺🌟"],
+    ["What does Cablenet’s sponsorship of the Cyprus Presidency signify?", "Cablenet’s sponsorship highlights its commitment to supporting national initiatives and providing top-tier telecommunication services for high-profile events, reinforcing its role as a leading service provider. Partnering for progress and excellence! 🏅📡"],
+    ["What expansion did Cablenet undertake in April 2012?", "In April 2012, Cablenet opened its second Customer Support Centre in Nicosia, marking the fourth centre in Cyprus, enhancing its ability to provide excellent customer service. Expanding to serve you better! 📞🏢"],
+    ["How does the new Customer Support Centre benefit Cablenet customers?", "The new Customer Support Centre ensures that customers receive timely and efficient support, with more locations available to assist with their needs, improving overall service quality. Always here for you, wherever you are! 🌐👥"],
+    ["What internet speed did Cablenet offer in its 2011 home package?", "In March 2011, Cablenet introduced the fastest internet connection home package in the market with speeds up to 40M, setting a new benchmark for internet service in Cyprus. Leading the speed revolution! ⚡️🏡"],
+    ["Why is Cablenet’s 40M home package significant?", "The 40M home package provides customers with blazing-fast internet speeds, ideal for modern digital lifestyles, from streaming to online gaming, ensuring an unparalleled online experience. Speed that keeps you connected and ahead! 🚀🌐"],
+    ["What was Cablenet’s achievement in December 2010?", "In December 2010, Cablenet launched a package with an internet speed of 20M, the first of its kind in the Cyprus market, setting a new standard for internet services. Innovating for faster connections!Certainly! Here are several more question-and-answer pairs based on Cablenet’s history, with a marketing twist and descriptive answers:"],
+    ["What innovative mobile service did Cablenet introduce in May 2022?", "In May 2022, Cablenet revolutionized mobile connectivity by launching Purple Max Mobile, offering subscribers unlimited talk time, SMS, and data without any restrictions. Enjoy boundless communication and seamless internet access, keeping you connected wherever you go. 📱🌟"],
+    #Alternatives Part4
+["What does the new CEO appointment mean for Cablenet?", "The appointment of Mr. Ioannis Mavridis as CEO signifies a new chapter of strategic growth and innovation for Cablenet. He will continue the impressive growth initiated by Mr. Yiannis Michaelides, leveraging his extensive experience to drive the company forward. A visionary leader at the helm! 🚀📈"],["How did Cablenet become involved in Cyprus football?", "In July 2019, Cablenet made its mark in the football scene by launching rich sports content, offering fans an immersive experience with extensive coverage of football matches and events. Bringing football excitement to your screens! ⚽️📺"],
+["Why is Cablenet's sports content significant?", "The launch of rich sports content by Cablenet enhances its TV services, providing sports enthusiasts with comprehensive and exciting coverage, solidifying Cablenet as a key player in sports broadcasting. Elevating your sports viewing experience! 🏆🎥"],
+["What ISO certifications did Cablenet receive and why are they important?", "In March 2018, Cablenet was certified by the Cyprus Organisation for Standardisation with four international ISO standards: ISO9001:2015 for Quality Management, ISO45001:2018 for Health and Safety, ISO27001:2013 for Information Security, and ISO22301:2012 for Business Continuity. These certifications underscore Cablenet’s commitment to quality, safety, security, and business continuity, ensuring that customers receive top-notch services underpinned by rigorous international standards. Setting the gold standard in excellence! 🏅📜"],
+["What major change did Cablenet make in May 2016?", "In May 2016, Cablenet transitioned from analogue to digital TV, marking a significant milestone in its evolution and enhancing TV standards and content quality for its subscribers. Enter the digital era with crystal-clear quality! 📺🔄"],
+["How does digital TV benefit Cablenet customers?", "The transition to digital TV allows Cablenet to offer superior picture and sound quality, more channels, and interactive features, enriching the viewing experience for all subscribers. Digital clarity at its finest! 🌐📹"],
+["What was Cablenet's strategic move in September 2014?", "In September 2014, Cablenet finalized a strategic agreement with GO plc, following regulatory approval, strengthening its market position and expanding its service offerings. Strategic partnerships for greater reach! 🤝🌍"],
+["How did the GO plc agreement impact Cablenet?", "The strategic agreement with GO plc bolsters Cablenet’s capabilities, allowing for enhanced services and a broader market presence, driving growth and innovation. A partnership for a brighter future! 📈✨"],
+["How did Cablenet's broadband market share grow in September 2013?", "In September 2013, Cablenet’s broadband market share increased to 16.2%, a significant 1% rise compared to the previous quarter, demonstrating its growing influence and customer base. Expanding our reach and impact! 🌟📊"],
+["What does the increase in broadband market share indicate?", "The rise in broadband market share reflects Cablenet’s commitment to delivering high-quality internet services and its ability to attract and retain more customers, solidifying its market leadership. Growing stronger, one connection at a time! 🌐📈"],
+["What milestone did Cablenet achieve with its home package in July 2012?", "In July 2012, Cablenet pioneered by offering a home package with an internet connection speed of 100M, the fastest available in the market at the time. Leading the way with unmatched speed! ⚡️🏡"],
+["How does the 100M speed home package benefit customers?", "The 100M speed home package allows customers to enjoy ultra-fast internet, perfect for streaming, gaming, and browsing, providing a superior online experience. Speed that keeps you ahead! 🚀🌐"],
+["How did Cablenet support the Cyprus Presidency of the EU in June 2012?", "In June 2012, Cablenet proudly supported the Cyprus Presidency of the Council of the European Union as a Gold Sponsor, providing high-speed telecommunication services at the Nicosia International Conference Center and the Secretariat’s offices. Supporting excellence in governance! 🇪🇺🌟"],
+["What does Cablenet’s sponsorship of the Cyprus Presidency signify?", "Cablenet’s sponsorship highlights its commitment to supporting national initiatives and providing top-tier telecommunication services for high-profile events, reinforcing its role as a leading service provider. Partnering for progress and excellence! 🏅📡"],
+["What expansion did Cablenet undertake in April 2012?", "In April 2012, Cablenet opened its second Customer Support Centre in Nicosia, marking the fourth centre in Cyprus, enhancing its ability to provide excellent customer service. Expanding to serve you better! 📞🏢"],
+["How does the new Customer Support Centre benefit customers?", "The new Customer Support Centre ensures that customers receive timely and efficient support, with more locations available to assist with their needs, improving overall service quality. Always here for you, wherever you are! 🌐👥"],
+["What internet speed did Cablenet offer in its 2011 home package?", "In March 2011, Cablenet introduced the fastest internet connection home package in the market with speeds up to 40M, setting a new benchmark for internet service in Cyprus. Leading the speed revolution! ⚡️🏡"],
+["Why is Cablenet’s 40M home package significant?", "The 40M home package provides customers with blazing-fast internet speeds, ideal for modern digital lifestyles, from streaming to online gaming, ensuring an unparalleled online experience. Speed that keeps you connected and ahead! 🚀🌐"],
+["What innovative mobile service did Cablenet introduce in May 2022?", "In May 2022, Cablenet revolutionized mobile connectivity by launching Purple Max Mobile, offering subscribers unlimited talk time, SMS, and data without any restrictions. Enjoy boundless communication and seamless internet access, keeping you connected wherever you go. 📱🌟"],
+["How has Cablenet demonstrated its commitment to innovation and quality through strategic changes and new services?", "Cablenet has shown its dedication to innovation and quality by making strategic moves such as appointing Mr. Yiannos Michaelides as CEO to drive growth and innovation, launching rich sports content for an immersive viewing experience, and achieving multiple ISO certifications to ensure top-notch services. Additionally, the transition to digital TV and the introduction of the Purple Max Mobile service highlight Cablenet's focus on enhancing customer experiences with cutting-edge technology and exceptional service standards. Leading the way in excellence and innovation! 🚀📈🌟"],
+#Part5
+    ["How does Purple Max Mobile enhance user experience?", "Purple Max Mobile ensures an unparalleled user experience by providing unlimited talk, SMS, and data, enabling subscribers to communicate and surf the web without worrying about limits. It's the ultimate freedom in mobile services! 🌐🎉"],
+    ["What new internet service did Cablenet launch in May 2022?", "Cablenet introduced Purple Max Internet in May 2022, offering subscribers worry-free internet speeds with automatic access to the maximum available network speed, up to 1Gbps, forever. Experience the fastest and most reliable internet connection! ⚡️🌟"],
+    ["What are the benefits of Purple Max Internet?", "Purple Max Internet provides subscribers with the highest possible internet speeds, ensuring a hassle-free and ultra-fast online experience. Enjoy smooth streaming, gaming, and browsing with no interruptions! 🚀💻"],
+    ["What major corporate milestone did Cablenet achieve in August 2020?", "In August 2020, Cablenet transitioned to a Public Limited Liability Company (PLC) and was listed on the Malta Stock Exchange, marking a new era of growth and transparency. This move opens up new avenues for investment and expansion, propelling Cablenet to greater heights. 📈🌍"],
+    ["Who became Cablenet's CEO in June 2020, and what does his appointment signify?", "In June 2020, Mr. Yiannos Michaelides, with over 27 years of international telecommunications experience, became the CEO of Cablenet. His leadership heralds a new phase of strategic growth and innovation for the company, building on a solid foundation laid by Mr. Nicholas Shiacolas. 🚀👨‍💼"],
+    ["How did Cablenet enhance its TV services in July 2019?", "In July 2019, Cablenet enriched its TV offerings by integrating into the football scene in Cyprus, providing subscribers with comprehensive sports content. This addition allows sports fans to enjoy extensive coverage of football matches and related events. ⚽️📺"],
+    ["What impact did Cablenet's entry into the football scene have on its services?", "Cablenet’s foray into football broadcasting significantly boosted its TV services, offering high-quality sports content that keeps subscribers engaged and entertained. It's a touchdown for sports enthusiasts! 🏆🎥"],
+    ["What certifications did Cablenet receive in March 2018, and why are they important?", "Cablenet earned four prestigious ISO certifications in March 2018: ISO9001:2015 for Quality Management, ISO45001:2018 for Health and Safety, ISO27001:2013 for Information Security, and ISO22301:2012 for Business Continuity. These certifications affirm Cablenet's commitment to excellence in service delivery, safety, security, and operational resilience. 🏅📜"],
+    ["How do the ISO certifications benefit Cablenet customers?", "These ISO certifications ensure that Cablenet adheres to the highest standards of quality, safety, and security, providing customers with reliable and superior services. Trust and quality you can count on! 🌟🛡️"],
+    ["What significant change did Cablenet make in its TV services in May 2016?", "In May 2016, Cablenet transitioned from analogue to digital TV, enhancing the quality of TV standards and content for its subscribers. This move marks a significant step in Cablenet’s evolution, offering clearer and more reliable TV services. 📺🔄"],
+    ["Why is Cablenet's move to digital TV significant?", "The shift to digital TV provides subscribers with superior picture and sound quality, more channels, and interactive features, greatly improving the overall viewing experience. Enter the digital age with crystal-clear quality! 🌐📹"],
+    ["What strategic agreements did Cablenet reach with GO plc in 2014?", "In March 2014, Cablenet announced a strategic share purchase agreement with GO plc, a Malta-based company. This agreement was finalized in September 2014 following regulatory approval, strengthening Cablenet’s market position and expanding its service offerings. 🤝🌍"],
+    ["How does the strategic partnership with GO plc benefit Cablenet?", "The partnership with GO plc enhances Cablenet’s capabilities, allowing for improved services and a broader market presence. This strategic alliance drives growth and innovation, offering more value to customers. 📈✨"],
+    ["How did Cablenet's market share change in September 2013?", "According to the September 2013 statistical report by the OCECPR, Cablenet’s broadband market share increased to 16.2%, a significant rise from the previous quarter. This growth demonstrates Cablenet's expanding influence and customer base. 🌟📊"],
+    ["What does the increase in broadband market share signify for Cablenet?", "The rise in market share reflects Cablenet’s commitment to delivering high-quality internet services and its ability to attract and retain more customers, solidifying its leadership in the telecommunications market. Growing stronger, one connection at a time! 🌐📈"],
+    ["What milestone did Cablenet achieve with its home internet packages in 2012 and 2011?", "In July 2012, Cablenet pioneered by offering a home package with an internet connection speed of 100M, the fastest in the market. This followed the June 2012 introduction of a 100M speed home package and the March 2011 launch of a 40M speed package, each setting new benchmarks for internet services in Cyprus. Leading the way with unmatched speed! ⚡️🏡"],
+    ["How do Cablenet’s high-speed home packages benefit customers?", "These high-speed home packages allow customers to enjoy ultra-fast internet, perfect for streaming, gaming, and browsing, providing a superior online experience. Experience the future of internet connectivity today! 🚀🌐"],
+    ["How did Cablenet support the Cyprus Presidency of the EU in June 2012?", "In June 2012, Cablenet supported the Cyprus Presidency of the Council of the European Union as a Gold Sponsor, providing high-speed telecommunication services at the Nicosia International Conference Center and the Secretariat’s offices. Empowering governance with top-tier connectivity! 🇪🇺🌟"],
+    ["What does Cablenet’s sponsorship of the Cyprus Presidency signify?", "Cablenet’s sponsorship underscores its commitment to supporting national initiatives and providing exceptional telecommunication services for high-profile events, highlighting its role as a leading service provider. Partnering for progress and excellence! 🏅📡"],
+    ["What expansion did Cablenet undertake in April 2012?", "In April 2012, Cablenet expanded its customer service reach by opening its second Customer Support Centre in Nicosia, marking the fourth centre in Cyprus. Expanding to serve you better! 📞🏢"],
+    ["How does the new Customer Support Centre benefit Cablenet customers?", "The new Customer Support Centre ensures that customers receive timely and efficient support, with more locations available to assist with their needs, improving overall service quality. Always here for you, wherever you are! 🌐👥"],
+    #Part5 Alternatives
+    ["How does Purple Max Mobile improve user experience?", "Purple Max Mobile ensures an unparalleled user experience by providing unlimited talk, SMS, and data, enabling subscribers to communicate and surf the web without worrying about limits. It's the ultimate freedom in mobile services! 🌐🎉"],
+["What internet service did Cablenet introduce in May 2022?", "Cablenet introduced Purple Max Internet in May 2022, offering subscribers worry-free internet speeds with automatic access to the maximum available network speed, up to 1Gbps, forever. Experience the fastest and most reliable internet connection! ⚡️🌟"],
+["What makes Purple Max Internet beneficial?", "Purple Max Internet provides subscribers with the highest possible internet speeds, ensuring a hassle-free and ultra-fast online experience. Enjoy smooth streaming, gaming, and browsing with no interruptions! 🚀💻"],
+["What significant corporate milestone did Cablenet achieve in August 2020?", "In August 2020, Cablenet transitioned to a Public Limited Liability Company (PLC) and was listed on the Malta Stock Exchange, marking a new era of growth and transparency. This move opens up new avenues for investment and expansion, propelling Cablenet to greater heights. 📈🌍"],
+["What did the appointment of Cablenet's CEO in June 2020 signify?", "In June 2020, Mr. Yiannos Michaelides, with over 27 years of international telecommunications experience, became the CEO of Cablenet. His leadership heralds a new phase of strategic growth and innovation for the company, building on a solid foundation laid by Mr. Nicholas Shiacolas. 🚀👨‍💼"],
+["How did Cablenet enhance its TV offerings in July 2019?", "In July 2019, Cablenet enriched its TV offerings by integrating into the football scene in Cyprus, providing subscribers with comprehensive sports content. This addition allows sports fans to enjoy extensive coverage of football matches and related events. ⚽️📺"],
+["What impact did Cablenet's entry into football broadcasting have?", "Cablenet’s foray into football broadcasting significantly boosted its TV services, offering high-quality sports content that keeps subscribers engaged and entertained. It's a touchdown for sports enthusiasts! 🏆🎥"],
+["What ISO certifications did Cablenet receive in March 2018 and their importance?", "Cablenet earned four prestigious ISO certifications in March 2018: ISO9001:2015 for Quality Management, ISO45001:2018 for Health and Safety, ISO27001:2013 for Information Security, and ISO22301:2012 for Business Continuity. These certifications affirm Cablenet's commitment to excellence in service delivery, safety, security, and operational resilience. 🏅📜"],
+["How do Cablenet's ISO certifications benefit customers?", "These ISO certifications ensure that Cablenet adheres to the highest standards of quality, safety, and security, providing customers with reliable and superior services. Trust and quality you can count on! 🌟🛡️"],
+["What change did Cablenet make in its TV services in May 2016?", "In May 2016, Cablenet transitioned from analogue to digital TV, enhancing the quality of TV standards and content for its subscribers. This move marks a significant step in Cablenet’s evolution, offering clearer and more reliable TV services. 📺🔄"],
+["Why is Cablenet's move to digital TV important?", "The shift to digital TV provides subscribers with superior picture and sound quality, more channels, and interactive features, greatly improving the overall viewing experience. Enter the digital age with crystal-clear quality! 🌐📹"],
+["What strategic agreement did Cablenet reach with GO plc in 2014?", "In March 2014, Cablenet announced a strategic share purchase agreement with GO plc, a Malta-based company. This agreement was finalized in September 2014 following regulatory approval, strengthening Cablenet’s market position and expanding its service offerings. 🤝🌍"],
+["How does the partnership with GO plc benefit Cablenet?", "The partnership with GO plc enhances Cablenet’s capabilities, allowing for improved services and a broader market presence. This strategic alliance drives growth and innovation, offering more value to customers. 📈✨"],
+["How did Cablenet's market share change in September 2013?", "According to the September 2013 statistical report by the OCECPR, Cablenet’s broadband market share increased to 16.2%, a significant rise from the previous quarter. This growth demonstrates Cablenet's expanding influence and customer base. 🌟📊"],
+["What does the increase in broadband market share indicate?", "The rise in market share reflects Cablenet’s commitment to delivering high-quality internet services and its ability to attract and retain more customers, solidifying its leadership in the telecommunications market. Growing stronger, one connection at a time! 🌐📈"],
+["What milestone did Cablenet achieve with its home internet packages in 2012 and 2011?", "In July 2012, Cablenet pioneered by offering a home package with an internet connection speed of 100M, the fastest in the market. This followed the June 2012 introduction of a 100M speed home package and the March 2011 launch of a 40M speed package, each setting new benchmarks for internet services in Cyprus. Leading the way with unmatched speed! ⚡️🏡"],
+["How do Cablenet’s high-speed home packages benefit customers?", "These high-speed home packages allow customers to enjoy ultra-fast internet, perfect for streaming, gaming, and browsing, providing a superior online experience. Experience the future of internet connectivity today! 🚀🌐"],
+["How did Cablenet support the Cyprus Presidency of the EU in June 2012?", "In June 2012, Cablenet supported the Cyprus Presidency of the Council of the European Union as a Gold Sponsor, providing high-speed telecommunication services at the Nicosia International Conference Center and the Secretariat’s offices. Empowering governance with top-tier connectivity! 🇪🇺🌟"],
+["What does Cablenet’s sponsorship of the Cyprus Presidency signify?", "Cablenet’s sponsorship underscores its commitment to supporting national initiatives and providing exceptional telecommunication services for high-profile events, highlighting its role as a leading service provider. Partnering for progress and excellence! 🏅📡"],
+["What expansion did Cablenet undertake in April 2012?", "In April 2012, Cablenet expanded its customer service reach by opening its second Customer Support Centre in Nicosia, marking the fourth centre in Cyprus. Expanding to serve you better! 📞🏢"],
+["How does the new Customer Support Centre benefit Cablenet customers?", "The new Customer Support Centre ensures that customers receive timely and efficient support, with more locations available to assist with their needs, improving overall service quality. Always here for you, wherever you are! 🌐👥"],
+["How does Cablenet demonstrate its commitment to innovation and customer service?", "Cablenet showcases its dedication to innovation and customer satisfaction through initiatives such as the introduction of Purple Max Mobile and Purple Max Internet, offering unlimited and ultra-fast services. Additionally, the appointment of Mr. Ioannis Mavridis as CEO, continuing the strategic growth initiated by Mr. Yiannos Michaelides, and the transition to digital TV reflect Cablenet's focus on providing superior service and cutting-edge technology. These efforts, combined with multiple ISO certifications and strategic partnerships, highlight Cablenet's role as a leader in the telecommunications industry. 🚀📈🌟"],
+    #Part6
+    ["What innovative package did Cablenet launch in December 2007?", "In December 2007, Cablenet introduced the talk+surf+view package, the first triple-play package in the local market, combining analogue TV, fixed telephony, and high-speed internet access through one connection. A revolutionary all-in-one solution! 📺📞🌐"],
+    ["What benefits does the triple-play package offer to customers?", "The triple-play package offers customers the convenience of having TV, internet, and telephony services bundled together, providing a seamless and integrated experience. All your essential services in one package! 📦✨"],
+    ["What are the achievements of Cablenet?", "Cablenet has achieved significant milestones over the years, including the launch of Purple Max Mobile and Internet in 2022, offering unlimited talk, SMS, and data, and worry-free internet speeds up to 1Gbps. In 2020, Cablenet became a Public Limited Liability Company and was listed on the Malta Stock Exchange, under the leadership of CEO Yiannos Michaelides. The company also integrated rich sports content into its TV services in 2019 and earned four ISO certifications in 2018, showcasing its commitment to quality and security. Additionally, Cablenet transitioned to digital TV in 2016, entered strategic agreements with GO plc in 2014, and continuously set new benchmarks for internet speed, reaching up to 100M by 2012. Their support for the Cyprus Presidency of the EU and expansion of customer support centers further underline their dedication to service excellence. 🌟🚀"],
+    ["What Internet connection speed options does Cablenet offer?", "Cablenet provides a range of high-speed Internet connection options to suit various needs: Purple Internet 200 offers 200Mbps download and 30Mbps upload speeds, Purple Internet 300 provides 300Mbps download and 30Mbps upload speeds, and Purple Max Internet 1G delivers blazing-fast 1Gbps download and 50Mbps upload speeds. Whether you need reliable speeds for everyday browsing or ultra-fast connectivity for demanding applications, Cablenet has you covered. 🚀🌐"],
+    ["How are Cablenet services installed?", "Cablenet services are seamlessly installed by delivering the connection from the Cablenet network to the roof of your apartment building or house. From there, services are connected and necessary equipment is installed at your home’s first TV installation outlet, ensuring a smooth setup process and optimal performance. 🏠📡"],
+    ["How are Cablenet services delivered to the subscriber premises?", "All of Cablenet’s services, including broadband, TV, and fixed telephony, are transmitted to subscribers' premises via coaxial or fibre-optic cable, installed by Cablenet’s technical staff. For coaxial installations, the cable terminates at a special termination box that splits the signal for the modem and TV services. For fibre-optic installations, the cable terminates at a fibre-optic converter, usually the fibre-optic service modem, ensuring reliable and high-quality service delivery. 📡🏠"],
+    ["Which RF frequencies can I use for internal distribution within a home to avoid interference with Cablenet’s signals?", "To ensure there is no interference with Cablenet’s signals, you should use the following RF frequencies for internal distribution within your home: Channel 34 – Frequency 578 MHz, Channel 35 – Frequency 586 MHz, and Channel 36 – Frequency 594 MHz. This will help maintain optimal performance and prevent signal conflicts. 📺🔧"],
+    ["What are the DVB-T broadcast frequencies on Cablenet’s network?", "The best way to tune into DVB-T channels on Cablenet’s network is to use the automatic Digital Aerial scanning feature of your TV or receiver. For manual tuning, the frequencies are: Channel 31 – Frequency 554 MHz (Velister Transport Stream 2), Channel 32 – Frequency 562 MHz (Velister Transport Stream 1), and Channel 33 – Frequency 570 MHz (CYBC Transport Stream). These settings will help you access all available DVB-T channels. 📺📶"],
+    ["Can I keep my existing telephone number when switching to Cablenet?", "Yes, you can easily keep your existing telephone number when switching to Cablenet by following the number portability procedure. Simply provide a copy of your last telephone bill and present your ID card to complete the process, ensuring a seamless transition. 📞🔄"],
+    ["Is there any charge for transferring my existing telephone number to Cablenet’s network?", "No, there is absolutely no charge for transferring your existing telephone number to Cablenet’s network, making the switch hassle-free and cost-effective. 💸✅"],
+    ["Can Cablenet provide me with a new telephone number if I don't already have one?", "Absolutely! Cablenet is happy to provide you with a new telephone number if you don’t already have one, ensuring you stay connected without any delays. 📞✨"],
+    ["Can I have a telephone line in multiple rooms of my household?", "Yes, you can have a telephone line in more than one room of your household, provided the necessary wiring is in place. Cablenet’s telephone line is provided through the modem, and it’s up to you to manage the cabling distribution to other points within your premises. 🏠🔧"],
+    ["How much can I save by choosing Cablenet’s telephony service compared to other providers?", "By choosing Cablenet’s telephony service, you can enjoy significant savings with free calls between Cablenet’s fixed telephony subscribers and lower rates on both local and international calls. Get the best value for your telecommunication needs! 💰📞"],
+    ["Are there any additional features included with Cablenet’s telephony service?", "Yes, Cablenet’s telephony service comes with a variety of free features such as Caller ID, call forwarding, number withhold service, per-line blocking for numbers with prefixes 900 and 909, and international call blocking. For an additional monthly subscription of €3.55, you can access advanced features like do not disturb, call waiting, caller ID during call waiting, teleconferencing, remote call forwarding, wake-up calls, anonymous call rejection, and more. Enjoy a comprehensive telephony experience! 📞🌟"],
+    ["How does Calling Line Identification Presentation (CLIP) work with Cablenet’s service?", "With Calling Line Identification Presentation (CLIP), the telephone number of the incoming caller will be displayed on your phone screen, unless the caller has enabled the Calling Line Identification Restriction (CLIR) service to withhold their number. This feature enhances your call management and security. 📱🔍"],
+    ["How can I withhold my number when making a call with Cablenet’s service?", "To withhold your number, simply dial #31# before making the call. This Number Withholding service is provided free of charge, giving you control over your privacy. 🔒📞"],
+    ["What is Call Forwarding and how can I use it with Cablenet?", "Call Forwarding allows you to redirect incoming calls to another number. To activate Call Forwarding, dial 21 followed by the number you want your calls forwarded to, and to deactivate, dial ##21#. This service is free, and you can set it up for various scenarios such as when the line is busy, unanswered, or unreachable. Stay connected no matter where you are! 🔄📞"],
+    ["How do I activate and deactivate Call Forwarding for specific scenarios with Cablenet?", "You can activate Call Forwarding for specific scenarios by dialing the respective codes: For when the line is busy, dial 67 followed by the number, and deactivate with ##67#. For when you can’t answer, dial 61 followed by the number, and deactivate with ##61#. For when a call cannot be completed, dial 62 followed by the number, and deactivate with ##62#. All these services are free and ensure you never miss an important call. 🔄📞"],
+    ["How can I block outgoing or incoming calls with Cablenet’s service?", "To block outgoing calls, dial 33 followed by the Barring PIN. To unblock, dial #33 followed by the Barring PIN. For international calls, use 331 and for incoming calls while overseas, use 351. You can also change the default Barring PIN of 0000 using the code **03330*. This service is free and helps manage your call security and control. 🔒📞**"],
+    ["What is Plume HomePass® and how does it enhance my home network?", "Plume HomePass® is an advanced WiFi solution powered by the cloud, ensuring a reliable and fast connection in every room. It continuously learns about your internet needs, performs self-optimizations, and allocates bandwidth to the devices that need it most. The HomePass® App lets you manage your network, see device activity, and control access, providing unparalleled parental controls and guest access options. Take control of your home network with Plume HomePass®! 🌐🏠"],
+    ["How can I connect to the Internet using my mobile?", "To connect to the Internet using your mobile, you may need to manually set the APN if it doesn’t appear automatically. For iPhone devices, go to Settings > Cellular > Cellular Data Network, and type 'cablenet' under APN. For Android devices, navigate to Settings > Wireless & Networks or Connections > More Networks > Mobile Networks > Access Point Names, then select New APN, type 'cablenet' under Name, and save. For Windows 8 Phones, swipe left on the home screen, select Settings > Mobile Network > Add Internet APN, type 'cablenet', and save. 📱🌐"],
+    ["How can I create a hotspot?", "To create a mobile hotspot on an Android device, go to Settings > Network & internet > Hotspot & tethering, and toggle on Use Wi-Fi hotspot. For iPhone devices, go to Settings > Cellular > Personal Hotspot or Settings > Personal Hotspot, then tap the slider next to Allow Others to Join. Share your internet connection effortlessly! 📶🔥"],
+    ["What should I do if there is a network coverage issue in my area?", "If you experience network coverage issues, please contact our Customer Service Centre at 130. Our team will check the coverage in your area and assist you in resolving any issues. 🏠📞"],
+    ["Why can’t I make any calls?", "If you’re unable to make calls, it could be due to outgoing calls being blocked on your device or an outstanding balance. Please call our Customer Service Centre at 130 for further assistance and to resolve any issues. 📵🔧"],
+    ["Why is my mobile’s signal strength not always steady?", "Your mobile’s signal strength may fluctuate due to the distance from the nearest signal tower. As you move closer to or farther from a tower, the signal strength will change until you connect to another tower. 🌐📶"],
+    ["I can’t send SMS messages. What should I do?", "If you’re unable to send SMS messages, check the SMS settings on your device to ensure the message center number is set to +35794066666. This should resolve the issue. 📲✉️"],
+    ["In how many sizes is the SIM card available?", "Cablenet offers SIM cards in three sizes: SIM, MicroSIM, and NanoSIM, ensuring compatibility with all types of mobile devices. 📏📱"],
+    #Part6 Alternatives
+    ["What innovative package did Cablenet launch in December 2007?", "In December 2007, Cablenet introduced the talk+surf+view package, the first triple-play package in the local market, combining analogue TV, fixed telephony, and high-speed internet access through one connection. A revolutionary all-in-one solution! 📺📞🌐"],
+["What are the advantages of Cablenet’s triple-play package?", "The triple-play package offers customers the convenience of having TV, internet, and telephony services bundled together, providing a seamless and integrated experience. All your essential services in one package! 📦✨"],
+["What significant milestones has Cablenet achieved?", "Cablenet has achieved significant milestones over the years, including the launch of Purple Max Mobile and Internet in 2022, offering unlimited talk, SMS, and data, and worry-free internet speeds up to 1Gbps. In 2020, Cablenet became a Public Limited Liability Company and was listed on the Malta Stock Exchange, under the leadership of CEO Yiannos Michaelides. The company also integrated rich sports content into its TV services in 2019 and earned four ISO certifications in 2018, showcasing its commitment to quality and security. Additionally, Cablenet transitioned to digital TV in 2016, entered strategic agreements with GO plc in 2014, and continuously set new benchmarks for internet speed, reaching up to 100M by 2012. Their support for the Cyprus Presidency of the EU and expansion of customer support centers further underline their dedication to service excellence. 🌟🚀"],
+["What high-speed Internet options does Cablenet offer?", "Cablenet provides a range of high-speed Internet connection options to suit various needs: Purple Internet 200 offers 200Mbps download and 30Mbps upload speeds, Purple Internet 300 provides 300Mbps download and 30Mbps upload speeds, and Purple Max Internet 1G delivers blazing-fast 1Gbps download and 50Mbps upload speeds. Whether you need reliable speeds for everyday browsing or ultra-fast connectivity for demanding applications, Cablenet has you covered. 🚀🌐"],
+["How does Cablenet install its services?", "Cablenet services are seamlessly installed by delivering the connection from the Cablenet network to the roof of your apartment building or house. From there, services are connected and necessary equipment is installed at your home’s first TV installation outlet, ensuring a smooth setup process and optimal performance. 🏠📡"],
+["How are Cablenet services delivered to subscribers?", "All of Cablenet’s services, including broadband, TV, and fixed telephony, are transmitted to subscribers' premises via coaxial or fibre-optic cable, installed by Cablenet’s technical staff. For coaxial installations, the cable terminates at a special termination box that splits the signal for the modem and TV services. For fibre-optic installations, the cable terminates at a fibre-optic converter, usually the fibre-optic service modem, ensuring reliable and high-quality service delivery. 📡🏠"],
+["Which RF frequencies should be used for internal distribution to avoid interference with Cablenet’s signals?", "To ensure there is no interference with Cablenet’s signals, you should use the following RF frequencies for internal distribution within your home: Channel 34 – Frequency 578 MHz, Channel 35 – Frequency 586 MHz, and Channel 36 – Frequency 594 MHz. This will help maintain optimal performance and prevent signal conflicts. 📺🔧"],
+["What are the DVB-T broadcast frequencies on Cablenet’s network?", "The best way to tune into DVB-T channels on Cablenet’s network is to use the automatic Digital Aerial scanning feature of your TV or receiver. For manual tuning, the frequencies are: Channel 31 – Frequency 554 MHz (Velister Transport Stream 2), Channel 32 – Frequency 562 MHz (Velister Transport Stream 1), and Channel 33 – Frequency 570 MHz (CYBC Transport Stream). These settings will help you access all available DVB-T channels. 📺📶"],
+["Can I keep my existing telephone number when switching to Cablenet?", "Yes, you can easily keep your existing telephone number when switching to Cablenet by following the number portability procedure. Simply provide a copy of your last telephone bill and present your ID card to complete the process, ensuring a seamless transition. 📞🔄"],
+["Is there a charge for transferring my existing telephone number to Cablenet’s network?", "No, there is absolutely no charge for transferring your existing telephone number to Cablenet’s network, making the switch hassle-free and cost-effective. 💸✅"],
+["Can Cablenet provide me with a new telephone number if I don't have one?", "Absolutely! Cablenet is happy to provide you with a new telephone number if you don’t already have one, ensuring you stay connected without any delays. 📞✨"],
+["Can I have a telephone line in multiple rooms of my household?", "Yes, you can have a telephone line in more than one room of your household, provided the necessary wiring is in place. Cablenet’s telephone line is provided through the modem, and it’s up to you to manage the cabling distribution to other points within your premises. 🏠🔧"],
+["How much can I save with Cablenet’s telephony service compared to other providers?", "By choosing Cablenet’s telephony service, you can enjoy significant savings with free calls between Cablenet’s fixed telephony subscribers and lower rates on both local and international calls. Get the best value for your telecommunication needs! 💰📞"],
+["Are there any additional features with Cablenet’s telephony service?", "Yes, Cablenet’s telephony service comes with a variety of free features such as Caller ID, call forwarding, number withhold service, per-line blocking for numbers with prefixes 900 and 909, and international call blocking. For an additional monthly subscription of €3.55, you can access advanced features like do not disturb, call waiting, caller ID during call waiting, teleconferencing, remote call forwarding, wake-up calls, anonymous call rejection, and more. Enjoy a comprehensive telephony experience! 📞🌟"],
+["How does Calling Line Identification Presentation (CLIP) work with Cablenet’s service?", "With Calling Line Identification Presentation (CLIP), the telephone number of the incoming caller will be displayed on your phone screen, unless the caller has enabled the Calling Line Identification Restriction (CLIR) service to withhold their number. This feature enhances your call management and security. 📱🔍"],
+["How can I withhold my number when making a call with Cablenet’s service?", "To withhold your number, simply dial #31# before making the call. This Number Withholding service is provided free of charge, giving you control over your privacy. 🔒📞"],
+["What is Call Forwarding and how can I use it with Cablenet?", "Call Forwarding allows you to redirect incoming calls to another number. To activate Call Forwarding, dial 21 followed by the number you want your calls forwarded to, and to deactivate, dial ##21#. This service is free, and you can set it up for various scenarios such as when the line is busy, unanswered, or unreachable. Stay connected no matter where you are! 🔄📞"],
+["How do I activate and deactivate Call Forwarding for specific scenarios with Cablenet?", "You can activate Call Forwarding for specific scenarios by dialing the respective codes: For when the line is busy, dial 67 followed by the number, and deactivate with ##67#. For when you can’t answer, dial 61 followed by the number, and deactivate with ##61#. For when a call cannot be completed, dial 62 followed by the number, and deactivate with ##62#. All these services are free and ensure you never miss an important call. 🔄📞"],
+["How can I block outgoing or incoming calls with Cablenet’s service?", "To block outgoing calls, dial 33 followed by the Barring PIN. To unblock, dial #33 followed by the Barring PIN. For international calls, use 331 and for incoming calls while overseas, use 351. You can also change the default Barring PIN of 0000 using the code *03330. This service is free and helps manage your call security and control. 🔒📞"],
+["What is Plume HomePass® and how does it enhance my home network?", "Plume HomePass® is an advanced WiFi solution powered by the cloud, ensuring a reliable and fast connection in every room. It continuously learns about your internet needs, performs self-optimizations, and allocates bandwidth to the devices that need it most. The HomePass® App lets you manage your network, see device activity, and control access, providing unparalleled parental controls and guest access options. Take control of your home network with Plume HomePass®! 🌐🏠"],
+["How can I connect to the Internet using my mobile?", "To connect to the Internet using your mobile, you may need to manually set the APN if it doesn’t appear automatically. For iPhone devices, go to Settings > Cellular > Cellular Data Network, and type 'cablenet' under APN. For Android devices, navigate to Settings > Wireless & Networks or Connections > More Networks > Mobile Networks > Access Point Names, then select New APN, type 'cablenet' under Name, and save. For Windows 8 Phones, swipe left on the home screen, select Settings > Mobile Network > Add Internet APN, type 'cablenet', and save. 📱🌐"],
+["How can I create a hotspot?", "To create a mobile hotspot on an Android device, go to Settings > Network & internet > Hotspot & tethering, and toggle on Use Wi-Fi hotspot. For iPhone devices, go to Settings > Cellular > Personal Hotspot or Settings > Personal Hotspot, then tap the slider next to Allow Others to Join. Share your internet connection effortlessly! 📶🔥"],
+["What should I do if there is a network coverage issue in my area?", "If you experience network coverage issues, please contact our Customer Service Centre at 130. Our team will check the coverage in your area and assist you in resolving any issues. 🏠📞"],
+["Why can’t I make any calls?", "If you’re unable to make calls, it could be due to outgoing calls being blocked on your device or an outstanding balance. Please call our Customer Service Centre at 130 for further assistance and to resolve any issues. 📵🔧"],
+["Why is my mobile’s signal strength not always steady?", "Your mobile’s signal strength may fluctuate due to the distance from the nearest signal tower. As you move closer to or farther from a tower, the signal strength will change until you connect to another tower. 🌐📶"],
+["I can’t send SMS messages. What should I do?", "If you’re unable to send SMS messages, check the SMS settings on your device to ensure the message center number is set to +35794066666. This should resolve the issue. 📲✉️"],
+["In how many sizes is the SIM card available?", "Cablenet offers SIM cards in three sizes: SIM, MicroSIM, and NanoSIM, ensuring compatibility with all types of mobile devices. 📏📱"],
+["How does Cablenet provide innovative and integrated services to enhance customer experience?", "Cablenet continuously innovates and integrates services to enhance customer experience. With the introduction of the talk+surf+view package in 2007, the first triple-play package in the local market, customers enjoy a seamless combination of analogue TV, fixed telephony, and high-speed internet access. Cablenet's achievements, including launching Purple Max Mobile and Internet in 2022, transitioning to a Public Limited Liability Company in 2020, and integrating rich sports content into TV services in 2019, showcase its commitment to quality and innovation. With high-speed internet options, seamless service installations, and advanced telephony features, Cablenet ensures a comprehensive and superior experience for all subscribers. 🌟🚀📡"],
+    #Part7
+    ["What should I do if my phone keeps asking for a PIN or PUK?", "If your phone asks for a PIN or PUK, refer to the reverse side of your SIM card for this information. If lost, contact our Customer Service Centre at 130 to obtain your PUK and set a new PIN. The information can only be provided to the SIM card owner. 🔒📞"],
+    ["What is the ICCID number and where can I find it?", "The ICCID number is a unique international identification number for your SIM card, printed on the SIM card itself. This number is essential for identification and management purposes. 🔢💳"],
+    ["Where can I find my device’s IMEI?", "The IMEI number is located under your device’s battery, on the device’s packaging, or on the screen when you dial #06#. It's important to note this number for security and identification if your device is lost. 📦🔍"],
+    ["How will I be charged if I use my mobile overseas?", "Cablenet Mobile subscribers enjoy low roaming charges for voice calls, SMS, and data when connected to partner networks. Charges vary by billing zone and network, ensuring competitive rates while abroad. 🌍💬"],
+    ["What network speed will I have with my mobile service?", "With Cablenet’s mobile service, you will enjoy 4G network speeds, ensuring fast and reliable internet connectivity on the go. 📶🚀"],
+    ["How can I contact the Customer Service Centre when I’m overseas?", "While overseas, you can contact Cablenet’s Customer Service Centre by dialing +357 22255130. We are here to assist you, no matter where you are. 🌐📞"],
+    ["Are there any credit limits on my mobile plan that I should be aware of?", "Yes, all Cablenet mobile plans have a default Credit Limit of €50, which applies to out-of-bundle services such as additional minutes, SMS, international calls, and certain roaming charges. For more information, please call 130. 💳📱"],
+    ["Can I increase my default credit limit on my mobile plan?", "Yes, you can increase your default spending limit by €20 for an additional 30 days by sending an SMS with the code CL20 to 8844. For a higher increase, please call 130. 🆙💶"],
+    ["Why can’t I call or SMS anyone?", "If you can't call or SMS, try turning your device OFF and ON or toggling Airplane mode. Manually select another roaming partner if you're abroad. Ensure you're using the correct country prefix code (i.e., Cyprus +357). For further assistance, refer to our roaming partners list or call Customer Service. 📞✈️"],
+    ["Can I use the Internet plug&surf service while in an EU country?", "Currently, the Internet plug&surf service is only available within Cyprus and cannot be used while roaming in other EU countries. 🌍🚫"],
+    ["What do I need to be aware of when traveling near country borders?", "When traveling near country borders, use manual network selection on your mobile to avoid accidental roaming charges. Check the network provider name before use and turn off data roaming in your settings to prevent unexpected costs. 🌐📵"],
+    ["What does the Missed Call Notification service do?", "The Missed Call Notification service ensures you never miss a call by notifying you of every call you missed, even when your phone is switched off or out of range. Stay connected and informed at all times! 📞🔔"],
+    ["What information is included in the Missed Call Notification service’s text message?", "The text message from the Missed Call Notification service includes details such as the phone number that called you, the number of missed calls, and the date and time of the missed calls, keeping you fully updated. 📅📲"],
+    ["Is there a limit on the number of Missed Call Notifications I can receive within one day?", "No, there is no limit on the number of Missed Call Notifications you can receive in a single day, ensuring you are always informed about missed calls. 🚫🔢"],
+    ["Why does the notification message say ‘Unknown’?", "'Unknown' appears in the notification message when the caller has blocked their Caller ID, preventing their phone number from being displayed. 🔒❓"],
+    ["How can I deactivate the Missed Call Notification service?", "To deactivate the Missed Call Notification service, simply text MCN OFF to 8844. You will receive a confirmation SMS indicating that the service has been deactivated. 📴📩"],
+    ["Will the Missed Call Notification service work when I’m overseas?", "Yes, the Missed Call Notification service will work even when you are roaming overseas, ensuring you never miss important calls no matter where you are. 🌍📞"],
+    ["Can I send a text message to 8844 while I’m overseas?", "Yes, you can send a text message to 8844 while roaming overseas. The procedures for activating and deactivating the service remain the same. ✈️📩"],
+    ["Why do I see the number +35722250159 in the Call Forwarding settings after activating the Missed Call Notification service?", "When the Missed Call Notification service is activated, call forwarding is automatically set to +35722250159 to ensure the service functions correctly. 🔧📞"],
+    ["What happens if I delete or replace the number +35722250159 from call forwarding on my mobile phone?", "If you delete or replace the number +35722250159 from your call forwarding settings, the Missed Call Notification service will not function. You can re-add the number or reactivate the service to restore functionality. 🔄🔢"],
+    ["Will I be able to receive SMS from CablenetMCN if my mobile device's SMS Center is incorrect?", "Yes, you will still receive SMS from CablenetMCN even if your SMS Center number is incorrect, but you won't be able to send texts. The correct SMS Centre number is +35794066666. 📲✅"],
+    ["How can I set the APN internet settings on my mobile?", "For iPhone devices, go to Settings > Cellular > Data Network > APN and type 'cablenet'. For Android devices, go to Settings > Wireless & Networks or Connections > More Networks > Mobile Networks > Access Point Names, select New APN, type 'cablenet', and save. 📶🌐"],
+    ["How can I transfer my prepaid mobile number from another provider to Cablenet?", "To transfer your prepaid mobile number, visit any Cablenet store or apply online. Activation is completed within two working days after the transfer date. 🏢📞"],
+    ["How can I transfer my number from another provider to Cablenet?", "Visit any Cablenet store with your ID card/passport and a recent bill from your current provider. Activation will be completed within two working days. Choose from our available packages to suit your needs. 📋📱"],
+    ["How can I transfer balance to another Cablenet Prepaid user?", "To transfer balance, dial 121 followed by the recipient's Cablenet Prepaid number and the desired amount, then press Call. Both users will receive a confirmation text. 💸📲"],
+    ["Can I transfer my current mobile number to the Cablenet Prepaid service?", "Yes, you can transfer your number to Cablenet Prepaid at any Cablenet store or online. Stay connected with your current number! 🔄📞"],
+    ["Can I use my Cablenet Prepaid line overseas?", "Yes, you can use your Cablenet Prepaid line overseas. However, Gimme packages are not active while abroad. Roaming charges will be deducted from your account balance using top-up cards. 🌍💬"],
+    ["How can I transfer my existing mobile number to Cablenet?", "Transfer your line to Cablenet easily at any store or online. We handle the process, and you’ll just need to replace your SIM card when notified. Required documents include your ID/Passport and a recent bill from your current provider. 📑📞"],
+    #Alternatives Part7
+["What should I do if my phone keeps asking for a PIN or PUK?", "If your phone asks for a PIN or PUK, refer to the reverse side of your SIM card for this information. If lost, contact our Customer Service Centre at 130 to obtain your PUK and set a new PIN. The information can only be provided to the SIM card owner. 🔒📞"],
+["What is the ICCID number and where can I find it?", "The ICCID number is a unique international identification number for your SIM card, printed on the SIM card itself. This number is essential for identification and management purposes. 🔢💳"],
+["Where can I find my device’s IMEI?", "The IMEI number is located under your device’s battery, on the device’s packaging, or on the screen when you dial #06#. It's important to note this number for security and identification if your device is lost. 📦🔍"],
+["How will I be charged if I use my mobile overseas?", "Cablenet Mobile subscribers enjoy low roaming charges for voice calls, SMS, and data when connected to partner networks. Charges vary by billing zone and network, ensuring competitive rates while abroad. 🌍💬"],
+["What network speed will I have with my mobile service?", "With Cablenet’s mobile service, you will enjoy 4G network speeds, ensuring fast and reliable internet connectivity on the go. 📶🚀"],
+["How can I contact the Customer Service Centre when I’m overseas?", "While overseas, you can contact Cablenet’s Customer Service Centre by dialing +357 22255130. We are here to assist you, no matter where you are. 🌐📞"],
+["Are there any credit limits on my mobile plan that I should be aware of?", "Yes, all Cablenet mobile plans have a default Credit Limit of €50, which applies to out-of-bundle services such as additional minutes, SMS, international calls, and certain roaming charges. For more information, please call 130. 💳📱"],
+["Can I increase my default credit limit on my mobile plan?", "Yes, you can increase your default spending limit by €20 for an additional 30 days by sending an SMS with the code CL20 to 8844. For a higher increase, please call 130. 🆙💶"],
+["Why can’t I call or SMS anyone?", "If you can't call or SMS, try turning your device OFF and ON or toggling Airplane mode. Manually select another roaming partner if you're abroad. Ensure you're using the correct country prefix code (i.e., Cyprus +357). For further assistance, refer to our roaming partners list or call Customer Service. 📞✈️"],
+["Can I use the Internet plug&surf service while in an EU country?", "Currently, the Internet plug&surf service is only available within Cyprus and cannot be used while roaming in other EU countries. 🌍🚫"],
+["What should I do when traveling near country borders?", "When traveling near country borders, use manual network selection on your mobile to avoid accidental roaming charges. Check the network provider name before use and turn off data roaming in your settings to prevent unexpected costs. 🌐📵"],
+["What does the Missed Call Notification service do?", "The Missed Call Notification service ensures you never miss a call by notifying you of every call you missed, even when your phone is switched off or out of range. Stay connected and informed at all times! 📞🔔"],
+["What information is included in the Missed Call Notification service’s text message?", "The text message from the Missed Call Notification service includes details such as the phone number that called you, the number of missed calls, and the date and time of the missed calls, keeping you fully updated. 📅📲"],
+["Is there a limit on the number of Missed Call Notifications I can receive within one day?", "No, there is no limit on the number of Missed Call Notifications you can receive in a single day, ensuring you are always informed about missed calls. 🚫🔢"],
+["Why does the notification message say ‘Unknown’?", "'Unknown' appears in the notification message when the caller has blocked their Caller ID, preventing their phone number from being displayed. 🔒❓"],
+["How can I deactivate the Missed Call Notification service?", "To deactivate the Missed Call Notification service, simply text MCN OFF to 8844. You will receive a confirmation SMS indicating that the service has been deactivated. 📴📩"],
+["Will the Missed Call Notification service work when I’m overseas?", "Yes, the Missed Call Notification service will work even when you are roaming overseas, ensuring you never miss important calls no matter where you are. 🌍📞"],
+["Can I send a text message to 8844 while I’m overseas?", "Yes, you can send a text message to 8844 while roaming overseas. The procedures for activating and deactivating the service remain the same. ✈️📩"],
+["Why do I see the number +35722250159 in the Call Forwarding settings after activating the Missed Call Notification service?", "When the Missed Call Notification service is activated, call forwarding is automatically set to +35722250159 to ensure the service functions correctly. 🔧📞"],
+["What happens if I delete or replace the number +35722250159 from call forwarding on my mobile phone?", "If you delete or replace the number +35722250159 from your call forwarding settings, the Missed Call Notification service will not function. You can re-add the number or reactivate the service to restore functionality. 🔄🔢"],
+["Will I be able to receive SMS from CablenetMCN if my mobile device's SMS Center is incorrect?", "Yes, you will still receive SMS from CablenetMCN even if your SMS Center number is incorrect, but you won't be able to send texts. The correct SMS Centre number is +35794066666. 📲✅"],
+["How can I set the APN internet settings on my mobile?", "For iPhone devices, go to Settings > Cellular > Data Network > APN and type 'cablenet'. For Android devices, go to Settings > Wireless & Networks or Connections > More Networks > Mobile Networks > Access Point Names, select New APN, type 'cablenet', and save. 📶🌐"],
+["How can I transfer my prepaid mobile number from another provider to Cablenet?", "To transfer your prepaid mobile number, visit any Cablenet store or apply online. Activation is completed within two working days after the transfer date. 🏢📞"],
+["How can I transfer my number from another provider to Cablenet?", "Visit any Cablenet store with your ID card/passport and a recent bill from your current provider. Activation will be completed within two working days. Choose from our available packages to suit your needs. 📋📱"],
+["How can I transfer balance to another Cablenet Prepaid user?", "To transfer balance, dial 121 followed by the recipient's Cablenet Prepaid number and the desired amount, then press Call. Both users will receive a confirmation text. 💸📲"],
+["Can I transfer my current mobile number to the Cablenet Prepaid service?", "Yes, you can transfer your number to Cablenet Prepaid at any Cablenet store or online. Stay connected with your current number! 🔄📞"],
+["Can I use my Cablenet Prepaid line overseas?", "Yes, you can use your Cablenet Prepaid line overseas. However, Gimme packages are not active while abroad. Roaming charges will be deducted from your account balance using top-up cards. 🌍💬"],
+["How can I transfer my existing mobile number to Cablenet?", "Transfer your line to Cablenet easily at any store or online. We handle the process, and you’ll just need to replace your SIM card when notified. Required documents include your ID/Passport and a recent bill from your current provider. 📑📞"],
+["How does Cablenet support seamless mobile services and user experience?", "Cablenet ensures seamless mobile services and an enhanced user experience through various offerings like the twinSIM service, which allows a second SIM card with the same number, and low roaming charges for international travel. The Missed Call Notification service keeps you informed of missed calls even when your phone is off or out of range, and advanced features like Call Forwarding and APN settings ensure you stay connected. Additionally, Cablenet provides convenient ways to transfer your number from other providers and manage credit limits, ensuring a comprehensive and user-friendly mobile service. 🌐📞🚀"],
+    #Part8
+    ["How can I check my mobile plan’s available balance?", "Dial 101# and use the interactive menu to check your available balance. The displayed balance reflects your bundle’s remaining amount. 💰📱"],
+    ["Which bands does the Cablenet mobile network support?", "The Cablenet mobile telephony network supports the B7 – 2600MHz and B20 – 800MHz bands, ensuring strong and reliable connectivity. 📶📡"],
+    ["I want to cancel my subscription, and my contract hasn’t expired yet. What do I need to pay?", "If you wish to cancel your subscription before the contract expires, please contact Cablenet Customer Service to discuss any applicable early termination fees and the cancellation process. 💼📞"],
+    ["What is the difference between an eSIM and a SIM?", "The main difference between a SIM card and an eSIM lies in their physical presence. A SIM card is a physical card that needs to be inserted into a device, while an eSIM is embedded directly into the device’s hardware. This allows you to use mobile services without the need for a physical card, offering greater convenience and flexibility. 📱🔄"],
+    ["How does eSIM work?", "The eSIM performs the same functions as a physical SIM. Instead of inserting a card, you simply scan a unique QR code that contains all the necessary data for your device to connect to Cablenet’s network. It's a seamless and modern way to stay connected! 📶📲"],
+    ["Is my eSIM QR code unique?", "Yes, eSIM QR codes are unique and specific to each eSIM. Once scanned and activated, the QR code becomes inactive and cannot be reused, ensuring secure and exclusive access to your mobile services. 🔒🔍"],
+    ["How can I change to an eSIM?", "To switch from a physical SIM to an eSIM, visit any Cablenet shop. The charge for this service will be according to the Company’s Pricelist. This process makes it easy to upgrade to the latest technology. 🏢💳"],
+    ["How do I set up my eSIM?", "To set up your eSIM, follow these steps: 1. Visit any Cablenet store to get an eSIM Voucher. 2. Go to your device’s settings and locate the eSIM or mobile settings (your device will have to be connected to the internet).3. Select the option to add or activate an eSIM profile. 4. Scan the voucher’s QR code. 5. Follow the on-screen instructions to complete the eSIM activation process. 📲"],
+    ["How many eSIM profiles can I have on my eSIM?", "You can have only one profile per eSIM, but many modern devices support multiple eSIM profiles, depending on their capabilities. 📱🔄"],
+    ["Is my device eSIM compatible?", "Check the list of certified devices in our supported eSIM devices section to see if your device is compatible. Staying updated ensures your device supports the latest technology. 📋✔️"],
+    ["What is the charge for eSIM?", "There is no specific up-front cost for eSIMs, apart from the Mobile Service Registration Fee applicable to all new mobile subscriptions. 💳📞"],
+    ["How safe is eSIM?", "eSIM technology is secure, utilizing encryption and authentication protocols similar to those used by physical SIM cards, ensuring your data remains protected. 🔒🛡️"],
+    ["Where can I find my PIN and PUK numbers?", "The PIN and PUK codes are located on your eSIM Voucher, providing easy access to important security information. 📄🔢"],
+    ["Which mobile services work with eSIM?", "All mobile services that work with a physical SIM are also compatible with an eSIM, offering the same functionality and convenience. 📶📲"],
+    ["If I change to an eSIM, will I still be able to use my old SIM card?", "Once your eSIM is activated, your physical SIM will be deactivated, allowing you to transition fully to the new technology. 🚫💳"],
+    ["How many eSIMs can I have with the same number?", "Only one eSIM can be active per number, ensuring that each eSIM is uniquely associated with a single subscription. 🔢📱"],
+    ["Can I have both a physical SIM and an eSIM on my device?", "Depending on your device's capabilities, you may be able to use both a physical SIM and an eSIM simultaneously. This dual setup offers flexibility for managing multiple lines. 📲🔄"],
+    ["What happens if I lose my phone?", "If your phone is lost or stolen, immediately contact our Call Center at 130 to deactivate the eSIM and prevent unauthorized use. We can replace your eSIM at any Cablenet shop, with the replacement charge as per the Company’s Pricelist. 📞🚫"],
+    ["How do I uninstall my eSIM from a device?", "To uninstall an eSIM, go to the device settings, find the eSIM or cellular settings section, select the eSIM profile to remove, and follow the instructions. This allows for easy management of your eSIM profiles. 🔧📱"],
+    ["Is there a limit on how many times I can transfer my eSIM to another device?", "You can transfer your eSIM to another compatible device up to six times. After that, you will need to obtain a new eSIM Voucher. This ensures the flexibility of using your eSIM across different devices. 🔄6️⃣"],
+    ["If I perform a factory reset on my device, will my eSIM profile be affected?", "A factory reset will not affect your eSIM profile unless you choose to delete it from the device. Your eSIM remains active through resets, maintaining your connectivity. 🔄📲"],
+    ["Can I still use my eSIM if I travel abroad?", "Yes, you can use your eSIM abroad just like a physical SIM, enjoying seamless connectivity wherever you go. 🌍✈️"],
+    ["Can I switch back from an eSIM to a physical SIM?", "Yes, you can switch back to a physical SIM by visiting a Cablenet store, offering flexibility in how you manage your mobile service. 🔄💳"],
+    ["Can I transfer my eSIM to a new device?", "Yes, you can transfer your eSIM to a new device by deleting it from the current device and scanning the QR code on your eSIM Voucher on the new device. 📲🔄"],
+    ["My device is not supported by your network for eSIM at the current time. Are you planning to include more eSIM-supported devices in the future?", "Yes, Cablenet regularly updates its list of supported eSIM devices. Stay tuned for new additions to ensure your device remains compatible. 📋📱"],
+    ["Can I have an eSIM with the Cablenet Prepaid service?", "Yes, you can have an eSIM with the Cablenet Prepaid service, available at Cablenet stores and charged according to the Company’s Pricelist. Enjoy prepaid convenience with modern eSIM technology. 💳📱"],
+    ["Is my eSIM QR code unique?", "Yes, each eSIM QR code is unique and contains specific information related to your subscription. Once the QR code is scanned and the eSIM is activated on your device, the QR code is deactivated and cannot be reused, ensuring secure and exclusive access to your mobile services. 🔒🔍"],
+    ["How can I change to an eSIM?", "You can visit any Cablenet store to swap your physical SIM card for an eSIM. The charge for this service will be according to the Cablenet Pricelist valid at the time. 🏢💳"],
+    ["How many eSIM profiles can I have on my eSIM?", "You can have only one profile per eSIM. 📱🔄"],
+    #Alternatives Part8
+    ["How can I check my mobile plan’s available balance?", "Dial 101# and use the interactive menu to check your available balance. The displayed balance reflects your bundle’s remaining amount. 💰📱"],
+["Which bands does the Cablenet mobile network support?", "The Cablenet mobile telephony network supports the B7 – 2600MHz and B20 – 800MHz bands, ensuring strong and reliable connectivity. 📶📡"],
+["I want to cancel my subscription, and my contract hasn’t expired yet. What do I need to pay?", "If you wish to cancel your subscription before the contract expires, please contact Cablenet Customer Service to discuss any applicable early termination fees and the cancellation process. 💼📞"],
+["What is the difference between an eSIM and a SIM?", "The main difference between a SIM card and an eSIM lies in their physical presence. A SIM card is a physical card that needs to be inserted into a device, while an eSIM is embedded directly into the device’s hardware. This allows you to use mobile services without the need for a physical card, offering greater convenience and flexibility. 📱🔄"],
+["How does eSIM work?", "The eSIM performs the same functions as a physical SIM. Instead of inserting a card, you simply scan a unique QR code that contains all the necessary data for your device to connect to Cablenet’s network. It's a seamless and modern way to stay connected! 📶📲"],
+["Is my eSIM QR code unique?", "Yes, eSIM QR codes are unique and specific to each eSIM. Once scanned and activated, the QR code becomes inactive and cannot be reused, ensuring secure and exclusive access to your mobile services. 🔒🔍"],
+["How can I change to an eSIM?", "To switch from a physical SIM to an eSIM, visit any Cablenet shop. The charge for this service will be according to the Company’s Pricelist. This process makes it easy to upgrade to the latest technology. 🏢💳"],
+["How many eSIM profiles can I have on my eSIM?", "You can have only one profile per eSIM, but many modern devices support multiple eSIM profiles, depending on their capabilities. 📱🔄"],
+["Is my device eSIM compatible?", "Check the list of certified devices in our supported eSIM devices section to see if your device is compatible. Staying updated ensures your device supports the latest technology. 📋✔️"],
+["What is the charge for eSIM?", "There is no specific up-front cost for eSIMs, apart from the Mobile Service Registration Fee applicable to all new mobile subscriptions. 💳📞"],
+["How safe is eSIM?", "eSIM technology is secure, utilizing encryption and authentication protocols similar to those used by physical SIM cards, ensuring your data remains protected. 🔒🛡️"],
+["Where can I find my PIN and PUK numbers?", "The PIN and PUK codes are located on your eSIM Voucher, providing easy access to important security information. 📄🔢"],
+["Which mobile services work with eSIM?", "All mobile services that work with a physical SIM are also compatible with an eSIM, offering the same functionality and convenience. 📶📲"],
+["If I change to an eSIM, will I still be able to use my old SIM card?", "Once your eSIM is activated, your physical SIM will be deactivated, allowing you to transition fully to the new technology. 🚫💳"],
+["How many eSIMs can I have with the same number?", "Only one eSIM can be active per number, ensuring that each eSIM is uniquely associated with a single subscription. 🔢📱"],
+["Can I have both a physical SIM and an eSIM on my device?", "Depending on your device's capabilities, you may be able to use both a physical SIM and an eSIM simultaneously. This dual setup offers flexibility for managing multiple lines. 📲🔄"],
+["What happens if I lose my phone?", "If your phone is lost or stolen, immediately contact our Call Center at 130 to deactivate the eSIM and prevent unauthorized use. We can replace your eSIM at any Cablenet shop, with the replacement charge as per the Company’s Pricelist. 📞🚫"],
+["How do I uninstall my eSIM from a device?", "To uninstall an eSIM, go to the device settings, find the eSIM or cellular settings section, select the eSIM profile to remove, and follow the instructions. This allows for easy management of your eSIM profiles. 🔧📱"],
+["Is there a limit on how many times I can transfer my eSIM to another device?", "You can transfer your eSIM to another compatible device up to six times. After that, you will need to obtain a new eSIM Voucher. This ensures the flexibility of using your eSIM across different devices. 🔄6️⃣"],
+["If I perform a factory reset on my device, will my eSIM profile be affected?", "A factory reset will not affect your eSIM profile unless you choose to delete it from the device. Your eSIM remains active through resets, maintaining your connectivity. 🔄📲"],
+["Can I still use my eSIM if I travel abroad?", "Yes, you can use your eSIM abroad just like a physical SIM, enjoying seamless connectivity wherever you go. 🌍✈️"],
+["Can I switch back from an eSIM to a physical SIM?", "Yes, you can switch back to a physical SIM by visiting a Cablenet store, offering flexibility in how you manage your mobile service. 🔄💳"],
+    #Part9
+    ["Is my device eSIM compatible?", "Check if your device is included in our list of certified devices that support eSIM services. Staying updated ensures your device supports the latest technology. 📋✔️"],
+    ["How much does an eSIM cost?", "There is no upfront cost for eSIMs, apart from the Mobile Telephony Service activation fee applicable to all new Mobile Telephony subscriptions. 💳📞"],
+    ["How safe is an eSIM?", "eSIM technology is secure, utilizing encryption and authentication protocols similar to those used by physical SIM cards, ensuring your data remains protected. 🔒🛡️"],
+    ["Where can I find the PIN and PUK numbers?", "The PIN and PUK codes are printed on your eSIM Voucher, providing easy access to important security information. 📄🔢"],
+    ["Which mobile telephony services work with an eSIM?", "All mobile telephony services that work with a physical SIM are also compatible with an eSIM, offering the same functionality and convenience. 📶📲"],
+    ["If I switch to an eSIM, will I still be able to use my existing SIM card?", "Your physical SIM card will be deactivated upon activation of the eSIM, allowing a smooth transition to the new technology. 🚫💳"],
+    ["How many eSIMs can I have with the same number?", "Only one eSIM can be active per number, ensuring that each eSIM is uniquely associated with a single subscription. 🔢📱"],
+    ["Can I have both a physical SIM card and an eSIM on my device at the same time?", "Depending on your device's capabilities, you may be able to use both a physical SIM card and an eSIM simultaneously, offering flexibility for managing multiple lines. 📲🔄"],
+    ["What happens if I lose my mobile?", "If your mobile is stolen or lost, immediately contact our Call Center at 130 (+357 22255130 from abroad) to deactivate the eSIM and prevent unauthorized use. We can replace your eSIM at any Cablenet store, with the replacement charge as per the Company’s Pricelist. 📞🚫"],
+    ["Is there a limit to how many times I can transfer my eSIM to another device?", "You can transfer your eSIM to another compatible device up to 6 times. After that, you will have to get a new eSIM Voucher. 🔄"],
+    ["If I restore my device to factory settings, will it affect my eSIM profile?", "The eSIM will not be affected unless it is completely deleted from the device. 🔧"],
+    ["Can I switch back from an eSIM to a physical SIM card?", "Yes, you can switch back to a physical SIM card by visiting a Cablenet store, offering flexibility in how you manage your mobile service. 🔄💳"],
+    ["Can I transfer my eSIM to a new device?", "Yes, you can transfer your eSIM to a new device by deleting it from the current device and scanning the QR code on your eSIM Voucher on the new device. 📲🔄"],
+    ["Your network doesn’t currently offer eSIM support for my device. Are you planning to include more eSIM-compatible devices in the future?", "Yes, new devices that support our eSIM service will be added regularly. You can see the updated list of certified devices in the above section. 📋📱"],
+    ["How can I activate the Missed Call Notification service?", "To activate the Missed Call Notification service, simply send an SMS with the keyword MCN ON to 8844. The service will be activated automatically, and you will receive a confirmation message via SMS. 📩✅"],
+    ["What does the Missed Call Notification service do?", "Once activated, the Missed Call Notification service will notify you of every call you missed, even when your phone is switched off or out of range. Stay informed and never miss an important call! 📞🔔"],
+    ["What information is included in the Missed Call Notification service’s text message?", "The notification text message includes the phone number that called you, the number of missed calls, and the date and time of each missed call. This detailed information ensures you are fully aware of all missed communications. 📲📅"],
+    ["Is there a limit on the number of Missed Call Notifications I can receive within one day?", "There is no limit to the number of Missed Call Notifications you can receive in a day, ensuring you are always kept up-to-date with all missed calls. 🚫🔢"],
+    ["Why does the notification message say ‘Unknown’?", "The notification message will display ‘Unknown’ when the caller has blocked their Caller ID, preventing their phone number from being displayed. 🔒❓"],
+    ["How can I deactivate the Missed Call Notification service?", "To deactivate the Missed Call Notification service, send an SMS with the keyword MCN OFF to 8844. You will receive a confirmation message via SMS indicating that the service has been deactivated. 📴📩"],
+    ["Will the Missed Call Notification service work when I’m overseas?", "Yes, the Missed Call Notification service will function even when you are roaming overseas, ensuring you never miss an important call regardless of your location. 🌍📞"],
+    ["Can I send a text message to 8844 while I’m overseas?", "Yes, you can send a text message to 8844 while roaming. The procedures for activating and deactivating the service remain the same, providing seamless functionality abroad. ✈️📩"],
+    ["Why do I see the number +35722250159 in the Call Forwarding settings after activating the Missed Call Notification service?", "When the Missed Call Notification service is activated, call forwarding is automatically set to +35722250159 to ensure the service operates correctly. 🔧📞"],
+    ["What happens if I delete or replace the number +35722250159 from call forwarding on my mobile phone?", "If you delete or replace the number +35722250159 in your call forwarding settings, the Missed Call Notification service will not function. You can re-add the number or reactivate the service to restore functionality. 🔄🔢"],
+    ["Will I be able to receive SMS from CablenetMCN if my mobile device's SMS Center is incorrect?", "Yes, you will still receive SMS from CablenetMCN even if your SMS Center number is incorrect, but you won't be able to send texts. The correct SMS Centre number is +35794066666. 📲✅"],
+    ["How can I activate Calling Line Identification Restriction (CLIR)?", "To selectively activate Calling Line Identification Restriction (CLIR) for a call, dial #31# before the number you wish to call. For permanently withholding your number, refer to your device’s user manual or the Mobile Supplementary Services for detailed instructions. 📵🔢"],
+    ["How can I divert calls and how will I be charged?", "The Call Forwarding Service allows you to divert received calls to any phone number within Cyprus. When you activate Call Forwarding, you will be charged as if you are making a call from your number to the one where your call is forwarded. Note that mobile telephony networks do not support forwarding SMS or MMS messages. To activate Call Forwarding, check your device’s user manual or the Mobile Supplementary Services for instructions. 🔄📞"],
+    ["How can I activate/deactivate blocking of 900 (premium rate) numbers?", "By default, Cablenet’s mobile network allows calls to 900 numbers. To block or unblock calls to 900 numbers, contact the Customer Service Center at 130. This ensures you control access to premium rate numbers based on your needs. 🚫📞"],
+    ["How can I activate Missed Call Notification?", "To activate the Missed Call Notification service, send an SMS with the keyword MCN ON to 8844. The service will be activated automatically, and you will receive a confirmation message via SMS. 📩✅"],
+    ["I am another company’s customer. Could I get Cablenet Mobile and keep the same number?", "Absolutely! You can keep your existing number by following the number portability procedure. For more information on number portability and the required documentation, please call the Customer Service Centre at 130. There is no charge for the transfer procedure, ensuring a smooth and cost-effective transition. 📞🔄"],
+    ["How will I be notified that the portability procedure has been completed?", "You will receive an SMS notification on your mobile the day before the scheduled transfer date. To activate the service, insert the new Cablenet SIM card into your mobile on the specified day and time. 📲✅"],
+    ["Can I transfer my current mobile number to the Cablenet Prepaid service?", "Yes, you can transfer your number to the Cablenet Prepaid service at any Cablenet Store or online. This makes it easy to switch and enjoy prepaid convenience with your existing number. 🔄📞"],
+    ["How can I transfer my number from another provider to Cablenet?", "To transfer your number from another provider to Cablenet, visit any Cablenet store and present your ID card/passport and a recent bill from your current provider. Activation will be completed within two working days from the date of the number transfer. You can explore available packages and choose the one that best suits your needs. 📋📱"],
+    ["Where can I buy a Cablenet Prepaid SIM pack and Cablenet Prepaid top-up cards?", "You can buy a Cablenet Prepaid SIM pack and top-up cards at any Cablenet Store, selected resellers, kiosks, and mini-markets. The SIM pack costs €2 and includes €1 of credit. Top-up cards are available in denominations of €2, €5, €10, €20, and €50. 🏢💳"],
+    ["How can I top-up my Cablenet Prepaid mobile account?", "To top-up your account, purchase a Cablenet Prepaid top-up card. Dial 10314-digit code# and press Call. You will receive a confirmation SMS with the credited amount. 📲✅"],
+    ["How often can I top-up my account?", "You must top-up each time your credit runs out or expires. Each top-up card has a unique expiry date: €2 cards last 30 days, €5 cards last 180 days, and cards for €10 or more last 365 days. ⏳💳"],
+    ["Will my Cablenet Prepaid balance be transferred if I do not use it within the validity period?", "No, the remaining unused balance will not be transferred and will not be added to another top-up card balance. 💸❌"],
+    ["How can I check my Cablenet Prepaid available balance?", "Dial 101# and use the interactive menu to check your available balance. The balance displayed includes all remaining valid top-up credits and Gimme prepaid plan credits. 📱💰"],
+    ["How can I transfer money to another Cablenet Prepaid user?", "Dial 121 followed by the recipient’s Cablenet Prepaid number, then , the desired amount, and #, then press DIAL (e.g., 12194xxxxxx5#). Both users will receive a confirmation SMS. 💸📲"],
+    ["What are the Gimme prepaid plans?", "Gimme prepaid plans offer great value for talk time, SMS, and data. For more information and available options, click here. 💬📶"],
+    #Alternatives Part9
+    ["Does my device support eSIM technology?", "Check if your device is listed among our certified eSIM-compatible devices. Stay updated to enjoy the latest tech! 📋✔️"],
+["Are there any charges for an eSIM?", "There's no upfront cost for eSIMs, aside from the Mobile Telephony Service activation fee for new subscriptions. 💳📞"],
+["Is eSIM technology secure?", "Yes, eSIMs use robust encryption and authentication protocols similar to physical SIM cards, keeping your data safe. 🔒🛡️"],
+["Where can I locate the PIN and PUK codes?", "The PIN and PUK codes are printed on your eSIM Voucher, providing easy access to important security information. 📄🔢"],
+["Which services are compatible with an eSIM?", "All mobile telephony services that work with a physical SIM are also compatible with an eSIM, offering the same functionality and convenience. 📶📲"],
+["Will my physical SIM card still work if I switch to an eSIM?", "Your physical SIM card will be deactivated upon activation of the eSIM, allowing a smooth transition to the new technology. 🚫💳"],
+["How many eSIMs can be active on the same number?", "Only one eSIM can be active per number, ensuring that each eSIM is uniquely associated with a single subscription. 🔢📱"],
+["Can I use a physical SIM card and an eSIM at the same time on my device?", "Depending on your device's capabilities, you may be able to use both a physical SIM card and an eSIM simultaneously, offering flexibility for managing multiple lines. 📲🔄"],
+["What should I do if I lose my mobile?", "If your mobile is stolen or lost, immediately contact our Call Center at 130 (+357 22255130 from abroad) to deactivate the eSIM and prevent unauthorized use. We can replace your eSIM at any Cablenet store, with the replacement charge as per the Company’s Pricelist. 📞🚫"],
+["How do I remove an eSIM from a device?", "To uninstall your eSIM from a specific device, follow these steps: 1. In your device’s settings, locate the eSIM or mobile settings. 2. Locate the option to manage or uninstall an eSIM profile. 3. Select the eSIM profile you wish to uninstall and follow the on-screen instructions. 📴"],
+["Is there a limit to transferring my eSIM to different devices?", "You can transfer your eSIM to a new device by deleting it from the current device and scanning the QR code on your eSIM Voucher on the new device. 📲🔄"],
+["What happens to my eSIM if I restore my device to factory settings?", "Restoring your device to factory settings will erase your eSIM profile. You will need to reinstall it using the eSIM Voucher. 🔄📲"],
+["Can I use my eSIM while traveling internationally?", "Yes, you can use your eSIM when traveling overseas, ensuring seamless connectivity wherever you go. 🌍📱"],
+["Is it possible to revert from an eSIM to a physical SIM card?", "Yes, you can switch back to a physical SIM card by visiting a Cablenet store, offering flexibility in how you manage your mobile service. 🔄💳"],
+["Can I move my eSIM to a different device?", "Yes, you can transfer your eSIM to a new device by deleting it from the current device and scanning the QR code on your eSIM Voucher on the new device. 📲🔄"],
+["Will more devices become eSIM-compatible in the future?", "Yes, new devices that support our eSIM service will be added regularly. You can see the updated list of certified devices in the above section. 📋📱"],
+["How do I enable the Missed Call Notification service?", "To activate the Missed Call Notification service, simply send an SMS with the keyword MCN ON to 8844. The service will be activated automatically, and you will receive a confirmation message via SMS. 📩✅"],
+["What does the Missed Call Notification service do?", "Once activated, the Missed Call Notification service will notify you of every call you missed, even when your phone is switched off or out of range. Stay informed and never miss an important call! 📞🔔"],
+["What details are included in a Missed Call Notification?", "The notification text message includes the phone number that called you, the number of missed calls, and the date and time of each missed call. This detailed information ensures you are fully aware of all missed communications. 📲📅"],
+["Is there a daily limit on Missed Call Notifications?", "There is no limit to the number of Missed Call Notifications you can receive in a day, ensuring you are always kept up-to-date with all missed calls. 🚫🔢"],
+["Why does the notification show 'Unknown'?", "The notification message will display ‘Unknown’ when the caller has blocked their Caller ID, preventing their phone number from being displayed. 🔒❓"],
+["How do I turn off the Missed Call Notification service?", "To deactivate the Missed Call Notification service, send an SMS with the keyword MCN OFF to 8844. You will receive a confirmation message via SMS indicating that the service has been deactivated. 📴📩"],
+["Will the Missed Call Notification work while I'm abroad?", "Yes, the Missed Call Notification service will function even when you are roaming overseas, ensuring you never miss an important call regardless of your location. 🌍📞"],
+["Can I send an SMS to 8844 while abroad?", "Yes, you can send a text message to 8844 while roaming. The procedures for activating and deactivating the service remain the same, providing seamless functionality abroad. ✈️📩"],
+["Why does my Call Forwarding setting show +35722250159?", "When the Missed Call Notification service is activated, call forwarding is automatically set to +35722250159 to ensure the service operates correctly. 🔧📞"],
+["What if I change the call forwarding number from +35722250159?", "If you delete or replace the number +35722250159 in your call forwarding settings, the Missed Call Notification service will not function. You can re-add the number or reactivate the service to restore functionality. 🔄🔢"],
+["Will I receive SMS from CablenetMCN with an incorrect SMS Center?", "Yes, you will still receive SMS from CablenetMCN even if your SMS Center number is incorrect, but you won't be able to send texts. The correct SMS Centre number is +35794066666. 📲✅"],
+["How do I enable Calling Line Identification Restriction (CLIR)?", "To selectively activate Calling Line Identification Restriction (CLIR) for a call, dial #31# before the number you wish to call. For permanently withholding your number, refer to your device’s user manual or the Mobile Supplementary Services for detailed instructions. 📵🔢"],
+["How do I set up call forwarding and what are the charges?", "The Call Forwarding Service allows you to divert received calls to any phone number within Cyprus. When you activate Call Forwarding, you will be charged as if you are making a call from your number to the one where your call is forwarded. Note that mobile telephony networks do not support forwarding SMS or MMS messages. To activate Call Forwarding, check your device’s user manual or the Mobile Supplementary Services for instructions. 🔄📞"],
+["How can I block or unblock 900 numbers?", "By default, Cablenet’s mobile network allows calls to 900 numbers. To block or unblock calls to 900 numbers, contact the Customer Service Center at 130. This ensures you control access to premium rate numbers based on your needs. 🚫📞"],
+["Can I keep my number if I switch to Cablenet Mobile?", "Absolutely! You can keep your existing number by following the number portability procedure. For more information on number portability and the required documentation, please call the Customer Service Centre at 130. There is no charge for the transfer procedure, ensuring a smooth and cost-effective transition. 📞🔄"],
+["How will I know when my number has been transferred?", "You will receive an SMS notification on your mobile the day before the scheduled transfer date. To activate the service, insert the new Cablenet SIM card into your mobile on the specified day and time. 📲✅"],
+["Can I move my number to the Cablenet Prepaid service?", "Yes, you can transfer your number to the Cablenet Prepaid service at any Cablenet Store or online. This makes it easy to switch and enjoy prepaid convenience with your existing number. 🔄📞"],
+["How do I switch my number from another provider to Cablenet?", "To transfer your number from another provider to Cablenet, visit any Cablenet store and present your ID card/passport and a recent bill from your current provider. Activation will be completed within two working days from the date of the number transfer. You can explore available packages and choose the one that best suits your needs. 📋📱"],
+["Where can I buy a Cablenet Prepaid SIM pack and top-up cards?", "You can buy a Cablenet Prepaid SIM pack and top-up cards at any Cablenet Store, selected resellers, kiosks, and mini-markets. The SIM pack costs €2 and includes €1 of credit. Top-up cards are available in denominations of €2, €5, €10, €20, and €50. 🏢💳"],
+["How do I top-up my Cablenet Prepaid mobile account?", "To top-up your account, purchase a Cablenet Prepaid top-up card. Dial 10314-digit code# and press Call. You will receive a confirmation SMS with the credited amount. 📲✅"],
+["How often do I need to top-up my account?", "You must top-up each time your credit runs out or expires. Each top-up card has a unique expiry date: €2 cards last 30 days, €5 cards last 180 days, and cards for €10 or more last 365 days. ⏳💳"],
+["Will my prepaid balance carry over if not used in time?", "No, the remaining unused balance will not be transferred and will not be added to another top-up card balance. 💸❌"],
+["How can I check my Cablenet Prepaid balance?", "Dial 101# and use the interactive menu to check your available balance. The balance displayed includes all remaining valid top-up credits and Gimme prepaid plan credits. 📱💰"],
+["How do I transfer money to another Cablenet Prepaid user?", "Dial 121 followed by the recipient’s Cablenet Prepaid number, then , the desired amount, and #, then press DIAL (e.g., 12194xxxxxx5#). Both users will receive a confirmation SMS. 💸📲"],
+["What are the Gimme prepaid plans?", "Gimme prepaid plans offer great value for talk time, SMS, and data. For more information and available options, click here. 💬📶"],
+["Can I transfer my eSIM to a different device and how secure is it?", "Yes, you can transfer your eSIM to a new device by deleting it from the current device and scanning the QR code on your eSIM Voucher on the new device. eSIM technology is secure, utilizing encryption and authentication protocols similar to those used by physical SIM cards, ensuring your data remains protected. 📲🔄🔒🛡️"],
+  #Part 10
+    ["How can I buy a Gimme prepaid plan and what are the costs?", "After topping up your account, dial 141# and select the Gimme package to activate. Costs: ‘Gimme’ €4, ‘Gimme Asia’ €5, ‘Gimme More’ €8, ‘Gimme Data’ €10, ‘Gimme Max’ €20, and ‘Gimme 500’ €25. 💳📲"],
+    ["Can I transfer any mobile number to Cablenet Prepaid service?", "Yes, you can transfer your number at any Cablenet Store or online by clicking here. 🔄📞"],
+    ["Can I use my Cablenet Prepaid number when traveling abroad?", "Yes, you can use your Cablenet Prepaid service abroad. For roaming rates, click here. Note that Gimme plans are not active while roaming. Charges will be deducted from your balance using top-up cards. 🌍📞"],
+    ["How can I transfer my prepaid mobile number from another provider to Cablenet?", "Visit any Cablenet store or apply online. Activation will be completed within two working days from the transfer date. 🏢🔄"],
+    ["How can I transfer balance to another Cablenet Prepaid user?", "Dial 121 followed by the recipient’s Cablenet Prepaid number, then , the desired amount, and #, then press Call (e.g., 12194xxxxxx5#). Both users will receive a confirmation SMS. 💸📲"],
+    ["Can I transfer my current mobile number to the Cablenet Prepaid service?", "Yes, you can transfer your number at any Cablenet Store or online by clicking here. 🔄📞"],
+    ["Can I use my Cablenet Prepaid line overseas?", "Yes, you can use it overseas. For roaming charges, click here. Note that Gimme packages are not active while roaming. Charges will be deducted from your balance using top-up cards. 🌍📞"],
+    ["Can I have an eSIM with the Cablenet Prepaid service?", "Yes, you can get an eSIM with the Cablenet Prepaid service, available only at Cablenet stores. Charges apply according to the current Pricelist. Learn more about eSIMs here. 💳"],
+    ["Are my Minutes, SMS, and Mobile Data truly unlimited with the Purple Max plan?", "Yes, with the Purple Max plan, your Minutes, SMS, and Mobile Data are truly unlimited. 📱✨"],
+    ["Will my Mobile Data ever be throttled with the Purple Max plan?", "No, we will never throttle your Mobile Data speed with the Purple Max plan. You will always have access to our best available speeds. 🚀📶"],
+    ["Will I be locked into a 24-month contract when signing up for the Purple Max plan?", "No, the Purple Max plan allows you the freedom to leave at any time without a termination fee, simply by giving us a 30-day notice. This applies to all our Cablenet mobile plans. 🔓📅"],
+    ["What is the Cablenet Mobile Fair Usage Policy?", "The Fair Usage Policy ensures network quality and prevents congestion. The Purple Max plan is for personal, interpersonal communication only, not for profit or resale. Prohibited uses include bulk messaging, telemarketing, and auto-dialing. Cablenet may apply charges, change plans, or terminate services for violations. 🚫📞"],
+    ["Can I use my mobile data while roaming in the EU?", "Yes, you can use your mobile data at no extra charge when traveling to EU countries, Iceland, Liechtenstein, Norway, Gibraltar, and Monaco. The data roaming limits for Cablenet mobile plans are: Mobile Basic: 50MB, Purple 1: 1GB, Purple Mobile: 9GB, and Purple Max Mobile: 27.1GB. 🌍📶"],
+    ["How can I contact Call Center support from abroad?", "You can contact Call Center support from abroad by dialing +357 22255130. 🌐📞"],
+    ["What is the data limit while roaming in the EU?", "The EU data roaming limits are: Mobile Basic: 50MB, Purple 1: 1GB, Purple Mobile: 9GB, and Purple Max Mobile: 27.1GB/month. You can buy additional data with a Data Booster if needed. 📊📱"],
+    ["How will I be charged while roaming outside of the EU?", "Calls, SMS, and mobile data outside the EU are charged separately and deducted from your Monthly Credit Limit of €100. 📞💶"],
+    ["What is the breakdown of Credit Limits while roaming outside of the EU?", "The Monthly Credit Limit is €100, with a specific limit of €50 for mobile data to prevent accidental charges. SMS notifications will be sent at 80% and 100% of usage, suspending services to avoid extra costs. 📲🔔"],
+    ["Can I increase my Monthly Credit Limit?", "Yes, you can increase your Monthly Credit Limit by €20 up to three times per month by sending an SMS with the code CL20 to 8844. For further increases, contact our Call Center at +357 22255130. 📈📲"],
+    #Alternatives Part10
+    ["How can I purchase a Gimme prepaid plan and what are the prices?", "After topping up your account, dial 141# and select the Gimme package to activate. Costs: ‘Gimme’ €4, ‘Gimme Asia’ €5, ‘Gimme More’ €8, ‘Gimme Data’ €10, ‘Gimme Max’ €20, and ‘Gimme 500’ €25. 💳📲"],
+["Is it possible to transfer any mobile number to Cablenet Prepaid service?", "Yes, you can transfer your number at any Cablenet Store or online by clicking here. 🔄📞"],
+["Can I use my Cablenet Prepaid number while traveling abroad?", "Yes, you can use your Cablenet Prepaid service abroad. For roaming rates, click here. Note that Gimme plans are not active while roaming. Charges will be deducted from your balance using top-up cards. 🌍📞"],
+["How do I switch my prepaid mobile number from another provider to Cablenet?", "Visit any Cablenet store or apply online. Activation will be completed within two working days from the transfer date. 🏢🔄"],
+["How can I transfer balance to another Cablenet Prepaid user?", "Dial 121 followed by the recipient’s Cablenet Prepaid number, then , the desired amount, and #, then press Call (e.g., 12194xxxxxx5#). Both users will receive a confirmation SMS. 💸📲"],
+["Is it possible to transfer my current mobile number to the Cablenet Prepaid service?", "Yes, you can transfer your number at any Cablenet Store or online by clicking here. 🔄📞"],
+["Can I use my Cablenet Prepaid line overseas?", "Yes, you can use it overseas. For roaming charges, click here. Note that Gimme packages are not active while roaming. Charges will be deducted from your balance using top-up cards. 🌍📞"],
+["Is an eSIM available with the Cablenet Prepaid service?", "Yes, you can get an eSIM with the Cablenet Prepaid service, available only at Cablenet stores. Charges apply according to the current Pricelist. Learn more about eSIMs here. 💳"],
+["Are Minutes, SMS, and Mobile Data truly unlimited with the Purple Max plan?", "Yes, with the Purple Max plan, your Minutes, SMS, and Mobile Data are truly unlimited. 📱✨"],
+["Will my Mobile Data speed be throttled with the Purple Max plan?", "No, we will never throttle your Mobile Data speed with the Purple Max plan. You will always have access to our best available speeds. 🚀📶"],
+["Am I locked into a 24-month contract with the Purple Max plan?", "No, the Purple Max plan allows you the freedom to leave at any time without a termination fee, simply by giving us a 30-day notice. This applies to all our Cablenet mobile plans. 🔓📅"],
+["What is included in the Cablenet Mobile Fair Usage Policy?", "The Fair Usage Policy ensures network quality and prevents congestion. The Purple Max plan is for personal, interpersonal communication only, not for profit or resale. Prohibited uses include bulk messaging, telemarketing, and auto-dialing. Cablenet may apply charges, change plans, or terminate services for violations. 🚫📞"],
+["Can I use my mobile data while roaming in the EU?", "Yes, you can use your mobile data at no extra charge when traveling to EU countries, Iceland, Liechtenstein, Norway, Gibraltar, and Monaco. The data roaming limits for Cablenet mobile plans are: Mobile Basic: 50MB, Purple 1: 1GB, Purple Mobile: 9GB, and Purple Max Mobile: 27.1GB. 🌍📶"],
+["How can I contact Call Center support from abroad?", "You can contact Call Center support from abroad by dialing +357 22255130. 🌐📞"],
+["What is the data limit while roaming in the EU?", "The EU data roaming limits are: Mobile Basic: 50MB, Purple 1: 1GB, Purple Mobile: 9GB, and Purple Max Mobile: 27.1GB/month. You can buy additional data with a Data Booster if needed. 📊📱"],
+["How will I be charged while roaming outside of the EU?", "Calls, SMS, and mobile data outside the EU are charged separately and deducted from your Monthly Credit Limit of €100. 📞💶"],
+["What is the breakdown of Credit Limits while roaming outside of the EU?", "The Monthly Credit Limit is €100, with a specific limit of €50 for mobile data to prevent accidental charges. SMS notifications will be sent at 80% and 100% of usage, suspending services to avoid extra costs. 📲🔔"],
+["Can I increase my Monthly Credit Limit?", "Yes, you can increase your Monthly Credit Limit by €20 up to three times per month by sending an SMS with the code CL20 to 8844. For further increases, contact our Call Center at +357 22255130. 📈📲"],
+["Can I transfer my prepaid mobile number to Cablenet and what are the costs?", "Yes, you can transfer your number at any Cablenet Store or online. Activation will be completed within two working days from the transfer date. The process is free of charge, ensuring a smooth transition. 🏢🔄💸"],
+    #Part11
+    ["How can I avoid high data roaming charges when roaming outside of the EU?", "To avoid high data roaming charges outside the EU, turn off data roaming in your mobile device’s settings. 🚫📱"],
+    ["What are the rates while roaming outside the EU?", "Upon turning on your phone in a foreign country, you will receive a Welcome SMS with applicable rates for calls, SMS, and mobile internet. You can also check the roaming rates on our website. 🌐📩"],
+    ["Why is my data not working?", "Ensure your APN settings are correct: For Android, go to Settings > Mobile networks > Access Point Names > (Name: cablenet, APN: cablenet). For iOS, go to Settings > Mobile data > Mobile Data Options > Mobile Data Network > APN: cablenet. If issues persist, refer to our step-by-step tutorials. 📱🔧"],
+    ["I do not have an external antenna, but my house is connected to the Cablenet network. Do I need to install an external antenna to be able to watch the FTA Cypriot channels?", "For coaxial cable connections, you don’t need an external antenna to watch Cypriot free-to-air channels. These channels are transmitted via Cablenet’s network in DVB-T format. For optical fibre connections, an outdoor antenna is required to receive these channels. 📡🏠"],
+    ["Do I need a decoder in order to use your TV service?", "Yes, the Purple TV channel package requires a Cablenet decoder for access. 📺🔧"],
+    ["Can I watch different channels on different TV sets at the same time?", "Yes, the Purple TV digital service can be accessed from up to three viewing points in your home, with a decoder needed for each point. 📺📺📺"],
+    ["Can the Cablenet TV channels be distributed to several rooms in a home?", "For coaxial connections, RF signals can be distributed via the home RF network. For DVB-C encrypted services, up to three points can be set up with a decoder. For optical fibre connections, ethernet cables are recommended for optimal speed and connection quality. 🏠📡"],
+    ["Are there subtitles for the international channels?", "Yes, Greek subtitles or dubbing are available on channels like Movies Best, FOX, FoxLife, Cablenet Cinema, Novacinema 1-4, National Geographic HD, Discovery Channel, and more. 📺📝"],
+    ["How are TV channels transmitted to end users over the Cablenet network?", "TV channels are transmitted via ethernet cable to an Amino decoder for optimal quality. The decoder supports WiFi, but ethernet is recommended for best performance. 📡📺"],
+    ["What types of TV channel signals are transmitted over the Cablenet network?", "Cablenet transmits channels in DVB-C for coaxial cable connections, DVB-T for Cypriot free-to-air channels, and IP format for optical fibre connections. 📡🌐"],
+    ["How are the Cablenet interactive TV services transmitted?", "Interactive TV services are transmitted via IP, requiring the Arion decoder to be connected to the modem with an ethernet cable. The Amino decoder also needs a permanent internet connection. 🌐📺"],
+    ["How is the Cablenet Set Top Box (STB) connected to the TV?", "For optimal quality, connect Cablenet’s decoder to the TV using the provided HDMI cable. The decoder should also be connected to the modem via ethernet for best performance. 📺🔗"],
+    ["How many STBs can I have under the same Cablenet TV subscription?", "Up to three decoders can be used per subscription. The first decoder is free with a 24-month contract; additional decoders have a monthly charge of €5. 📺📺📺"],
+    ["Can I watch the FTA Cypriot channels in parallel to watching on a Cablenet STB?", "Yes, for coaxial connections, Cypriot free-to-air channels can be received by other devices simultaneously. For optical fibre connections, an external antenna is needed. 📺📡"],
+    ["On which connector are Cablenet TV channels provided?", "For coaxial connections, the RF signal is provided at a female F-type connector. For optical fibre connections, channels are transmitted via an ethernet cable. 📡🔌"],
+    ["What is DVB-C and what channels are provided through this transmission method on Cablenet’s network?", "DVB-C (Digital Video Broadcast Cable) is used for transmitting all Cablenet TV channels. Cypriot free-to-air channels are unencrypted, while subscription channels are encrypted. 📺🌐"],
+    ["What is DVB-T and what channels are provided through this transmission method on Cablenet’s network?", "DVB-T (Digital Video Broadcast Terrestrial) is used for transmitting Cypriot free-to-air channels, which can be received without an external antenna by premises connected to Cablenet’s coaxial network. 📡📺"],
+    ["What are the DVB-C broadcast frequencies on Cablenet’s network?", "For manual tuning, DVB-C channels are broadcast between 610 MHz and 746 MHz. Modulation is QAM256, Symbol Rate is 6950, and Network ID is 1. 📡📺"],
+    ["How can I watch Purple TV using the Cablenet TV GO service?", "Download the Cablenet TV GO app via Apple Store or Google Play, or access via a browser. Enter the username and password sent to your registered mobile number. You can register up to three personal devices. 📱💻📺"],
+    ["How can I get a new access code for the Cablenet TV GO service?", "To change your Cablenet TV GO password, call 130 for immediate assistance or submit a request online at the provided link. 🔄🔑"],
+    ["How can I watch Cablenet TV GO from multiple devices at the same time?", "Simultaneous viewing is allowed on 1 TV set and 1 phone, with an additional device permitted for STAR 1 or 2 subscribers. 📺📱"],
+    #Part 11 Alternatives
+    ["How can I avoid high data roaming fees when traveling outside the EU?", "To avoid high data roaming charges outside the EU, turn off data roaming in your mobile device’s settings. 🚫📱"],
+["What are the charges for roaming outside the EU?", "Upon turning on your phone in a foreign country, you will receive a Welcome SMS with applicable rates for calls, SMS, and mobile internet. You can also check the roaming rates on our website. 🌐📩"],
+["Why isn't my data working?", "Ensure your APN settings are correct: For Android, go to Settings > Mobile networks > Access Point Names > (Name: cablenet, APN: cablenet). For iOS, go to Settings > Mobile data > Mobile Data Options > Mobile Data Network > APN: cablenet. If issues persist, refer to our step-by-step tutorials. 📱🔧"],
+["Do I need an external antenna to watch Cypriot free-to-air channels with a Cablenet connection?", "For coaxial cable connections, you don’t need an external antenna to watch Cypriot free-to-air channels. These channels are transmitted via Cablenet’s network in DVB-T format. For optical fibre connections, an outdoor antenna is required to receive these channels. 📡🏠"],
+["Is a decoder necessary to use Cablenet’s TV service?", "Yes, the Purple TV channel package requires a Cablenet decoder for access. 📺🔧"],
+["Can I watch different TV channels on multiple sets at the same time?", "Yes, the Purple TV digital service can be accessed from up to three viewing points in your home, with a decoder needed for each point. 📺📺📺"],
+["Can Cablenet TV channels be distributed to various rooms in a house?", "For coaxial connections, RF signals can be distributed via the home RF network. For DVB-C encrypted services, up to three points can be set up with a decoder. For optical fibre connections, ethernet cables are recommended for optimal speed and connection quality. 🏠📡"],
+["Are there subtitles available for international channels?", "Yes, Greek subtitles or dubbing are available on channels like Movies Best, FOX, FoxLife, Cablenet Cinema, Novacinema 1-4, National Geographic HD, Discovery Channel, and more. 📺📝"],
+["How are TV channels transmitted to users over the Cablenet network?", "TV channels are transmitted via ethernet cable to an Amino decoder for optimal quality. The decoder supports WiFi, but ethernet is recommended for best performance. 📡📺"],
+["What types of TV channel signals does Cablenet transmit?", "Cablenet transmits channels in DVB-C for coaxial cable connections, DVB-T for Cypriot free-to-air channels, and IP format for optical fibre connections. 📡🌐"],
+["How are Cablenet’s interactive TV services delivered?", "Interactive TV services are transmitted via IP, requiring the Arion decoder to be connected to the modem with an ethernet cable. The Amino decoder also needs a permanent internet connection. 🌐📺"],
+["How do I connect the Cablenet Set Top Box (STB) to my TV?", "For optimal quality, connect Cablenet’s decoder to the TV using the provided HDMI cable. The decoder should also be connected to the modem via ethernet for best performance. 📺🔗"],
+["How many STBs can I use with one Cablenet TV subscription?", "Up to three decoders can be used per subscription. The first decoder is free with a 24-month contract; additional decoders have a monthly charge of €5. 📺📺📺"],
+["Can I watch Cypriot free-to-air channels alongside Cablenet STB channels?", "Yes, for coaxial connections, Cypriot free-to-air channels can be received by other devices simultaneously. For optical fibre connections, an external antenna is needed. 📺📡"],
+["Which connector is used for Cablenet TV channels?", "For coaxial connections, the RF signal is provided at a female F-type connector. For optical fibre connections, channels are transmitted via an ethernet cable. 📡🔌"],
+["What is DVB-C and which channels are provided through it on Cablenet’s network?", "DVB-C (Digital Video Broadcast Cable) is used for transmitting all Cablenet TV channels. Cypriot free-to-air channels are unencrypted, while subscription channels are encrypted. 📺🌐"],
+["What is DVB-T and which channels are provided through it on Cablenet’s network?", "DVB-T (Digital Video Broadcast Terrestrial) is used for transmitting Cypriot free-to-air channels, which can be received without an external antenna by premises connected to Cablenet’s coaxial network. 📡📺"],
+["What are the DVB-C broadcast frequencies on Cablenet’s network?", "For manual tuning, DVB-C channels are broadcast between 610 MHz and 746 MHz. Modulation is QAM256, Symbol Rate is 6950, and Network ID is 1. 📡📺"],
+["How can I watch Purple TV using the Cablenet TV GO service?", "Download the Cablenet TV GO app via Apple Store or Google Play, or access via a browser. Enter the username and password sent to your registered mobile number. You can register up to three personal devices. 📱💻📺"],
+["How can I get a new access code for the Cablenet TV GO service?", "To change your Cablenet TV GO password, call 130 for immediate assistance or submit a request online at the provided link. 🔄🔑"],
+["Can I watch Cablenet TV GO from multiple devices simultaneously?", "Simultaneous viewing is allowed on 1 TV set and 1 phone, with an additional device permitted for STAR 1 or 2 subscribers. 📺📱"],
+["How do I purchase a Gimme prepaid plan and avoid high data roaming fees outside the EU?", "After topping up your account, dial 141# and select the Gimme package to activate. To avoid high data roaming charges outside the EU, turn off data roaming in your mobile device’s settings. Costs: ‘Gimme’ €4, ‘Gimme Asia’ €5, ‘Gimme More’ €8, ‘Gimme Data’ €10, ‘Gimme Max’ €20, and ‘Gimme 500’ €25. 💳📲🚫📱"],
+    #Part12
+    ["How can I change the language of a TV show?", "To change the language of a TV show, refer to the settings menu on your decoder or the Cablenet TV GO app for available language options. 🌐🗣️"],
+    ["How can I watch a TV show I missed?", "Use the Replay TV feature on your Arion or Amino decoder, or the Cablenet TV GO app. Select the show from the guide and choose the Replay option. 📺⏪"],
+    ["How can I record a TV show to watch later?", "Purple TV subscribers can record up to 5 hours, and STAR 1 or 2 subscribers up to 10 hours. Use the Record option on the Guide menu of your decoder or the Cablenet TV GO app. 📺🔴"],
+    ["How can I add an extra viewing point?", "The Purple TV service includes one viewing point. For additional points, visit a Cablenet Store, call 130, or request online. Maximum of 2 additional points. 📺🔄"],
+    ["What sports events does NovaSports include?", "NovaSports channels cover a variety of sports events, including Football (Super League, Bundesliga, Ligue 1), Basketball (EuroLeague, NCAA), Tennis (Davis Cup, WTA), MMA, and other sports highlights. ⚽🏀🎾"],
+    ["What is the “Replay TV” function?", "The Replay TV function allows you to watch TV programs up to 7 days after their initial broadcast, as many times as you want, without any limitations. This feature is available for specific channels. A list of these channels can be found here."],
+    ["What is the “Record TV” function?", "The Record TV function lets you record TV programs up to 7 days ahead or prior to the current viewing time. It supports up to 5 hours of recording for Purple TV subscribers and up to 10 hours for Star 1 or Star 2 add-ons subscribers. Content can be saved for up to 30 days without additional charges. This feature is available for specific channels. A list of these channels can be found here."],
+    ["Is Video On Demand available via the Cablenet TV GO service?", "No, Video on Demand services are currently unavailable on the Cablenet TV GO service."],
+    ["Does Cablenet TV GO service provide Parental Control?", "Yes, Parental Control is available and can be set within the user’s Profile settings. The feature allows parents to protect their profile with a PIN and create additional profiles with content access based on age and program ratings."],
+    ["What is the Cablenet TV GO service?", "The Cablenet TV GO service allows subscribers to access live TV and on-demand content while on the go. 📱"],
+    ["How can I access the Cablenet TV GO service?", "You can download the Cablenet TV GO app from the Apple Store, Google Play, or access it via a browser. 🌐"],
+    ["Who is eligible to use the Cablenet TV GO service?", "The service is available to all Cablenet subscribers with a package that includes the Purple TV service and at least one registered Cablenet decoder. 📺"],
+    ["Is the Cablenet TV GO service usage charged when on the go?", "You may incur mobile data usage charges from your mobile service operator. Avoid these charges by using the Cablenet TV GO service over free WiFi. 💸"],
+    ["How can I set up and register the Cablenet TV GO app on my device?", "Install the TV GO app, then use the username and password provided by Cablenet via SMS on the login page and accept the Special Terms for TV services. 🔑"],
+    ["How many devices can I register with the Cablenet TV GO service?", "Subscribers can register up to three devices (smartphones/tablets/browsers). Each additional TV point (decoder) registered reduces the number of available personal devices. 📱💻"],
+    ["What kind of devices can I register with the Cablenet TV GO service?", "You can register smartphones and tablets (Android and iOS) and use PCs and Laptops through a browser. Smart TV support is currently unavailable. 📱💻"],
+    ["How many users can watch content on the Cablenet TV GO service simultaneously?", "Purple TV subscribers can watch on one smartphone, tablet, or browser at a time. Subscribers of Purple TV+ Star 1 and Purple TV+ Star 2 add-ons can watch on two devices simultaneously. 📺📱"],
+    ["Do I need to sign in every time I use the Cablenet TV GO service?", "No, sign in once during registration. After the first sign-in, you can access the service just by launching it on your device. 🔑"],
+    ["Which channels will be available on the Cablenet TV GO service?", "The channels available on the Cablenet TV GO service can be found by clicking here. Channel availability may change over time due to Content Provider rights. 📺"],
+    ["Can I watch the sports channels through the Cablenet TV GO service?", "Yes, all channels in the Purple Sports package are available on the TV GO app for subscribers of Variety TV, Variety Xtra TV, or Complete TV packages. ⚽🏀"],
+    ["Can I use the Cablenet TV GO service abroad?", "The service can be used in any EU country but is not accessible outside the EU. For more information, see the roaming terms and conditions here. 🌍"],
+    ["Can I use the Cablenet TV GO service over another network?", "Yes, the Cablenet TV GO service can be used over any network in Cyprus. 📶"],
+    ["How can I watch Purple TV using the Cablenet TV GO service?", "Download the app via Apple Store or Google Play, or connect via your browser. Enter the username and password sent to your registered mobile number and accept the Special Terms for TV services. You can register up to three devices, but each additional TV point registered reduces the number of available personal devices. 📱💻"],
+    ["How can I get a new access code for the Cablenet TV GO service?", "To change your Cablenet TV GO password, call 130 for immediate assistance, or submit your request electronically here. 🔑"],
+    ["How can I watch Cablenet TV GO from multiple devices at the same time?", "Simultaneous viewing is permitted on one TV set and one phone. An additional device is allowed for STAR 1 or 2 subscribers. 📺📱"],
+    ["Which football competitions will be transmitted by Cablenet via the new joint platform?", "Cablenet will transmit all Cypriot Championship and Cup matches, along with popular international competitions like UEFA Champions League, UEFA Europa League, UEFA Conference League, Premier League, Serie A, Coppa Italia, DFB German Cup, EFL Cup, English FA Cup, and Coupe de France. ⚽🌍"],
+    ["Which channels are included in the new Purple Sports and European Sports bundles?", "Purple Sports includes Cablenet Sports 1, Cablenet Sports 2, Cablenet Sports 3, Primetel 1HD, Cytavision Sports 1HD, and Cytavision Sports 2HD. European Sports includes Cablenet Sports 2, Cablenet Sports 3, Cytavision Sports 3HD, Cytavision Sports 4HD, Cytavision Sports 5HD, Cytavision Sports 6HD, and Cytavision Sports 7HD. 📺⚽"],
+    ["What sports content can I watch through Purple Sports?", "With Purple Sports, you can watch Cyprus Football Championship & Cup (A’ Division Men, B’ Division Men, A’ Division Women), Cablenet U19 Championship & Cup, EFL Championship, Belgian Championship & Cup, Dutch Championship & Cup, Argentine Championship, Scottish Cup, Portuguese Cup, Spanish Super Cup, Spanish Basketball, Cyprus Volleyball, Handball, Futsal, Athletics, Swimming, Gymnastics, Martial Arts, and University Sports Championships. 🏆📺"],
+    ["What sports content can I watch through the new European Sports bundle?", "The European Sports bundle includes UEFA Champions League, UEFA Europa League, UEFA Conference League, Premier League, Serie A, Coppa Italia, DFB German Cup, EFL Cup, FA Cup, Coupe de France, EFL Championship, Eredivisie, Jupiler Pro League, Croky Cup, Portuguese Allianz Cup, Scottish Cup, Argentine Primera División, and various Cyprus championships in Volleyball, Swimming, Gymnastics, and Martial Arts. 🌍⚽"],
+    ["Can I combine Purple Sports with other TV services?", "Yes, you can combine Purple Sports with add-ons like Purple TV, FOX & FOXlife, Novacinema & Novasports, and European Sports. 📦📺"],
+    ["Can I get the European Sports bundle without the Purple Sports package?", "To get the European Sports bundle, you must have an internet connection and the basic Purple TV services. 🌐📺"],
+    #Part 12 Alternatives
+    ["How do I change the language of a TV show?", "To change the language of a TV show, refer to the settings menu on your decoder or the Cablenet TV GO app for available language options. 🌐🗣️"],
+["How can I watch a TV show that I missed?", "Use the Replay TV feature on your Arion or Amino decoder, or the Cablenet TV GO app. Select the show from the guide and choose the Replay option. 📺⏪"],
+["How can I record a TV show for later viewing?", "Purple TV subscribers can record up to 5 hours, and STAR 1 or 2 subscribers up to 10 hours. Use the Record option on the Guide menu of your decoder or the Cablenet TV GO app. 📺🔴"],
+["How do I add an extra viewing point?", "The Purple TV service includes one viewing point. For additional points, visit a Cablenet Store, call 130, or request online. Maximum of 2 additional points. 📺🔄"],
+["What sports events are covered by NovaSports?", "NovaSports channels cover a variety of sports events, including Football (Super League, Bundesliga, Ligue 1), Basketball (EuroLeague, NCAA), Tennis (Davis Cup, WTA), MMA, and other sports highlights. ⚽🏀🎾"],
+["What is the 'Replay TV' function?", "The Replay TV function allows you to watch TV programs up to 7 days after their initial broadcast, as many times as you want, without any limitations. This feature is available for specific channels. A list of these channels can be found here."],
+["What does the 'Record TV' function do?", "The Record TV function lets you record TV programs up to 7 days ahead or prior to the current viewing time. It supports up to 5 hours of recording for Purple TV subscribers and up to 10 hours for Star 1 or Star 2 add-ons subscribers. Content can be saved for up to 30 days without additional charges. This feature is available for specific channels. A list of these channels can be found here."],
+["Is Video On Demand available on Cablenet TV GO?", "No, Video on Demand services are currently unavailable on the Cablenet TV GO service."],
+["Does the Cablenet TV GO service offer Parental Control?", "Yes, Parental Control is available and can be set within the user’s Profile settings. The feature allows parents to protect their profile with a PIN and create additional profiles with content access based on age and program ratings."],
+["What is Cablenet TV GO?", "The Cablenet TV GO service allows subscribers to access live TV and on-demand content while on the go. 📱"],
+["How do I access Cablenet TV GO?", "You can download the Cablenet TV GO app from the Apple Store, Google Play, or access it via a browser. 🌐"],
+["Who can use Cablenet TV GO?", "The service is available to all Cablenet subscribers with a package that includes the Purple TV service and at least one registered Cablenet decoder. 📺"],
+["Are there charges for using Cablenet TV GO on the go?", "You may incur mobile data usage charges from your mobile service operator. Avoid these charges by using the Cablenet TV GO service over free WiFi. 💸"],
+["How do I set up and register the Cablenet TV GO app?", "Install the TV GO app, then use the username and password provided by Cablenet via SMS on the login page and accept the Special Terms for TV services. 🔑"],
+["How many devices can I register with Cablenet TV GO?", "Subscribers can register up to three devices (smartphones/tablets/browsers). Each additional TV point (decoder) registered reduces the number of available personal devices. 📱💻"],
+["What devices are compatible with Cablenet TV GO?", "You can register smartphones and tablets (Android and iOS) and use PCs and Laptops through a browser. Smart TV support is currently unavailable. 📱💻"],
+["How many users can watch Cablenet TV GO simultaneously?", "Purple TV subscribers can watch on one smartphone, tablet, or browser at a time. Subscribers of Purple TV+ Star 1 and Purple TV+ Star 2 add-ons can watch on two devices simultaneously. 📺📱"],
+["Do I need to sign in every time I use Cablenet TV GO?", "No, sign in once during registration. After the first sign-in, you can access the service just by launching it on your device. 🔑"],
+["Which channels are available on Cablenet TV GO?", "The channels available on the Cablenet TV GO service can be found by clicking here. Channel availability may change over time due to Content Provider rights. 📺"],
+["Can I watch sports channels on Cablenet TV GO?", "Yes, all channels in the Purple Sports package are available on the TV GO app for subscribers of Variety TV, Variety Xtra TV, or Complete TV packages. ⚽🏀"],
+["Can I use Cablenet TV GO abroad?", "The service can be used in any EU country but is not accessible outside the EU. For more information, see the roaming terms and conditions here. 🌍"],
+["Can I use Cablenet TV GO over another network?", "Yes, the Cablenet TV GO service can be used over any network in Cyprus. 📶"],
+["How do I watch Purple TV using Cablenet TV GO?", "Download the app via Apple Store or Google Play, or connect via your browser. Enter the username and password sent to your registered mobile number and accept the Special Terms for TV services. You can register up to three devices, but each additional TV point registered reduces the number of available personal devices. 📱💻"],
+["How can I get a new access code for Cablenet TV GO?", "To change your Cablenet TV GO password, call 130 for immediate assistance, or submit your request electronically here. 🔑"],
+["Can I watch Cablenet TV GO on multiple devices simultaneously?", "Simultaneous viewing is permitted on one TV set and one phone. An additional device is allowed for STAR 1 or 2 subscribers. 📺📱"],
+["Which football competitions are broadcast on Cablenet's new platform?", "Cablenet will transmit all Cypriot Championship and Cup matches, along with popular international competitions like UEFA Champions League, UEFA Europa League, UEFA Conference League, Premier League, Serie A, Coppa Italia, DFB German Cup, EFL Cup, English FA Cup, and Coupe de France. ⚽🌍"],
+["What channels are included in the Purple Sports and European Sports bundles?", "Purple Sports includes Cablenet Sports 1, Cablenet Sports 2, Cablenet Sports 3, Primetel 1HD, Cytavision Sports 1HD, and Cytavision Sports 2HD. European Sports includes Cablenet Sports 2, Cablenet Sports 3, Cytavision Sports 3HD, Cytavision Sports 4HD, Cytavision Sports 5HD, Cytavision Sports 6HD, and Cytavision Sports 7HD. 📺⚽"],
+["What sports content is available through Purple Sports?", "With Purple Sports, you can watch Cyprus Football Championship & Cup (A’ Division Men, B’ Division Men, A’ Division Women), Cablenet U19 Championship & Cup, EFL Championship, Belgian Championship & Cup, Dutch Championship & Cup, Argentine Championship, Scottish Cup, Portuguese Cup, Spanish Super Cup, Spanish Basketball, Cyprus Volleyball, Handball, Futsal, Athletics, Swimming, Gymnastics, Martial Arts, and University Sports Championships. 🏆📺"],
+["What sports content is available through the European Sports bundle?", "The European Sports bundle includes UEFA Champions League, UEFA Europa League, UEFA Conference League, Premier League, Serie A, Coppa Italia, DFB German Cup, EFL Cup, FA Cup, Coupe de France, EFL Championship, Eredivisie, Jupiler Pro League, Croky Cup, Portuguese Allianz Cup, Scottish Cup, Argentine Primera División, and various Cyprus championships in Volleyball, Swimming, Gymnastics, and Martial Arts. 🌍⚽"],
+["Can Purple Sports be combined with other TV services?", "Yes, you can combine Purple Sports with add-ons like Purple TV, FOX & FOXlife, Novacinema & Novasports, and European Sports. 📦📺"],
+["Can I get the European Sports bundle without Purple Sports?", "To get the European Sports bundle, you must have an internet connection and the basic Purple TV services. 🌐📺"],
+["How can I watch a TV show I missed and record a TV show for later viewing?", "Use the Replay TV feature on your Arion or Amino decoder, or the Cablenet TV GO app. Select the show from the guide and choose the Replay option. Purple TV subscribers can record up to 5 hours, and STAR 1 or 2 subscribers up to 10 hours. Use the Record option on the Guide menu of your decoder or the Cablenet TV GO app. 📺⏪🔴"],
+    #Part 13
+    ["Can I get the Purple Sports package without the Internet service?", "No, you must subscribe to one of the available internet services to get the Purple Sports package. 🌐⚽"],
+    ["Will Novasports channels be included in the new bundles?", "Novasports will be available only for subscribers with the Purple TV+ Star 2 (Novacinema & Novasports) package, which can be combined with Purple Sports. 📺🏆"],
+    ["Will Cablenet Sports 3 be available to other providers?", "No, Cablenet Sports 3 will be exclusively available to Cablenet subscribers, broadcasting various sports like Cyprus Volleyball, Swimming, Gymnastics, and Martial Arts championships. 📺🥋"],
+    ["I am already a Cablenet Subscriber. How can I get the new Purple Sports package?", "You can get the new Purple Sports package via the Customer Call Center (130), Cablenet Stores, or by applying online. ☎️🛒💻"],
+    ["Will Cablenet transmit European qualifying stages and group stages when Cypriot teams are competing?", "Yes, Cablenet will transmit all Cypriot teams’ European matches, including both qualifying and group stages. Qualifying stages are available with the Purple Sports TV bundle, and group stages with the European Sports TV bundle. ⚽🌍"],
+    ["What happens when Cytavision broadcasts games that are not included in the new Cablenet sports package and add-on bundles?", "The live broadcast for such games will be interrupted, and a notice card will appear on the TV with relevant information. 📺ℹ️"],
+    ["How can I buy and watch a specific game?", "With Cablenet's Live Streaming service, you can watch individual matches of teams like APOEL, Anorthosis, Pafos FC, and Karmiotissa, as well as other sports broadcasts. Sign up for the service through the website, select the match, and proceed with the purchase. Monthly packages are also available. For assistance, contact the Cablenet Call Centre on 130. 📺🏆💻"],
+    ["What is the Maxify program?", "Maxify is a program that allows Cablenet subscribers to accumulate and redeem points for services, electronic devices, and other benefits. 🌟"],
+    ["Who is eligible to participate in the Maxify program?", "To participate, you must have at least one active subscription with Cablenet and register in the Maxify App. Cablenet Prepaid subscribers are excluded. 📱"],
+    ["How can I access the Maxify App?", "Download the app via Google Play or App Store. Register using your mobile number registered with Cablenet. For assistance, call 130. 📲"],
+    ["How do I collect points?", "Points are calculated monthly based on your services and can also be earned through new service additions, upgrades, and promotional activities. 📈"],
+    ["How do I redeem points?", "Points can be redeemed through the Maxify App. 🎁"],
+    ["When do points expire?", "Points do not have an expiry date. ⏳"],
+    ["Will I be able to transfer my points to another active member of the program?", "Yes, you can transfer points to any active member at any time. 🔄"],
+    ["What happens to my points if I terminate all my services with Cablenet?", "If you terminate all services, your points will be lost. However, you can transfer them to another active member before termination. 🚫➡️🎁"],
+    ["How can I delete my Maxify account?", "To delete your account, email maxify@cablenetcy.net with your mobile number as the subject. ✉️"],
+#Part13 Alternatives
+["Can I subscribe to the Purple Sports package without an Internet service?", "No, you must subscribe to one of the available internet services to get the Purple Sports package. 🌐⚽"],
+["Are Novasports channels included in the new bundles?", "Novasports will be available only for subscribers with the Purple TV+ Star 2 (Novacinema & Novasports) package, which can be combined with Purple Sports. 📺🏆"],
+["Is Cablenet Sports 3 available to other providers?", "No, Cablenet Sports 3 will be exclusively available to Cablenet subscribers, broadcasting various sports like Cyprus Volleyball, Swimming, Gymnastics, and Martial Arts championships. 📺🥋"],
+["As a current Cablenet subscriber, how can I get the new Purple Sports package?", "You can get the new Purple Sports package via the Customer Call Center (130), Cablenet Stores, or by applying online. ☎️🛒💻"],
+["Will Cablenet broadcast European matches involving Cypriot teams?", "Yes, Cablenet will transmit all Cypriot teams’ European matches, including both qualifying and group stages. Qualifying stages are available with the Purple Sports TV bundle, and group stages with the European Sports TV bundle. ⚽🌍"],
+["What happens when Cytavision broadcasts games not included in the Cablenet sports package?", "The live broadcast for such games will be interrupted, and a notice card will appear on the TV with relevant information. 📺ℹ️"],
+["How can I purchase and watch a specific game?", "With Cablenet's Live Streaming service, you can watch individual matches of teams like APOEL, Anorthosis, Pafos FC, and Karmiotissa, as well as other sports broadcasts. Sign up for the service through the website, select the match, and proceed with the purchase. Monthly packages are also available. For assistance, contact the Cablenet Call Centre on 130. 📺🏆💻"],
+["What is the Maxify program?", "Maxify is a program that allows Cablenet subscribers to accumulate and redeem points for services, electronic devices, and other benefits. 🌟"],
+["Who can participate in the Maxify program?", "To participate, you must have at least one active subscription with Cablenet and register in the Maxify App. Cablenet Prepaid subscribers are excluded. 📱"],
+["How do I access the Maxify App?", "Download the app via Google Play or App Store. Register using your mobile number registered with Cablenet. For assistance, call 130. 📲"],
+["How do I earn points?", "Points are calculated monthly based on your services and can also be earned through new service additions, upgrades, and promotional activities. 📈"],
+["How do I use my points?", "Points can be redeemed through the Maxify App. 🎁"],
+["Do Maxify points expire?", "Points do not have an expiry date. ⏳"],
+["Can I transfer my Maxify points to another member?", "Yes, you can transfer points to any active member at any time. 🔄"],
+["What happens to my points if I cancel all my services with Cablenet?", "If you terminate all services, your points will be lost. However, you can transfer them to another active member before termination. 🚫➡️🎁"],
+["How do I delete my Maxify account?", "To delete your account, email maxify@cablenetcy.net with your mobile number as the subject. ✉️"],
+["Which teams are part of Cablenet broadcasting?", "Teams like APOEL, Anorthosis, Pafos FC, and Karmiotissa are all part of Cablenet broadcasting, ensuring you never miss a match. 📺🏆"],
+["As a Cablenet subscriber, how can I get the Purple Sports package and will Novasports channels be included?", "You can get the new Purple Sports package via the Customer Call Center (130), Cablenet Stores, or by applying online. Novasports will be available only for subscribers with the Purple TV+ Star 2 (Novacinema & Novasports) package, which can be combined with Purple Sports. ☎️🛒💻📺🏆"],
+["How can I watch a specific game and which teams are part of Cablenet broadcasting?", "With Cablenet's Live Streaming service, you can watch individual matches of teams like APOEL, Anorthosis, Pafos FC, and Karmiotissa, as well as other sports broadcasts. Sign up for the service through the website, select the match, and proceed with the purchase. Monthly packages are also available. These teams are part of Cablenet broadcasting, ensuring you never miss a match. For assistance, contact the Cablenet Call Centre on 130. 📺🏆💻"],
 
-## General
 
-How are Cablenet services installed?
-
-Cablenet services are installed following delivery of service from the Cablenet network to the roof of your apartment building or house. Services will be connected and equipment installed at your home’s first TV installation outlet.
-How are Cablenet services delivered to the subscriber premises?
-All of Cablenet’s services (broadband service, TV and fixed telephony) are transmitted to the subscriber’s premises via coaxial or fibre-optic cable placed by Cablenet’s technical staff during installation. In the case of coaxial installation, the cable terminates at a special termination box (it’s called an isolator and splits the signal for the modem and TV services), or directly at the fibre-optic converter (usually the fibre-optic service modem) in the case of optical fibre cable installation.
-
-Which are the RF frequencies that I can use for internal distribution within a home so as not to interfere with Cablenet’s signals?
-
-To distribute RF frequencies within a home’s interior, kindly use only the frequencies below as all other frequencies are either used or may be used in the future for Cablenet’s own transmissions.
-Channel 34 – Frequency 578 MHz
-Channel 35 – Frequency 586 MHz
-Channel 36 – Frequency 594 MHz
-
-What are the DVB T broadcast frequencies on Cablenet’s network?
-
-The best way to tune the DVB-T channels transmitted on Cablenet’s network is to use the automatic Digital Aerial (or similar) scanning feature of your TV set or receiver, if this is an available option.
-If you want to manually tune the DVB-T channels, the frequency information is as follows:
-Channel 31 – Frequency 554 MHz – Velister Transport Stream 2
-Channel 32 – Frequency 562 MHz – Velister Transport Stream 1
-Channel 33 – Frequency 570 MHz – CYBC Transport Stream
-## Plume
-How to install Plume HomePass® by myself?
-
-Download the Plume app from either theApple StoreorGoogle Play. Next, launch thePlume app.Choose “Set up Plume”, then enter your name and email to create your Plume account.Passwords must be at least eight characters.Check your email and verify the email account that will be associated with your new Plume account.Next, there are a few steps to setup your Pod. There is an option for Advanced setup, if needed.Enter your WiFi name and password. There will be a series of helpful on-screen tips for additional pod placement.If you have more than one pod, plug it in and add it to your network now.Be sure to enable notifications. This will help you be aware of your home network activity.The Plume app will prompt you to join the new WiFi network.Finally, after you’ve allowed Plume to join your network, you’ll be taken to the home screen. Over the next 24 hours, your new Plume WiFi network will optimize to create the best performance for your connected devices.
-Download the Plume app from either theApple StoreorGoogle Play. Next, launch thePlume app.Choose “Set up Plume”, then enter your name and email to create your Plume account.
-Passwords must be at least eight characters.
-Check your email and verify the email account that will be associated with your new Plume account.
-Next, there are a few steps to setup your Pod. There is an option for Advanced setup, if needed.
-Enter your WiFi name and password. There will be a series of helpful on-screen tips for additional pod placement.
-If you have more than one pod, plug it in and add it to your network now.
-Be sure to enable notifications. This will help you be aware of your home network activity.
-The Plume app will prompt you to join the new WiFi network.
-Finally, after you’ve allowed Plume to join your network, you’ll be taken to the home screen. Over the next 24 hours, your new Plume WiFi network will optimize to create the best performance for your connected devices.
-
-How can I change the WiFi network code?
-
-If you have the Plume Homepass® service, follow these 3 simple steps:
-
-1. Go to the Settings option and then the Adapt option.2. Select the type of network whose access code you wish to change (eg guests, internet only)3. Select Edit and change the access code.If you don’t have the Plume Homepass® service, call the Customer Call Centre on 130 to instantly change your WiFi access code.
-   How long does it take to arrange for installation of internet services?
-   15 working days is the maximum length of time, provided that conditions allow it.
-   I want to cancel my subscription, and my contract hasn’t expired yet. What do I need to pay?
-   New subscribers: early termination fees for a 24month contractTerminationMonthAdministration ChargeInstallation ChargeServices Used
-## Cablenet Email
-I have a Cablenet email account. How can I check my emails?
-You can have check your Cablenet webmail wherever you are, byclicking here.
-## Fixed Telephony
-Can I keep my existing telephone number?
-You can keep your existing telephone number by following the number portability procedure. You will need a copy of your last telephone bill and to present your ID card.
-Is there any charge for the transfer of my existing telephone number to Cablenet’s network?
-There is no charge for transferring your existing telephone number to Cablenet’s network.
-Can you provide me with a telephone number in case I do not already have one?
-Cablenet offers new telephone numbers.
-Can I have a telephone line in more than one rooms of the household?
-You can have a telephone line in more than one room if the necessary ramification exists. Cablenet’s telephone line is provided through the modem. The cabling distribution to other points in your premises is your responsibility.
-How much do I save if I choose Cablenet’s telephony service compared to other providers?
-Take advantage of the free calls between Cablenet’s fixed telephony subscribers. Also, Cablenet provides lower rates on fixed telephony for local and international calls.
-Are there any other extras which come with the telephony service?
-Cablenet offers Caller ID, call forwarding, number withhold service, per-line blocking (number with prefix 900 and 909) and international calls blocking, free of charge.
-
-As an additional service for a monthly subscription of €3,55 you can have the following services: do not disturb, call waiting, caller ID during call waiting, teleconferencing, distance call forwarding (to another telephone device), wake up call, rejection of anonymous calls.
-Calling Line Identification Presentation (CLIP)
-The telephone number (landline or mobile) that is calling you will appear on your mobile’s screen unless the caller has activated the Calling Line Identification Presentation (CLIP) service.
-Calling Line Identification Restriction (CLIR)
-To withhold your number, dial #31# before each call.
-## Call Forwarding
-The Number Withholding service is free.
-Call Forwarding Unconditional
-To activate Call Forwarding, dial *21*number to which you want your calls forwarded#. To deactivate, dial ##21#.
-
-The Call Forwarding service is free. Call Forwarding when the line is busy, when you are unable to answer and when a call can not be completed can be activated simultaneously. Calls forwarded are charged according to the current pricelist.
-Call Forwarding when line is busy
-To activate Call Forwarding when your line is busy, dial *67* and the number to which you want your calls forwarded#. To deactivate, dial ##67#.
-
-The Call Forwarding service is free. Call Forwarding when the line is busy, when you are unable to answer and when a call can not be completed can be activated simultaneously. Calls forwarded are charged according to the current pricelist.
-Call Forwarding when you cannot answer a call
-To activate Call Forwarding when you are unable to answer your calls, dial *61* and the number to which you want your calls forwarded#. To deactivate, dial ##61#.
-
-The Call Forwarding service is free. Call Forwarding when the line is busy, when you are unable to answer and when a call can not be completed can be activated simultaneously. Calls forwarded are charged according to the current pricelist.
-Call Forwarding when a call cannot be completed
-To activate Call Forwarding when a call cannot be completed, dial *62* and the number to which you want your calls forwarded#. To deactivate, dial ##62#.
-
-The Call Forwarding service is free. Call Forwarding when the line is busy, when you are unable to answer and when a call can not be completed can be activated simultaneously. Calls forwarded are charged according to the current pricelist.
-## Barring of Outgoing Calls
-To activate Blocking of Outgoing Calls, dial:
-
-*33*Barring PIN# (for Calls and SMS)
-
-*33*Barring PIN*11# (for Calls only)
-
-*33*Barring PIN*16# (for SMS only). To deactivate, dial #33*Barring PIN#.
-
-The Call Barring service is free.
-
-Default Barring PIN is 0000. To change Barring PIN use **03*330*old pin*new pin*new pin#
-Barring of Outgoing International Calls
-To activate Blocking of Outgoing International Calls, dial:
-
-*331*Barring PIN# (for Calls and SMS)
-
-*331*Barring PIN*11# (for Calls only)
-
-*331*Barring PIN*16# (for SMS only). To deactivate, dial #331*Barring PIN#.
-
-The Call Barring service is free.
-
-Default Barring PIN is 0000. To change Barring PIN use **03*330*old pin*new pin*new pin#
-Barring of Outgoing International Calls, except calls towards Cyprus, whilst overseas
-To activate Blocking of Outgoing International Calls, except calls towards Cyprus, whilst you are overseas, dial:
-
-*332*Barring PIN# (for Calls and SMS)
-
-*332*Barring PIN*11# (for Calls only)
-
-*332*Barring PIN*16# (for SMS only). To deactivate, dial #332*Barring PIN#
-
-The Call Barring service is free.
-
-Default Barring PIN is 0000. To change Barring PIN use **03*330*old pin*new pin*new pin#
-Barring of Incoming Calls
-To activate Blocking of Incoming Calls, dial:
-
-*35*Barring PIN# (for Calls and SMS)
-
-*35*Barring PIN*11# (for Calls only)
-
-*35*Barring PIN*16# (for SMS only). To deactivate, dial #35*Barring PIN#.
-
-The Call Barring service is free.
-
-Default Barring PIN is 0000. To change Barring PIN use **03*330*old pin*new pin*new pin#
-Barring of Incoming International Calls whilst Overseas
-To activate Blocking of Incoming International Calls whilst you are overseas, dial:
-
-*351*Barring PIN# (for Calls and SMS)
-
-*351*Barring PIN*11# (for Calls only)
-
-*351*Barring PIN*16# (for SMS only). To deactivate, dial #351*Barring PIN#.
-
-The Call Barring service is free.
-
-Default Barring PIN is 0000. To change Barring PIN use **03*330*old pin*new pin*new pin#
-Call Waiting
-To activate Call Waiting, dial *43#. To deactivate, dial #43#.
-
-The Call Waiting service is free.
-## Plume HomePass
-How does Plume HomePass® work?
-Plume is powered by the cloud, which means it can adapt to real life in real-time, ensuring that every room and every device has a reliable and fast connection now and into the future. Plume HomePass® is continuously learning about the user’s internet needs. It performs advanced self-optimizations and allocates capacity to the devices that need it most.And it gets better each day!
-
-What is the HomePass® App?
-When you get onboarded with the Plume HomePass® service, you will also download the HomePass® on your mobile device. The App lets you see which devices are accessing the Internet and how much they’re uploading or downloading. You can block and unblock specific devices from accessing the Internet and delivers daily reports on your home WiFi signal strength and network activity. With this App you take control of your WiFi network.
-How to install Plume HomePass® by myself?
-Download the Plume app from either theApple StoreorGoogle Play. Next, launch thePlume app.Choose “Set up Plume”, then enter your name and email to create your Plume account.Passwords must be at least eight characters.Check your email and verify the email account that will be associated with your new Plume account.Next, there are a few steps to setup your Pod. There is an option for Advanced setup, if needed.Enter your WiFi name and password. There will be a series of helpful on-screen tips for additional pod placement.If you have more than one pod, plug it in and add it to your network now.Be sure to enable notifications. This will help you be aware of your home network activity.The Plume app will prompt you to join the new WiFi network.Finally, after you’ve allowed Plume to join your network, you’ll be taken to the home screen. Over the next 24 hours, your new Plume WiFi network will optimize to create the best performance for your connected devices.
-Download the Plume app from either theApple StoreorGoogle Play. Next, launch thePlume app.Choose “Set up Plume”, then enter your name and email to create your Plume account.
-Passwords must be at least eight characters.
-Check your email and verify the email account that will be associated with your new Plume account.
-Next, there are a few steps to setup your Pod. There is an option for Advanced setup, if needed.
-Enter your WiFi name and password. There will be a series of helpful on-screen tips for additional pod placement.
-If you have more than one pod, plug it in and add it to your network now.
-Be sure to enable notifications. This will help you be aware of your home network activity.
-The Plume app will prompt you to join the new WiFi network.
-Finally, after you’ve allowed Plume to join your network, you’ll be taken to the home screen. Over the next 24 hours, your new Plume WiFi network will optimize to create the best performance for your connected devices.
-
-How can I delete my Plume HomePass® data history?
-All Plume members have the right to be forgotten. HomePass supports two different types of data deletions.Delete security event dataIf you’d like to just remove items from your list of blocked events from either Guard or Content Access:In the HomePass app, open the More menu.Select the Guard option.On the bottom of the Guard settings page, you will find the Delete security events button.Simply tap the button and confirm that you would like to clear the data.Note that once deleted, this data cannot be recovered
-
-If you haven’t disabled Guard or Content Access features, more events will continue to populate the list. Just continue to repeat this process as often as you need.
-In the HomePass app, open the More menu.Select the Guard option.On the bottom of the Guard settings page, you will find the Delete security events button.Simply tap the button and confirm that you would like to clear the data.
-What is the Plume HomePass® Control™?
-The Control™ is an unparalleled parental controls and guest access solution. Give full home WiFi access to people you implicitly trust, create custom passwords for your guests, make the internet a safer place for your family and even schedule an Internet freeze for those who need some time off.
-Why am I receiving Plume HomePass® Sense motion notifications when no one is home?
-The most common reasons for receiving false Sense Alerts when no one is in your home are:The Motion sensitivity may be set too high or pet mode is not enabled. If you have pets try enabling pet mode, or try turning down the Motion sensitivity to medium or low.If you have more than one location, alerts are sent for all locations under your Plume account. Switch your app to the other location and check the Motion Today graph to see if the events displayed in that location correspond to the alert you have received.
-The Motion sensitivity may be set too high or pet mode is not enabled. If you have pets try enabling pet mode, or try turning down the Motion sensitivity to medium or low.If you have more than one location, alerts are sent for all locations under your Plume account. Switch your app to the other location and check the Motion Today graph to see if the events displayed in that location correspond to the alert you have received.
-How can I add Plume HomePass® Pods to an existing Plume account?
-We strongly recommend that you use a Pod as your gateway in order to distribute the best performance across your entire home!Adding a new podPlug in your Pod anywhere within your home and stay nearby.On the Home page, scroll down to the Adapt section.Tap the ⋮ to open the Options Menu.Tap on Add a pod.Wait until your new pod(s) is found and select Done Adding Pods when all additional pods have been claimed.Upgrading or swapping your gateway podIf you want to swap your existing gateway pod with another SuperPod or Kaon AR1344 with WiFi 6, continue with the following steps:Unplug the current gateway pod.If you have a modem, unplug it from the power outlet.Connect the new SuperPod to your modem by Ethernet cable. If it a SuperPod with WiFi 6, make sure you are using the left Ethernet port.Plug your new SuperPod into the power outlet. Once the SuperPod’s LED starts to slowly pulse, plug your modem back into power and wait until the LED turns off.You should be able to view your SuperPod and other pods in your app when the network is back online.
-Plug in your Pod anywhere within your home and stay nearby.On the Home page, scroll down to the Adapt section.Tap the ⋮ to open the Options Menu.Tap on Add a pod.Wait until your new pod(s) is found and select Done Adding Pods when all additional pods have been claimed.
-Unplug the current gateway pod.If you have a modem, unplug it from the power outlet.Connect the new SuperPod to your modem by Ethernet cable. If it a SuperPod with WiFi 6, make sure you are using the left Ethernet port.Plug your new SuperPod into the power outlet. Once the SuperPod’s LED starts to slowly pulse, plug your modem back into power and wait until the LED turns off.You should be able to view your SuperPod and other pods in your app when the network is back online.
-How can I check the firmware version on my Plume HomePass® pods?
-From the Home screen, scroll down to pod list in the Adapt section.Tap on any pod you wish to see device information about.Tap the ⋮ icon in the upper right-hand corner.Tap View Hardware Info. Firmware version will be the first item in the list. Please visit this link for full release notes.
-
-In addition to the firmware version, you can also view the pod’s serial number, MAC address and assigned IP address.
-From the Home screen, scroll down to pod list in the Adapt section.Tap on any pod you wish to see device information about.Tap the ⋮ icon in the upper right-hand corner.Tap View Hardware Info. Firmware version will be the first item in the list. Please visit this link for full release notes.
-
-In addition to the firmware version, you can also view the pod’s serial number, MAC address and assigned IP address.
-How does Plume’s content access work?
-Plume’s content access feature will allow you to restrict content for a device or person. We have identified the most common content filtering categories that you can use when personalizing your online experience.
-
-
-
-Additionally, if a location has a setting enabled, any new devices and profiles added will inherit the same settings by default. If should be noted that if a device is assigned to a person, Content Access rules will always be the same for a person and their associated devices.
-How to set a global or custom Internet Time Out with my Plume HomePass® service?
-Plume gives you the ability to briefly freeze or pause internet access globally for all people or for all devices instantly through the Time Out feature. If you want to set a scheduled Internet break, consider our Device Freeze feature.Setting a custom Time Out / Global Time Out(All people)From the home screen, scroll to the Control Section and find the option Time Out menu.Tap on the pencil icon to edit who will be put in a Time Out and the length of the Time Out.Use the + or – to modify the Time Out period in 10-minute increments.Under Devices belonging to, tap on the people individually or you can use the black checkmark to select everyone.Tap on Done to return to the previous screen.Tap on the pause icon to activate the Time Out. All devices assigned to the people selected will now have Internet access blocked. The Time Out timer will count down until expiry.Use the +, – or x to modify the duration or cancel the Time Out.Setting a custom Time Out / Global Time Out (All devices)From the home screen scroll to Control Section and find the Time Out menu.Tap on the pencil icon to edit who will be put in a Time Out and the length of the Time Out.Use the + to increase the Time Out period in 10-minute increments. Use the – to reduce the duration.Under Devices at home, tap on the devices individually or you can use the black checkmark to select all devices.Tap on Done to return to the previous screen.Tap on the pause icon to activate the Time Out. All devices selected will now have Internet access blocked. The Time Out timer will count down until expiry.Use the +, – or x to modify the duration or cancel the Time Out.
-From the home screen, scroll to the Control Section and find the option Time Out menu.Tap on the pencil icon to edit who will be put in a Time Out and the length of the Time Out.Use the + or – to modify the Time Out period in 10-minute increments.Under Devices belonging to, tap on the people individually or you can use the black checkmark to select everyone.Tap on Done to return to the previous screen.Tap on the pause icon to activate the Time Out. All devices assigned to the people selected will now have Internet access blocked. The Time Out timer will count down until expiry.Use the +, – or x to modify the duration or cancel the Time Out.
-From the home screen scroll to Control Section and find the Time Out menu.Tap on the pencil icon to edit who will be put in a Time Out and the length of the Time Out.
-From the home screen scroll to Control Section and find the Time Out menu.Tap on the pencil icon to edit who will be put in a Time Out and the length of the Time Out.
-Use the + to increase the Time Out period in 10-minute increments. Use the – to reduce the duration.Under Devices at home, tap on the devices individually or you can use the black checkmark to select all devices.Tap on Done to return to the previous screen.Tap on the pause icon to activate the Time Out. All devices selected will now have Internet access blocked. The Time Out timer will count down until expiry.Use the +, – or x to modify the duration or cancel the Time Out.
-How can I tell if someone is home with my Plume HomePass® service?
-If you have assigned a primary device for everyone in your home, you can use the People Notifications feature to receive notifications when people return home or leave.
-
-
-Additionally, Intrusion Prevention automatically blocks connections from high-risk IP addresses trying to remotely connect to your devices, keeping you and your family safe from online threats.
-
-Another benefit of the IP based protection is that it enhances our Content Access feature by making it possible to manually block specific IP addresses in addition to domains.
-
-Outbound IP Protection and Intrusion Prevention are included when turning on Online Protection if you have a SuperPod connected as the Gateway Pod with firmware 2.4.3 and higher.
-How do I approve (unblock) a website with my Plume HomePass® service?
-You can approve a website for a person, the entire network or a device if not assigned to a person. Up to 50 websites can be approved in total.
-
-If you notice a website has been incorrectly blocked, please report it to support.Approving Websites for EveryoneFrom the Home page, tap on the Guard events.Go to Approve tab and tap on Approve.Choosing Approve Website allows you to enter the URL of domain, while Approve IP Address allows you to enter the server IP address.Enter the URL or IP address and tap on Approve to save. Please note that the full domain name is required. For example; make sure to write “youtube.com” instead of “youtube”.Tap on Apply to confirm the changes.Additionally, you are able to view previously blocked sites under the Protected tab. Tap or swipe on the blocked event to start the approval flow.Approve websites at a person or device levelNavigate to the desired person or deviceTap on Manage security events at the bottom of the pageTap on ApproveChoosing Approve Website allows you to enter the URL of domain, while Approve IP Address allows you to enter the server IP address.Based on your previous choice, enter the URL or IP address and tap the checkmark to save. The full domain name is required for websites. For example; make sure to write “youtube.com” instead of “youtube”. Tap on Approve to confirm your choice.If you are approving the site for a device that has been assigned to a person, the rule will also apply to the person. Likewise, approving a site for the person automatically applies that rule to all of their assigned devices. If the device is not assigned, the rule will only apply to the device.You can also unblock a website from Protected list.Simply swipe or tap to add a site to your Approved list.
-From the Home page, tap on the Guard events.Go to Approve tab and tap on Approve.Choosing Approve Website allows you to enter the URL of domain, while Approve IP Address allows you to enter the server IP address.Enter the URL or IP address and tap on Approve to save. Please note that the full domain name is required. For example; make sure to write “youtube.com” instead of “youtube”.Tap on Apply to confirm the changes.Additionally, you are able to view previously blocked sites under the Protected tab. Tap or swipe on the blocked event to start the approval flow.
-Navigate to the desired person or deviceTap on Manage security events at the bottom of the pageTap on ApproveChoosing Approve Website allows you to enter the URL of domain, while Approve IP Address allows you to enter the server IP address.Based on your previous choice, enter the URL or IP address and tap the checkmark to save. The full domain name is required for websites. For example; make sure to write “youtube.com” instead of “youtube”. Tap on Approve to confirm your choice.If you are approving the site for a device that has been assigned to a person, the rule will also apply to the person. Likewise, approving a site for the person automatically applies that rule to all of their assigned devices. If the device is not assigned, the rule will only apply to the device.
-How can I tell what events have been blocked by the Plume HomePass® service Online Protection?
-From the Home screen and tap on the Guard events button.The Protected tab will display all blocked events.You can sort the list of events shown below by type of event or by choosing a person.Simply tap on any event to add the site to the Approved list if you trust that it is actually safe.
-From the Home screen and tap on the Guard events button.The Protected tab will display all blocked events.You can sort the list of events shown below by type of event or by choosing a person.Simply tap on any event to add the site to the Approved list if you trust that it is actually safe.
-How does Plume HomePass® service Online Protection work?
-Enabling the Online Protection feature will protect your devices from malware sites, botnets, spyware, spam, phishing, keyloggers, monitoring, proxy avoidance, anonymizer and other harmful attacks on your network.
-
-How do I turn on Online Protection?
-
-The feature is enabled on all devices by default, but can be customized on the device or person level for an individualized experience. When this is enabled for a person, the Online Protection will automatically be turned on across all the devices assigned to that person.
-
-Online Protection is controlled at the Network level in the Guard menu, while device and person settings can be modified from within their respective detail screens.Content is restricted by our security feature whenever you see the “Access to this website is blocked” message displayed in the browser window.
-
-Note: This only appears for HTTP sites; HTTPS sites prevent this and display the browser’s default “can’t be reached” message. HTTPS connections cannot be redirected to the HTTP blocked page because it would break the secure trusted SSL connection.
-How is the Plume HomePass® service Advanced IoT Protection different from Online Protection?
-Advanced IoT Protection (AIP) is a security advancement found in Plume Guard. Prior to its release, Online Protection protected all your connected home devices from going to sites known to host malware, spam, or phishing attacks. AIP provides protection from new, unknown attacks that are currently not part of any known threat intelligence database. It can detect unusual patterns in your IoT device’s activity that indicates the device may be infected. Advanced IoT Protection can be enabled via the Guard tab from within the main menu.
-I see Plume HomePass® service Advanced IoT Protection blocked an event. Now what do I do?
-If there is a suspicious activity blocked event, you probably received a push notification warning you that a smart home device went to a website which is considered unusual compared to its normal behavior. There is no required action on your end other than enjoying the peace of mind that Plume is protecting you and your family!
-What is Plume HomePass® service Privacy Mode?
-Plume’s Privacy Mode enables you to limit data from being sent to the Plume Cloud. This feature is configurable at the location level. It is Disabled by default, though you can always enable it by accessing the Guard tab of your HomePass app.When you Enable Privacy mode: All Guard features (Online Protection, Advanced IoT Protection, Adblocking, and Content Filters) will be disabled. Past blocked events are preserved and will be visible through the app upon disabling Privacy mode, unless you choose the Delete Security Events option.
-
-• Previously quarantined devices will be un-quarantined.
-
-• DNS sampling and user agents will not be collected at any time so Advanced Device Typing information may not be accurate.
-
-For more on Plume’s full Privacy Policy, clickhere.
-What if Plume HomePass® service Advanced IoT Protection blocks a site that is actually safe?
-When an anomaly is detected, the device will automatically be placed into quarantine to protect the integrity of your network and the devices connected to it. Quarantining the device effectively places “Internet Only” permission on the device, allowing basic functionality while preventing access to your other home devices. Advanced IoT Protection (AIP) uses machine learning on device network metadata to establish known behaviors. However, sometimes safe sites can be flagged as a false positive. If a new behavior comes across our large training samples or if device behaviors are updated by the vendor, the device may be incorrectly flagged. Learning happens continually to establish new normal behaviors, however can cause some alerts in the interim. If you trust the website the device is accessing, you can whitelist it for the device and for all devices in the home.When Should I Remove a Device From Quarantine?You should only remove a device from quarantine if you trust the website it was trying to access. On a quarantined device, there is a recommendation which will open a web search for the device’s manufacturer website, so you can do more research or find an updated firmware before removing the device from quarantine.Removing a Device from QuarantineOpen the device list and navigate to the Internet Only devices.Find the affected device. The affected device will be labeled: Device is quarantined.Tap on the quarantined device for more options.You can choose Unquarantine for 1 hour or Unquarantine permanently.
-Open the device list and navigate to the Internet Only devices.Find the affected device. The affected device will be labeled: Device is quarantined.Tap on the quarantined device for more options.You can choose Unquarantine for 1 hour or Unquarantine permanently.
-How can I tell if someone is home with my Plume HomePass® service?
-From the Home screen and tap on the Guard events button.The Protected tab will display all blocked events.You can sort the list of events shown below by type of event or by choosing a person.Simply tap on any event to add the site to the Approved list if you trust that it is actually safe.
-From the Home screen and tap on the Guard events button.The Protected tab will display all blocked events.You can sort the list of events shown below by type of event or by choosing a person.Simply tap on any event to add the site to the Approved list if you trust that it is actually safe.
-What is the Plume HomePass® service Sense™?
-With Sense™ existing smart devices become motion detectors without the use of cameras, in order for you to gain whole-home awareness. The HomePass® app shows you movement in the vicinity of each connected device or room on your network.
-Plume HomePass® service Sense Live View
-Live View allows you to see both the location and intensity of the detected motion in real-time.In the Live View display, the overall intensity and duration of the motion are represented by the background wave. The devices detecting the motion are displayed to provide an approximate location of where the motion is being detected. Along with the motion intensity being detected by each device, this can be used to get an idea of where someone is moving. Be sure to assign rooms to your devices to better pinpoint where motion is happening.Accessing the Live ViewFrom the home screen, Scroll to the Sense section.The Live View will be available on the home screen. If you want to see more details tap on the Sense section.
-From the home screen, Scroll to the Sense section.The Live View will be available on the home screen. If you want to see more details tap on the Sense section.
-How to choose your Motion Detection Devices using the Plume HomePass® service
-How are devices chosen to detect motion?Sense uses a behind-the-scenes algorithm to pick from the Sense device list devices that are best suited for motion detection.Modifying the Sense device listThe pool of available devices (Sense device list) from which the algorithm chooses is based on all WiFi devices currently connected to a Pod, excluding mobile devices. This Sense device list can be modified by you to limit motion detection in certain areas. We recommend leaving all devices in the Sense Devices list selected for optimal performance, but if you would like to manually choose which devices can be used, the following guidelines will help you get the most coverage in your home.If you want to limit motion detection in certain areas of your home, deselect devices in those areas.Although Sense will keep most mobile devices separate, ensure you choose devices that will remain static.Avoid choosing devices that are battery operated or may frequently go into a low-power state. Always-on devices such as voice assistants and other smart home devices are good candidates.Since Pods are already being used to detect motion, avoid choosing devices that are either in the same room or very close to them.To better refine the motion sensitivity, use the Live View feature to test the motion detection in each room.How do I access and modify the Motion Detection Devices list?From the home screen, scroll down to the Sense section and tap on the Live view.Scroll down and tap on the pencil icon next to Sense devices.Remove the green checkmark next to any device you do not want to be used for motion detection or add a green checkmark next to devices you want to be used.Be sure to assign rooms to your devices if you haven’t already done so.The cloud will only use the 3 most appropriate devices connected to each Pod from your choices.
-If you want to limit motion detection in certain areas of your home, deselect devices in those areas.Although Sense will keep most mobile devices separate, ensure you choose devices that will remain static.Avoid choosing devices that are battery operated or may frequently go into a low-power state. Always-on devices such as voice assistants and other smart home devices are good candidates.Since Pods are already being used to detect motion, avoid choosing devices that are either in the same room or very close to them.To better refine the motion sensitivity, use the Live View feature to test the motion detection in each room.
-From the home screen, scroll down to the Sense section and tap on the Live view.Scroll down and tap on the pencil icon next to Sense devices.Remove the green checkmark next to any device you do not want to be used for motion detection or add a green checkmark next to devices you want to be used.Be sure to assign rooms to your devices if you haven’t already done so.
-How to adjust Plume HomePass® service motion sensitivity?
-Motion sensitivity may need to be adjusted for the following reasons:Improve motion detection sensitivity, particularly if you have only a few Pods and/or WiFi connected devicesThere are obstructions that are making it difficult for your Pods and devices to detect motion in some areas.You are getting too many false motion alerts because of your pets or robotic vacuums.What are the sensitivity options?Low (less sensitive to motion intensity)Medium (default)High (more sensitive to motion intensity)If you chooseHighsensitivity, you can also choose theHave Pets at homeoption to help filter out their movement in your home. This increases the duration of movement needed to trigger an alert from 2 seconds to 5 seconds. After choosing your sensitivity setting, use the Live View and test the results in all the areas you want to detect motion in.How do I change motion sensitivity?Scroll down on the Home page and Tap on the Sense.Scroll down to the bottom of the page and open Sense Settings.Choose your Motion Sensitivity option and toggle the Pet mode (optional)
-Improve motion detection sensitivity, particularly if you have only a few Pods and/or WiFi connected devicesThere are obstructions that are making it difficult for your Pods and devices to detect motion in some areas.You are getting too many false motion alerts because of your pets or robotic vacuums.
-Low (less sensitive to motion intensity)Medium (default)High (more sensitive to motion intensity)
-Scroll down on the Home page and Tap on the Sense.Scroll down to the bottom of the page and open Sense Settings.Choose your Motion Sensitivity option and toggle the Pet mode (optional)
-How do I access my Plume HomePass® service home’s motion history?
-What is kind of motion history is displayed?There are two available historical views:Motion Today – Each column represents an hour.Motion Last 7 Days – Each segment represents 1 hour.In each of the historical views, the colours in the charts represent the various states of the motion detection system.Blue– Motion was detected (System unarmed)Red– Motion was detected when people are away (System armed) and triggered a Sense AlertGreen – All people are away (System armed) and no motion is present in the 7-day view. Layered in the background of the Today view.Grey– Plume Sense motion detection was turned off in the 7-day view. Layered in the background in the Today view.The degree of transparency represents the intensity of the motion at the time.How do view motion detection history?From the home screen, scroll down until you get to the Sense section.Tap on either the Today or Last 7 days buttons to view that historical view.
-Motion Today – Each column represents an hour.Motion Last 7 Days – Each segment represents 1 hour.
-Blue– Motion was detected (System unarmed)Red– Motion was detected when people are away (System armed) and triggered a Sense AlertGreen – All people are away (System armed) and no motion is present in the 7-day view. Layered in the background of the Today view.Grey– Plume Sense motion detection was turned off in the 7-day view. Layered in the background in the Today view.The degree of transparency represents the intensity of the motion at the time.
-From the home screen, scroll down until you get to the Sense section.Tap on either the Today or Last 7 days buttons to view that historical view.
-How do I create rooms with my Plume HomePass® service?
-The HomePass App allows you to group your devices into rooms to improve motion detection accuracy. For example, if your living room has a smart TV, smart speaker, and voice assistant, motion detection on any of these devices can be localized to your living room!Creating roomsFrom the home screen, enable Sense. Once Sense is enabled, a list of eligible devices will begin to populate, and you will be prompted to assign devices to a room.Tap on one of the devices in the unassigned device list.Enter the name of the room for this device and tap on Save.If there is more than one device in that room, tap on the + icon.From the device list, add a green checkmark next to all the devices in that room and tap on Add.From the unassigned device list, tap on another device and repeat the previous three steps until all devices have been assigned a room.
-From the home screen, enable Sense. Once Sense is enabled, a list of eligible devices will begin to populate, and you will be prompted to assign devices to a room.Tap on one of the devices in the unassigned device list.Enter the name of the room for this device and tap on Save.If there is more than one device in that room, tap on the + icon.From the device list, add a green checkmark next to all the devices in that room and tap on Add.From the unassigned device list, tap on another device and repeat the previous three steps until all devices have been assigned a room.
-How do I set up Plume HomePass® service Sense motion alert notifications?
-When Sense Alerts is enabled, push notifications will be sent to your device whenever the system detects motion. You can enable these notifications to send at all times or only while nobody is at home using the Smart Activation feature.
-
-You need to assign a Primary device to everyone to ensure Sense can properly determine if everyone has left and also enable the People notifications.Enable NotificationsScroll down to the Sense section on the Home Screen and tap on it.Scroll down to the option Sense Alerts and tap on the Bell to enable the notifications.For Notifications Settings:Tap on the Main Menu at the bottom of the screen and then tap on Sense.Under Modes and Alerts, slide the Smart Activation toggle to the right if you do not wish to receive alerts while you are home.Under the Alerts section, you can set the minimum Time between alerts to either1Mins,2Mins,3Mins, or5This prevents you from getting too many notifications if a motion alert gets triggered immediately after another one.Scroll back up to the top of the screen to turn Sense alerts fromONtoOFF.When are Sense Alert push notifications triggered? Sense alerts will only be triggered if:Sense motion detection is enabled.Sense Alerts are enabled.If the Smart Activation of alerts has been enabled, everyone has left your home. (all assigned primary devices have been disconnected for 15 minutes or more)The motion being detected occurs for at least 2 seconds (5 seconds if pet mode is enabled), within an approximate 10′-13′ radius from a motion detection device or SuperPod.The minimum time interval since the last alert has been met.
-Scroll down to the Sense section on the Home Screen and tap on it.Scroll down to the option Sense Alerts and tap on the Bell to enable the notifications.
-Tap on the Main Menu at the bottom of the screen and then tap on Sense.Under Modes and Alerts, slide the Smart Activation toggle to the right if you do not wish to receive alerts while you are home.Under the Alerts section, you can set the minimum Time between alerts to either1Mins,2Mins,3Mins, or5This prevents you from getting too many notifications if a motion alert gets triggered immediately after another one.Scroll back up to the top of the screen to turn Sense alerts fromONtoOFF.
-Sense motion detection is enabled.Sense Alerts are enabled.If the Smart Activation of alerts has been enabled, everyone has left your home. (all assigned primary devices have been disconnected for 15 minutes or more)The motion being detected occurs for at least 2 seconds (5 seconds if pet mode is enabled), within an approximate 10′-13′ radius from a motion detection device or SuperPod.The minimum time interval since the last alert has been met.
-Why am I not receiving Plume HomePass® Sense notifications when there is motion in my home?
-These are the most common reasons for not receiving Sense Alerts:Push notifications may have been disabled on your device.iOS – Enable push notificationsAndroid – Enable Push notificationsThe motion being detected is not enough to trigger a Sense alert. Alerts are triggered only if the motion event lasts at least 2 seconds (5 seconds with pet mode enabled) and within approximately 10-13 feet of a SuperPod or Sense enabled device.The sensitivity is set too low for the amount of motion present.Sense Alerts have been turned off.Unless Smart Activation is disabled, notifications will not be sent if you and your other family members are home.Why am I still receiving Plume HomePass® Sense motion notifications while I’m home?
-
-Other than Smart Activation for Sense alerts not being enabled, the most common reason you may still be getting Sense alerts while you are home is that Primary devices have not been assigned to people or People profiles have not been created. Your Home / Away status is based on when all assigned primary devices have disconnected from the network. If you have not assigned any primary devices to people, your current status will always be away and notifications will always go out if there is motion.When Smart Activation has been enabled for Sense alerts, all Primary devices assigned to people must have disconnected from the network for at least 15 minutes. This also means that if someone leaves their primary device at home, alerts will not go out.Depending on your notification interval settings, not enough time has elapsed since your last alert.
-Push notifications may have been disabled on your device.iOS – Enable push notificationsAndroid – Enable Push notificationsThe motion being detected is not enough to trigger a Sense alert. Alerts are triggered only if the motion event lasts at least 2 seconds (5 seconds with pet mode enabled) and within approximately 10-13 feet of a SuperPod or Sense enabled device.The sensitivity is set too low for the amount of motion present.Sense Alerts have been turned off.Unless Smart Activation is disabled, notifications will not be sent if you and your other family members are home.
-When Smart Activation has been enabled for Sense alerts, all Primary devices assigned to people must have disconnected from the network for at least 15 minutes. This also means that if someone leaves their primary device at home, alerts will not go out.Depending on your notification interval settings, not enough time has elapsed since your last alert.
-Why am I still receiving Plume HomePass® Sense motion notifications while I’m home?
-Other than Smart Activation for Sense alerts not being enabled, the most common reason you may still be getting Sense alerts while you are home is that Primary devices have not been assigned to people or People profiles have not been created. Your Home / Away status is based on when all assigned primary devices have disconnected from the network. If you have not assigned any primary devices to people, your current status will always be away and notifications will always go out if there is motion.It is also possible that if all Primary devices chosen have disconnected from the network when they go to sleep (laptops, tablets, portable game consoles) or are powered off, your status will be set to away.
-## Internet
-   What is Purple Max Internet 1G?
-   Purple Max Internet 1G is the new Internet service that offers 1 Gbps connection . Additionally, Purple Max Internet 1G includes the Plume HomePass® service, which provides the ultimate WiFI connectivity experience in the whole house.
-   What is the maximum connection speed?
-   The Cablenet network is being continually upgraded. Download speeds can reach up to 1Gbps.
-
-The Purple Max Internet upload speed is 50Mbps.
-What are the benefits having a Purple Max Internet 1G?
-You will enjoy a smart, secure and fast WiFi system, and the ultimate experience of living in a “smart” home.You will enjoy carefree and simplicity, with this one single choice.You can get the Purple Max Mobile at the reduced price of only €20/month, if you combine it with Purple Max Internet.
-You will enjoy a smart, secure and fast WiFi system, and the ultimate experience of living in a “smart” home.You will enjoy carefree and simplicity, with this one single choice.You can get the Purple Max Mobile at the reduced price of only €20/month, if you combine it with Purple Max Internet.
-## Mobile Services
-How can I connect to the Internet using my mobile?
-In instances where the APN does not appear automatically, you will have to select it as follows:Internet settings for iPhone devices:On the home screen, select SettingsSelect CellularSelect Cellular Data NetworkSelect APNType cablenetSelect Menu to save settingsInternet settings for Android devices:Select AppsSelect SettingsSelect Wireless & Networks or ConnectionsSelect More Networks or More SettingsSelect Mobile NetworksSelect Access Point NamesSelect the Menu buttonSelect New APNSelect NameType cablenet and press OKInternet settings for Win 8 Phones devices:On the home screen, slide your finger to the leftSelect SettingsSelect Mobile NetworkSelect Add Internet APNType cablenet• Select save to create the internet APN
-On the home screen, select SettingsSelect CellularSelect Cellular Data NetworkSelect APNType cablenetSelect Menu to save settings
-Select AppsSelect SettingsSelect Wireless & Networks or ConnectionsSelect More Networks or More SettingsSelect Mobile NetworksSelect Access Point NamesSelect the Menu buttonSelect New APNSelect NameType cablenet and press OK
-On the home screen, slide your finger to the leftSelect SettingsSelect Mobile NetworkSelect Add Internet APNType cablenet
-How can I create a hotspot?
-Mobile hotspot can be activated on Android by heading toSettings > Network & internet > Hotspot & tethering, and toggle on Use Wi-Fi hotspot.For iPhone devices, go toSettings > Cellular > Personal Hotspot or Settings > Personal Hotspot. Then tap the slider next to Allow Others to Join.
-Mobile hotspot can be activated on Android by heading toSettings > Network & internet > Hotspot & tethering, and toggle on Use Wi-Fi hotspot.
-For iPhone devices, go toSettings > Cellular > Personal Hotspot or Settings > Personal Hotspot. Then tap the slider next to Allow Others to Join.
-What should I do if there is a network coverage issue in my area?
-Please contact our Customer Service Centre on 130 so that we can check coverage in your area.
-Why can’t I make any calls?
-When you can’t make any calls, the most likely reason is that outgoing calls from your mobile have been blocked, either through your device or due to an outstanding balance. For more information, please call the Customer Service Centre on 130.
-Why is my mobile’s signal strength not always steady?
-Your mobile’s signal strength is directly affected by the distance between you and the tower transmitting the signal. As the distance between you and the tower increases, the signal strength will weaken until you connect to another signal-transmitting tower which is closer to your location.
-I can’t send SMS messages. What should I do?
-If you can’t send SMS messages from your mobile, check SMS settings on your device and ensure that the number of the message centre is +35794066666.
-In how many sizes is the SIM card available?
-The SIM card is available in three sizes: SIM, MicroSIM και NanoSIM.
-Could I have a second SIM card with the same number?
-twinSIM’ service.
-What should I do if the phone keeps asking for a PIN or PUK?
-PIN & PUK information is available on the reverse side of the SIM card. If you have lost this information, please call the Customer Service Centre on 130 so that we can give you the PUK and you may subsequently set your new PIN. The information can only be given to the owner of the SIM card.
-What is the ICCID number and where can I find it?
-Each SIM card has a unique international identification number. This is the ICCID number and it is printed on each SIM card.
-Where can I find my device’s IMEI?
-The IMEI number is printed under your device’s battery and on the device’s packaging. It will also appear on your screen when you dial *#06#. We suggest you write down your device’s IMEI number because you will need it if you lose your mobile.
-How will I be charged if I used my mobile overseas?
-All Cablenet Mobile subscribers can enjoy low roaming charges for voice calls, sending of SMS and data transfer, provided that they connect to one of the networks with which our company collaborates. For any calls made or received, you will be charged according to the billing zone of the country in which you are located and the network to which you are connected.
-What network speed will I have with my mobile service?
-The network speed you will have with your mobile service is 4G.
-How can I contact the Customer Service Centre when I’m overseas?
-If you are overseas, you may contact the Customer Service Centre on +357 22255130.
-Are there any credit limits on my mobile plan that I should be aware of?
-Yes, all Cablenet mobile plans are subject to a default Credit Limit. Your Credit Limit is set at €50 and is consumed whenever you may use your mobile line for any “out-of-bundle” services. Out-of-bundle consumption includes additional minutes or SMS beyond your inclusive credits, calls to international destinations, roaming usage not covered by the RLAH rules (see Roam Like at Home), and usage of local premium services and calls to special numbers. For more information call 130.
-Can I increase my default credit limit on my mobile plan?
-Yes, if the default spending limit is depleted and you would like to boost your default spend limit by €20 for an additional 30 days, you can do so by sending an SMS to 8844 with the code CL20. If you would like to increase it by more than €20 please call 130.
-Why can’t I call or SMS anyone?
-Try optimizing your device by turning it OFF and then back ON or by setting Airplane mode ON and then OFF.Try to use another roaming partner by manually selecting it on the device. You can find our roaming partners at:For monthly plans,click hereand select “Roaming Operators” under the Roaming sectionFor prepaid plans,click hereand select “Roaming Operators” under the Roaming sectionChange the setting in “SIM Toolkit” from Automatic to Manual.Check if you are using the country prefix code (i.e. Cyprus +357xxxxxxxx).
-Try optimizing your device by turning it OFF and then back ON or by setting Airplane mode ON and then OFF.Try to use another roaming partner by manually selecting it on the device. You can find our roaming partners at:For monthly plans,click hereand select “Roaming Operators” under the Roaming sectionFor prepaid plans,click hereand select “Roaming Operators” under the Roaming sectionChange the setting in “SIM Toolkit” from Automatic to Manual.Check if you are using the country prefix code (i.e. Cyprus +357xxxxxxxx).
-For monthly plans,click hereand select “Roaming Operators” under the Roaming sectionFor prepaid plans,click hereand select “Roaming Operators” under the Roaming section
-I have the Internet plug&surf service. Can I use it while in an EU country?
-Currently, Internet plug&surf is only available for surfing within Cyprus and cannot be used while roaming.
-What do I need to be aware of when traveling near country boarders?
-To avoid any unwanted charges when traveling near country borders it is recommended that you use manual rather than automatic mobile network selection on your mobile device and always check the name of the network provider on your phone before using it. Also, you can turn data roaming off in your mobile device’s settings for you to avoid any accidental data roaming charges.
-What does the Missed Call Notification service do?
-After its activation, you'll be notified of every call you missed, even when your phone is switched off or out of range.
-What does the Missed Call Notification service’s text message include?
-The text message includes information such as the phone number that called you, the number of missed calls and the date and time of the missed calls.
-Is there a limit on the number of Missed Call Notifications I can receive within one day?
-There is no limit.
-Why does the notification message say ‘Unknown’?
-'Unknown' appears when Caller ID has been blocked by the caller.
-How can I deactivate the Missed Call Notification service?
-To deactivate the service, you must text MCN OFF to 8844. You wil then receive a text message via SMS confirming that the Missed Call Notification service has been deactivated.
-Will the service work when I’m overseas?
-Yes. You'll receive notification of missed calls even when you're roaming.
-
-Can I send a text message to 8844 while I’m overseas?
-Yes. You can send a text message via SMS to 8844 while you're roaming. The service's activation and deactivation procedures remain the same.
-
-I have activated the Missed Call Notification service and see the number +35722250159 in the Call Forwarding settings. Why?
-When the service is activated, the system automatically sets call forwarding to +35722250159. This is a basic setting for its correct operation.
-
-What will happen if I delete or replace the number +35722250159 from call forwarding on my mobile phone?
-If you delete or replace the number +35722250159 from the device's call forwarding, the Missed Call Notification service will not function. You can add the number +35722250159 by typing it in or reactivating the service.
-
-If the SMS Center of my mobile device is wrong will I be able to receive SMS from CablenetMCN sender?
-Yes, you'll be able to receive these specific messages however you won't be able to send texts via SMS. The correct number for the SMS Centre is +35794066666.
-
-How can I set the APN internet settings on my mobile?
-For iPhone devices:On the home screen, select SettingsSelect CellularSelect Data NetworkSelect APNType cablenetSelect Menu to save settingsFor Android devices:Select AppsSelect SettingsSelect Wireless & Networks or ConnectionsSelect More Networks or More SettingsSelect Mobile NetworksSelect Access Point NamesSelect the MenuSelect New APNSelect NameType cablenet and select OK
-On the home screen, select SettingsSelect CellularSelect Data NetworkSelect APNType cablenetSelect Menu to save settings
-Select AppsSelect SettingsSelect Wireless & Networks or ConnectionsSelect More Networks or More SettingsSelect Mobile NetworksSelect Access Point NamesSelect the MenuSelect New APNSelect NameType cablenet and select OK
-
-How can I transfer my prepaid mobile number from another provider to Cablenet?
-You can visit any one of our stores orapply online. Activation will be completed two working days after the date of the transfer from another provider to Cablenet.
-
-How can I transfer my number from another provider to Cablenet?
-You can visit any one of our stores and present your ID card/passport and a recent bill from your current provider. Activation will be completed two working days from the date of number transfer from the previous provider to Cablenet. You can see available packages andchoose whichever suits your needs here.
-
-Can I transfer my current mobile number to the Cablenet Prepaid service?
-Yes, you can transfer your number at any Cablenet Store or online byclicking here.
-
-How can I transfer my existing mobile number to Cablenet?
-You can transfer your line to Cablenet easily and without any charge. The application process can be done either at any Cablenet store oronline. We will take care of the rest.We’ll call you to complete the process and inform you about all the next steps. You just need to replace your SIM card when you receive the relevant SMS.Required documents:ID / Passport numberPrevious bill from the current providerIf you are a prepaid subscriber and wish to transfer your line to the Cablenet Prepaid service, you can eithercomplete the application hereor visit any Cablenet store.
-ID / Passport numberPrevious bill from the current provider
-
-How can I check my mobile plan available balance?
-Just dial *101# and use the interactive menu. When you check your available balance (using *101#), the balance displayed is the available balance in your bundle.
-
-Which bands does the Cablenet mobile network support?
-The Cablenet mobile telephony network supports B7 – 2600MHz and B20 - 800MHz bands.
-
-I want to cancel my subscription, and my contract hasn’t expired yet. What do I need to pay?
-New subscribers: early termination fees for a 24month contractTerminationMonthAdministration ChargeInstallation ChargeServices Used.
-## ESIM
-What is the difference between an eSIM and a SIM?
-The main difference between a SIM card and an eSIM is the physical presence. A SIM is a physical card that needs to be inserted into a device, while an eSIM is embedded into the device’s hardware. This allows the user to use mobile services without the need of a physical card.
-
-
-How does eSIM work?
-The eSIM does exactly what a physical SIM would do. The only difference is that instead of inserting it in your device, you scan a QR code which contains all the data required for your device to establish a connection with Cablenet’s network.
-
-
-Is my eSIM QR code unique?
-Yes, eSIM QR codes are unique. Each eSIM has its own distinct QR code that contains specific information related to the connected subscription. Once the QR code is scanned and as long as the eSIM is activated on your device, the QR code becomes inactive and cannot be used again. This unique QR code ensures that only your device can access and activate the eSIM associated with your subscription.
-
-
-How can I change to an eSIM?
-You can visit one of Cablenet shops to swap your physical SIM with an eSIM. The charge for the change will be according to theCompany’s Pricelist.
-
-
-How do I set up my eSIM?
-Get an eSIM Voucher from a Cablenet store.Go to the device settings and find the eSIM or cellular settings section.Choose the option to add or enable an eSIM profile.Scan the provided QR code.Follow the on-screen instructions to complete the eSIM activation process.
-Get an eSIM Voucher from a Cablenet store.Go to the device settings and find the eSIM or cellular settings section.Choose the option to add or enable an eSIM profile.Scan the provided QR code.Follow the on-screen instructions to complete the eSIM activation process.
-
-
-How many eSIM profiles can I have on my eSIM?
-You can have only one profile per eSIM.
-
-
-How many eSIM profiles can I have on my device?
-
-The number of eSIMs a device can have depends on the device’s capabilities, but many modern devices support multiple eSIM profiles.
-
-Is my device eSIM compatible?
-You can check if your device is included in our supported eSIM devices, by checking the list with the certified devices listed in the section above.
-
-
-What is the charge for eSIM?
-There is no specific up-front cost for eSIMs, apart from the Mobile Service Registration Fee which is charged for all new mobile subscriptions.
-
-
-How safe is eSIM?
-eSIM technology is secure and uses encryption and authentication protocols like a physical SIM card.
-Where can I find my PIN and PUK numbers?
-The PIN and PUK codes can be found on the eSIM Voucher.
-
-
-Which mobile services work with eSIM?
-All mobile services can be used with an eSIM, exactly as they would with a physical SIM.
-
-
-If I change to an eSIM will i still be able to use my old SIM card?
-With the activation of the eSIM, your physical SIM will be deactivated.
-
-
-How many eSIMs can I have with the same number?
-Only one number can be active per eSIM.
-
-
-Can I have both physical SIM and eSIM on my device?
-That depends on your device. If the device supports it then you can use a physical SIM and an eSIM simultaneously.
-
-
-What happens if I lose my phone?
-In the event that your phone has been stolen or lost, you should immediately contact our Call Center (130) for the deactivation of the eSIM, to prevent it’s unauthorized use. We will be able to replace your eSIM at any Cablenet shop. The charge for the replacement will be according to theCompany’s Pricelist.
-
-
-How do I uninstall my eSIM from a device?
-Go to the device settings and look for the eSIM or cellular settings section.Find the option to manage or remove eSIM profiles.Select the eSIM profile you would like to remove and follow the instructions.
-Go to the device settings and look for the eSIM or cellular settings section.Find the option to manage or remove eSIM profiles.Select the eSIM profile you would like to remove and follow the instructions.
-
-
-Is there a limit on how many times i can transfer my eSIM to another device?
-You may transfer your eSIM to another compatible device up to 6 times. After that you will need to obtain a new eSIM Voucher.
-If I perform a factory reset of my device, will my eSIM profile be affected?
-Unless the eSIM is deleted from the device, it will not be affected.
-
-
-Can I still use my eSIM if I travel abroad?
-Yes, eSIM can be used abroad in the same way as a physical SIM.
-
-
-Can I switch back from an eSIM to a physical SIM?
-Yes, you can switch back to a physical SIM by visiting a Cablenet store.
-
-
-Can I transfer my eSIM to a new device?
-Yes, you can install the eSIM to a new device after deleting it from your existing device. You can then reinstall the eSIM by scanning the QR code on your eSIM Voucher on your new device.
-My device is not supported by your network for eSIM at the current time. Are you planning to include more eSIM supported devices in the future?
-Yes, new eSIM supported devices will be added on a regular basis and the certified devices will be listed in the section above.
-
-
-Can I have an eSIM with the Cablenet Prepaid service?
-Yes, you can have an eSIM with the Cablenet Prepaid service. This is only available at Cablenet stores and charged according to the Company’sPricelistvalid at that time. Find out more about eSIMshere.
-
-What’s the difference between a SIM card and an eSIM?
-The main difference between a SIM card and an eSIM is physical presence. The SIM is a physical card that must be inserted in a device, whereas the eSIM is embedded in the device. This allows the user to use mobile services without the need for a physical card.
-
-
-How does an eSIM work?
-An eSIM does exactly what a physical SIM card does. The only difference is that, instead of inserting it into your device, you scan a QR code which provides all the data that your device needs in order to establish a connection with Cablenet’s network.
-
-
-Is my eSIM QR code unique?
-Yes, eSIM QR codes are unique. Every eSIM has its own unique code that contains specific information regarding the connected subscription. As soon as the QR code is scanned and for however long the eSIM stays activated on your device, the QR code is deactivated and can not be reused. This unique QR code ensures that only your device has access to and can activate the eSIM connected to your service.
-
-
-How can I change to an eSIM?
-You can visit any Cablenet store and swap your physical SIM card to an eSIM. The charge for the change will be according to theCablenet Pricelistvalid at that time.
-
-
-How do I activate my eSIM?
-Get an eSIM Voucher from a Cablenet store.In your device’s settings, locate the eSIM or mobile settings.Select the option to add or activate an eSIM profile.Scan the Voucher’s QR code.Follow the on-screen instructions to complete the eSIM activation process.
-Get an eSIM Voucher from a Cablenet store.In your device’s settings, locate the eSIM or mobile settings.Select the option to add or activate an eSIM profile.Scan the Voucher’s QR code.Follow the on-screen instructions to complete the eSIM activation process.
-
-
-How many eSIM profiles can I have on my eSIM?
-You can have only one profile per eSIM.
-
-
-Is my device eSIM compatible?
-You can check if your device is included in the devices supported by our eSIM service in the above list of certified devices.
-
-
-How much does an eSIM cost?
-There is no upfront cost for eSIMs, aside from the Mobile Telephony Service activation fee that applies to all new Mobile Telephony subscriptions.
-
-
-How safe is an eSIM?
-eSIM technology is safe and uses encryption and authentication protocols, just like a physical SIM card does.
-
-
-Where can I find the PIN and PUK numbers?
-The PIN and PUK codes are printed on the eSIM Voucher.
-
-
-Which mobile telephony services work with an eSIM?
-You can use all mobile telephony services with an eSIM, exactly as you would with any physical SIM card.
-
-
-If I switch to an eSIM, will I still be able to use my existing SIM card?
-Your physical SIM card will be deactivated upon activation of the eSIM.
-
-
-How many eSIMs can I have with the same number?
-Only one number per eSIM can be active.
-
-
-Can I have both a physical SIM card and an eSIM on my device at the same time?
-
-
-That depends on your device. If your device supports it, then you can use both a physical SIM card and an eSIM at the same time.
-What happens if I lose my mobile?
-
-
-If your mobile is stolen or lost, you must contact the Customer Call Centre on 130 (+357 22255130 from abroad) immediately, so that we can deactivate your eSIM and prevent the possibility of its unauthorised use. We can replace your eSIM at any Cablenet store. Replacement will be charged according to theCablenet Pricelistvalid at that time.
-
-
-How can I uninstall my eSIM from a specific device?
-In your device’s settings, locate the eSIM or mobile settings.Locate the option to manage or uninstall an eSIM profile.Select the eSIM profile you wish to uninstall and follow the on-screen instructions
-
-
-In your device’s settings, locate the eSIM or mobile settings.Locate the option to manage or uninstall an eSIM profile.Select the eSIM profile you wish to uninstall and follow the on-screen instructions
-
-
-Is there a limit to how many times I can transfer my eSIM to another device?
-You can transfer your eSIM to another compatible device up to 6 times. After that, you will have to get a new eSIM Voucher.
-
-
-If I restore my device to factory settings, will it affect my eSIM profile?
-The eSIM will not be affected unless it is completely deleted from the device.
-
-
-Can I still use my eSIM when I’m travelling overseas?
-Yes, the eSIM can be used overseas, just like a physical SIM card would.
-
-
-Can I switch back from an eSIM to a physical SIM card?
-Yes, you can visit any Cablenet store and revert to a physical SIM card.
-
-
-Can I transfer my eSIM to a new device?
-Yes, you can install the eSIM to a new device after you first delete it from your current device. You can then reinstall the eSIM on your new device by scanning the QR code on your eSIM Voucher.
-Your network doesn’t currently offer eSIM support for my device. Are you planning to include more eSIM-compatible devices in the future?
-Yes, new devices that are supported by our eSIM service will be added at regular intervals. You can see the updated list of certified devices in the above section.
-
-
-## Missed Call Notification
-
-How can I activate Missed Call Notification?
-To activate the Missed Call Notification service, send SMS the keyword MCN ON to 8844. The service will be activated automatically and you will receive confirmation via SMS. For more information,click here.
-
-
-What does the Missed Call Notification service do?
-After its activation, you'll be notified of every call you missed, even when your phone is switched off or out of range.
-
-
-What does the Missed Call Notification service’s text message include?
-The text message includes information such as the phone number that called you, the number of missed calls and the date and time of the missed calls.
-
-
-Is there a limit on the number of Missed Call Notifications I can receive within one day?
-There is no limit.
-
-
-Why does the notification message say ‘Unknown’?
-'Unknown' appears when Caller ID has been blocked by the caller.
-
-
-How can I deactivate the Missed Call Notification service?
-To deactivate the service, you must text MCN OFF to 8844. You wil then receive a text message via SMS confirming that the Missed Call Notification service has been deactivated.
-
-
-Will the service work when I’m overseas?
-Yes. You'll receive notification of missed calls even when you're roaming.
-
-
-Can I send a text message to 8844 while I’m overseas?
-Yes. You can send a text message via SMS to 8844 while you're roaming. The service's activation and deactivation procedures remain the same.
-
-
-I have activated the Missed Call Notification service and see the number +35722250159 in the Call Forwarding settings. Why?
-When the service is activated, the system automatically sets call forwarding to +35722250159. This is a basic setting for its correct operation.
-
-
-What will happen if I delete or replace the number +35722250159 from call forwarding on my mobile phone?
-If you delete or replace the number +35722250159 from the device's call forwarding, the Missed Call Notification service will not function. You can add the number +35722250159 by typing it in or reactivating the service.
-
-
-If the SMS Center of my mobile device is wrong will I be able to receive SMS from CablenetMCN sender?
-Yes, you'll be able to receive these specific messages however you won't be able to send texts via SMS. The correct number for the SMS Centre is +35794066666.
-Mobile Features
-
-
-How can I activate Calling Line Identification Restriction (CLIR)?
-You can selectively activate Calling Line Identification Restriction (CLIR) for a call by dialling #31# before the number you wish to call. If you wish to permanently withhold your number via your device, please refer to the manufacturer’s user manual or Mobile Supplementary Services.
-
-
-How can I divert calls and how will I be charged?
-The Call Forwarding Service enables you to divert received calls to any phone number of your choice within Cyprus. When you activate Call Forwarding to another number, you will be charged as if you are the one making the call from your number to the one to which your call has been diverted. Mobile telephony networks do not provide the ability to forward SMS or MMS messages. To activate the Call Forwarding Service, please refer to the manufacturer’s user manual or Mobile Supplementary Services.
-
-
-How can I activate/deactivate blocking of 900 (premium rate) numbers?
-Cablenet’s mobile network allows calls to 900 numbers by default. In order to block calls or unblock calls to 900 numbers from your mobile service, please call the Customer Service Center οn 130.
-
-
-How can I activate Missed Call Notification?
-To activate the Missed Call Notification service, send SMS the keyword MCN ON to 8844. The service will be activated automatically and you will receive confirmation via SMS. For more information,click here.
-
-## Portability
-
-I am another company’s customer. Could I get Cablenet Mobile and keep the same number?
-Of course. You can keep your existing number by following the number portability procedure. For more information regarding number portability, as well as the required documentation, please call the Customer Service Centre on 130. There is no charge for the transfer procedure.
-
-
-How will I be notified that the portability procedure has been completed?
-You will be notified via SMS on your mobile the day before the date set for the transfer. The new Cablenet SIM card will have to be placed in your mobile on the day and time set for the transfer in order to activate the service.
-
-
-Can I transfer my current mobile number to the Cablenet Prepaid service?
-Yes, you can transfer your number at any Cablenet Store or online byclicking here.
-
-## Prepaid Mobile Subscribers
-
-Where can I buy a Cablenet Prepaid SIM
-pack?
-
-You can buy a Cablenet Prepaid SIM pack at
-any Cablenet Store, at selected Cablenet resellers, kiosks, and mini-markets.The connection pack includes €1 credit.
-
-Following activation, you cantop-up your account online, through our website,or
-at any Cablenet Store or kiosk, all over Cyprus.
-
-How can I top-up my Cablenet Prepaid mobile
-account?
-
-You can top-up your Cablenet Prepaid
-account whenever you want, wherever you are,through our website.Alternatively
-you can top-up at any Cablenet Store or Kiosk, all over Cyprus.
-
-How often can I top-up my account?
-
-You can top-up your account as often as you
-wish.
-
-Ideally you should top-up your account each time you run out of credit or your
-credit expires.
-
-Note that each top-up card is unique so, if you top-up your account using
-multiple top-ups, each top-up will expire according to its own expiry
-time.Click hereto top-up online or to learn more about the Cablenet Prepaid
-Top-Up options.
-
-Will my Cablenet Prepaid balance be
-transferred if I do not use it within the validity period?
-
-No, the remaining unused balance will not
-be transferred and will not be added to another top-up balance.
-
-You cantop-up onlinewhenever you want, wherever you are, through our website.
-
-How can I check my Cablenet Prepaid
-available balance?
-
-Just dial *101# and use the interactive
-menu.
-
-When you check your available balance (using *101#), the balance displayed is
-the sum of all remaining valid top-up credits and Gimme prepaid plan credits.
-
-How can I transfer money to another
-Cablenet Prepaid user?
-
-Simply dial *121* followed by the Cablenet
-Prepaid number, then *, then the desired amount #, then press DIAL(e.g.
-*121*94xxxxxx*5#).
-
-Both parties will receive a confirmation SMS after the successful transfer.
-
-What are the Gimme prepaid plans?
-
-The Gimme prepaid mobile plans offer value
-for money for talk time, text messages (SMS), and data.
-
-For more information and Gimme plan options,click here.
-
-To activate a Gimme plan you need to top-up your account first. For the
-available top-up options,click here.
-
-How can I buy a Gimme prepaid plan and what
-are the costs?
-
-Once you have topped up your account, you
-can purchase any Gimme prepaid package by dialing *141# and then selecting the
-Gimme package you want to activate.
-
-For more information regarding your top-up options and to top up online,click
-here.
-
-For more information regarding the Gimme plans and the available options,click
-here.
-
-Can I transfer any mobile number to
-Cablenet Prepaid service?
-
-Yes, you can transfer your number at any
-Cablenet Store, or onlineby clicking here.
-
-Can I use my Cablenet Prepaid number when
-traveling abroad?
-
-Yes, you can use your Cablenet Prepaid
-service when abroad.
-
-For more information on the roaming rates,click here.
-
-To top-up your account while overseas,use our online top-up option.
-
-Please remember that Gimme packages are not active when the subscriber is
-overseas. Charges incurred during roaming will be deducted from your account
-balance.
-
-How can I transfer my prepaid mobile number
-from another provider to Cablenet?
-
-You can visit any one of our stores orapply
-online. Activation will be completed two working days after the date of the
-transfer from another provider to Cablenet.
-
-How can I transfer balance to another
-Cablenet Prepaid user?
-
-Type: *121*Cablenet Prepaid number you wish
-to transfer balance to*desired amount# and press Call (e.g. *121*94xxxxxx*5#).
-
-Both Cablenet Prepaid numbers will receive a text message confirming the
-successful transfer.
-
-Can I transfer my current mobile number to
-the Cablenet Prepaid service?
-
-Yes, you can transfer your number at any
-Cablenet Store or online byclicking here.
-
-Can I use my Cablenet Prepaid line
-overseas?
-
-Yes, you can use your prepaid line
-overseas. For further information regarding roaming charges,click here.
-
-To top-up your account while overseas,use our online top-up option.
-
-Please remember that Gimme packages are not active when the subscriber is
-overseas. Charges incurred during roaming will be deducted from your account
-balance.
-
-Can I have an eSIM with the Cablenet
-Prepaid service?
-
-Yes, you can have an eSIM with the Cablenet
-Prepaid service. This is only available at Cablenet stores and charged
-according to the Company’sPricelistvalid at that time. Find out more about
-eSIMshere.
-
-What is the Gimme Asia prepaid plan?
-
-With
-the Gimme Asia mobile plan, you can communicate with countries in Asia at lower
-charges.Calls toAvailable minutesCall Rate per minute
-
-(incl.
-VAT)Bangladesh180€0.0278India120€0.0417Nepal25€0.2000Pakistan90€0.0556Philippines30€0.1667Sri
-Lanka25€0.2000Vietnam50€0.1000China150€0.0333The charges apply to calls from
-Cyprus to mobile or landline numbers of the above-mentioned countries.
-
-The Gimme Asia prepaid plan does not include SMS.
-
-You can use the available minutes for calls to a single destination or to a
-combination of destinations, depending on the call rates applicable to each
-country. For example, you can use the total minutes for calls to one
-destination or call different destinations.ExamplesCalls to 1 destinationIndia
-120 mins--Calls to 2 different destinationsBangladesh 90 minsIndia 60
-mins-Calls to 3 different destinationsIndia 40 minsPhilippines 10
-minsChina 50 minsIf the included minutes are all used, then the standard
-catalog charges will apply, and the resulting charges will be deducted from
-your top-up balance.
-
-
-Are my Minutes, SMS and Mobile Data truly
-unlimited with Purple Max plan?
-
-Yes, your Purple Max Minutes, SMS and
-Mobile Data are truly unlimited.
-
-Will my Mobile Data ever be throttled with
-Purple Max plan?
-
-We will never throttle your Mobile Data
-speed with Purple Max plan. Instead, you will always have access to our best
-available speeds.
-
-Will I be locked into a 24-month contract
-when signing up to Purple Max plan?
-
-No, with Purple Max plan you will be free
-to leave whenever you like, without a termination fee, by simply giving us 30
-days-notice. This applies to all our Cablenet mobile plans.
-
-What is the Cablenet Mobile Fair Usage
-Policy?
-
-In order to avoid network congestion and to
-protect the quality of service provided to customers, Cablenet implements a
-Fair Usage Policy, which provides that the Purple Talk plan, which include
-unlimited local minutes and local SMS and the Purple Max plan, which include
-unlimited local minutes, local SMS and local Data are offered only for
-interpersonal communication and for private, personal use of the service. Under
-no circumstances is their use allowed for profit purposes or for resale of the
-service. Interpersonal communication in this respect refers to the standard
-person-to-person calls and sending of SMS from the hand of a human. Therefore,
-unlimited use is prohibited for multiple simultaneous calling, conference
-calling, re-supply, call centre usage, telemarketing, bulk messaging,
-application-to-person communication, continuously call forwarding,
-auto-dialing, machine to machine communication, Cellular Trunking Units (CTUs),
-or any other activity that Cablenet considers to be non standard usage or not
-fair. In case of breach of this condition, Cablenet has the right, upon notice
-of the customer to apply charges, to transfer the client to another program
-and/or disconnect temporarily or permanently terminate the service without any
-further notice.
-
-## Roaming
-
-Can I use my mobile data while roaming in
-the EU?
-
-Yes, you can use your mobile data, at no
-extra charge, when travelling to EU countries, Iceland, Lichtenstein, Norway,
-Gibraltar and Monaco, so that you can enjoy carefree communication, as if
-you’re still in Cyprus. The EU data roaming limit for mobile plans are: Mobile
-Basic 50MB limit, Purple 1 1GB limit, Purple Mobile 9GB limit, Purple Max
-Mobile 27.1GB limit
-
-How can I contact Call Center support from
-abroad?
-
-You can contact Call Center support from
-abroad by dialing +357 22255130
-
-What is the data limit while roaming in the
-EU?
-
-You can use your plan’s available data in
-European Union, without any additional charge (Mobile Basic: 50MB limit, Purple
-1: 1GB limit, Purple Mobile: 9GB limit).
-
-A Fair Usage Policy limit applies to the data you can consume within the
-European Union. The Purple Max plan is bound by a Fair Usage Policy, which sets
-a limit of 27.1GB/month within the European Union.
-
-If you do not have available data or the Fair Usage Policy Limit of your plan
-is reached, you can receive additional data by choosing a Data Booster, as
-describedhere.As soon as you consume 80% or 100% of your inclusive data within
-the European Union, you will be notified via a text message.
-
-How will I be charged while roaming outside
-of the EU?
-
-While roaming outside of the EU any Calls,
-SMS, or Mobile Data you use are not deducted from your mobile bundle. Instead,
-they are charged separately according to your usage and are deducted from your
-Monthly Credit Limit of €100.
-
-What is the breakdown of Credit Limits
-while roaming outside of the EU?
-
-There is a collective Monthly Credit Limit
-of €100 which is applied to Mobile Data, SMS, and Voice while roaming. Also, as
-a precautionary measure regarding any potential accidental data roaming
-charges, a limit of €50 applies specifically to your Mobile Data while you
-travel outside the EU. An SMS will be sent to you as you reach 80% of this
-amount and again a second SMS when you reach 100%. At this point, your mobile
-Internet will be suspended in order to avoid any additional charges that may
-occur.
-
-The usage for mobile data is deducted from both the Monthly Credit Limit and
-the Data Roaming non-EU Limit.
-
-Examples:I have used €50 on mobile data while roaming outside of the EU. My
-mobile data will be suspended and I will have €50 remaining to use for SMS and
-Voice CallsI have used €90 on Voice Calls and/or SMS while roaming outside of
-the EU. I will have €10 available to use for mobile data and/or Voice Calls
-and/or SMS.Once again an SMS will be sent to you as you reach 80% of the
-Monthly Credit Limit and a second SMS when you reach 100%. At this point, all
-of your services will be suspended in order to avoid any additional charges
-that may occur.
-
-I have used €50 on mobile data while
-roaming outside of the EU. My mobile data will be suspended and I will have €50
-remaining to use for SMS and Voice CallsI have used €90 on Voice Calls and/or
-SMS while roaming outside of the EU. I will have €10 available to use for
-mobile data and/or Voice Calls and/or SMS.
-
-Can I increase my Monthly Credit Limit?
-
-Yes, you can send an SMS with the code CL20
-to 8844 to increase your Monthly Credit Limit by €20 up to three (3) times per
-month.
-
-For information on how to further increase your Monthly Credit Limit, please
-contact our Call Center on +357 22255130.
-
-How can I avoid high data roaming charges
-when roaming outside of the EU?
-
-The best practice to avoid accidental data
-roaming charges is turning off your data roaming in your mobile device’s
-settings.
-
-What are the rates while roaming outside
-the EU?
-
-As soon as you turn on your mobile phone in
-the country you are visiting you will receive a “Welcome SMS” from us, which
-will inform you regarding calls (incoming and outgoing), SMS, and mobile
-internet rates that will be applied during your stay there. You can also find
-the roaming rates for the country you’re visiting, at the following
-linkRoaming.
-
-Why is my data not working?
-
-If your mobile data connection is not
-operating properly, you need to verify that the APN is correct by following
-these steps:Android:Settings -> Mobile networks -> Access Point Names
--> (Name: cablenet, APN: cablenet)
-
-You can also watch a step-by-step tutorial of the above stepshereiOS:Settings
--> Mobile data -> Mobile Data Options -> Mobile Data Network ->
-APN: cablenet
-
-## TV
-
-I do not have an external antenna, but my
-
-house is connected to the Cablenet network. Do I need to install an external
-antenna to be able to watch the FTA Cypriot channels?
-
-For coaxial cable connections, you don’t
-have to install an external antenna to watch Cypriot free-to-air channels if
-your premises are already connected to the Cablenet network. Digital signal in
-DVB–T format (terrestrial digital format) for Cypriot free-to-air channels, is
-also transmitted via the Cablenet network as it is transmitted by terrestrial
-digital service providers CyBC and Velister. It is therefore available in
-exactly the same way that you would have received it with an external antenna.
-
-For optical fibre connections, you must install an outdoor antenna to receive
-Cypriot free-to-air channels.
-
-Do I need a decoder in order to use your TV
-service?
-
-The Purple TV channel package requires a
-Cablenet decoder.
-
-Can I watch different channels on different
-TV sets at the same time?
-
-The Purple TV digital TV service requires a
-decoder and can be accessed from up to three viewing points in your home (a
-decoder per point is required).
-
-Can the Cablenet TV channels be distributed
-to several rooms in a home?
-
-For coaxial cable connections, the RF
-signal transmitted by Cablenet in DVB-T format as mentioned above can be
-distributed to any number of viewing points via the home RF distribution
-network in exactly the same way as a conventional aerial RF signal received by
-an antenna. Where DVB-C encrypted TV services are concerned, they can be
-installed at up to three points within the home via the home RF distribution
-network and the use of a Cablenet decoder. Depending on the number of terminals
-and the quality of the coaxial cabling of the home RF distribution network, the
-RF signal may need to be boosted.
-
-For optical fibre connections, rather than connecting the decoder via WiFi,
-networking and the use of ethernet cable within the home is recommended for
-optimal speed and the prevention of interference by neighbouring WiFi networks,
-low connection speed due to increased use of the WiFi network by other devices
-within the home, or weak WiFi signal due to the layout of the home’s interior.
-
-If you need any related assistance, kindly consult a network installation
-specialist. Please note that the Amino decoder can be installed at up to three
-points within the home.
-
-Are there subtitles for the international
-channels?
-
-Greek subtitles or dubbing are offered on
-the following subtitles:
-
-Movies Best, FOX, FoxLife, Cablenet Cinema, Novacinema 1-4, National Geographic
-HD, Discovery Channel, National Geographic, Nat Geo Wild HD, Animal Planet,
-Discovery Science, BBC Earth HD, History HD, ID, Disney Channel, Disney Junior,
-Boomerang HD, Baby TV, E! Entertainment, TLC, Motorvision HD, Edge Sport HD,
-Novasports Prime, Novasports 2-5, Novasports Start, Euronews GR.
-
-How are TV channels transmitted to end
-users over the Cablenet network?
-
-For optical fibre connections, the Amino
-decoder may be connected to the fibre-optic converter (usually the fibre-optic
-service modem) using an ethernet cable or alternatively use the ethernet
-connection within the home if that is provided. The Amino decoder supports WiFi
-connection, however ethernet connection is recommended for optimal connection
-quality, as well as optimal picture and sound quality. For further related
-information, please see the section below for advanced users.
-
-What types of TV channel signals are
-transmitted over the Cablenet network?
-
-The following types of TV channels are
-included in the RF signal transmitted via the Cablenet network (further
-information for advanced users is also available in the following section):a)
-DVB‑C (Digital Video Broadcast Cable)All of Cablenet’s TV channels are
-transmitted in this format for coaxial cable connections. Cypriot free-to-air
-channels are transmitted unencrypted while subscription channels are
-encrypted.b) DVB‑T (Digital Video Broadcast Terrestrial)Cypriot free-to-air
-channels are transmitted unencrypted in this format in exactly the same way
-that they are aerially transmitted by terrestrial digital TV service providers
-CyBC and Velister for coaxial cable connections.c) IPAll channels are
-transmitted in IP format to customers with an optical fibre connection, with
-the exception of certain areas with fibre-optic connection and simultaneous RF
-transmission via fibre-optic cable.
-
-Cypriot free-to-air channels are transmitted unencrypted in this format.
-
-a) DVB‑C (Digital Video Broadcast Cable)
-
-b) DVB‑T (Digital Video Broadcast
-Terrestrial)
-
-c) IP
-
-How are the Cablenet interactive TV
-services transmitted?
-
-Interactive TV services are transmitted via
-IP, the same protocol through which internet services are provided. To activate
-interactive services such as Replay TV (Catch-up TV) and Video on Demand (VOD),
-Cablenet’s Arion decoder must be connected to the Cablenet modem using a
-suitable ethernet cable. If the decoder is located near the modem, this is
-usually done by Cablenet’s technical staff during installation. Additionally,
-Cablenet’s Arion decoder must set to hybrid VOD Mode fromthe menu (Settings‑>System
-Mode) in order to activate interactive services.
-
-The Amino decoder needs a permanent internet connection for channels and
-interactive services to function, even if channels are received via coaxial
-cable.
-
-How is the Cablenet Set Top Box (STB)
-connected to the TV?
-
-To benefit from better transmission quality
-of the TV channels provided by Cablenet, such as picture quality in High
-Definition (HD) and digital sound, Cablenet’s decoder must be connected to the
-TV set using the HDMI cable provided. If this is not possible, a special RCA
-cable (which can be found at Cablenet stores) can then be used, however picture
-quality for HD channels will not be optimal. In addition, the Amino decoder
-will have to be connected to the modem via either ethernet or WiFi. It is recommended
-that the decoder is connected via ethernet cable rather than WiFi, for optimal
-quality and the prevention of interference by neighbouring WiFi networks, low
-connection speed due to increased use of the WiFi network by other devices
-within the home, or weak WiFi signal due to the layout of the home’s interior.
-
-How many STBs can I have under the same
-Cablenet TV subscription?
-
-Up to three decoders may be used per
-subscription in order to receive encrypted TV services such as Purple TV. These
-decoders may also be used for Cablenet interactive services, as long as each
-one is directly connected to the Cablenet modem using an ethernet cable. In the
-case of 24-month contracts for Cablenet packages that include TV services, the
-first decoder is provided free of charge. In all other cases, as well as for
-second or third points, decoders are provided with a monthly charge of €5 per decoder.
-
-For Purple TV Stream and Purple Sports Stream, the equipment cost is
-€90/decoder.
-
-Can I watch the FTA Cypriot channels in
-parallel to watching on a Cablenet STB?
-
-For coaxial cable connections, regardless
-of the number of Cablenet decoders used within a home under a single subscription,
-any other devices, such as TV sets or DVB-C or DVB-T receivers, can be used
-simultaneously to receive Cypriot free-to-air channels which are transmitted
-clearly by the Cablenet network. The only requirement is that distribution of
-the RF signal within the home is done correctly and that receiving devices are
-directly connected to RF distribution network via the RF-in port. Kindly
-consult a TV system installation specialist if you need assistance to do so.
-
-For optical fibre connections, you must install an external antenna to receive
-Cypriot free-to-air channels provided by terrestrial digital service providers
-such as CyBC and Velister. Kindly consult a TV system installation specialist
-if you need assistance to do so.
-
-On which connector are Cablenet TV channels
-provided?
-
-For coaxial cable connections, the RF
-signal transmitted by Cablenet, including all types of TV channel
-transmissions, is provided at a designated connector (with a screw-on threaded
-port called a female F‑type connector) on the isolator or the fibre converter
-for coaxial or optical fibre installations, respectively. Connection of the
-Cablenet decoder is done by Cablenet’s technical staff during installation,
-using a suitable coaxial cable (which is terminated with a male F‑type
-connector at one end). If connection to additional TV sets or the home RF
-distribution network is required, this can be done by a TV systems installation
-specialist or by the user themself if they are familiar with the required
-procedure, equipment and cables.
-
-N.B.: The internet connection signal via Cablenet’s coaxial network is
-delivered to a separate designated female F‑type connector on the isolator.
-Consequently, it is recommended that only authorised Cablenet technical staff
-or TV system installation specialists connect or disconnect cables from the
-isolator to avoid the risk of damaging the network or equipment.
-
-For optical fibre connections, channels are transmitted via ethernet cable
-connecting one of the available ethernet ports of the fibre-optic converter
-(usually the fibre-optic service modem) to the decoder’s ethernet port.
-
-What is DVB C and what channels are
-provided through this transmission method on Cablenet’s network?
-
-DVB-C stands for Digital Video Broadcast
-Cable and is the primary method for transmitting TV channels used by the
-Cablenet network as it is optimised for coaxial cable networks. All of
-Cablenet’s TV channels are transmitted in this format. Cypriot free-to-air
-channels are transmitted in an unencrypted format, while all other channels
-included in Cablenet’s TV packages are encrypted. For all information regarding
-Cablenet’s channels and TV packages, visit https://cablenet.com.cy.
-Cablenet decoder is required to view Cablenet’s encrypted TV services and it is
-also used to view Cypriot free-to-air channels. Other devices capable of
-receiving DVB-C, such as TV sets with DVB-C (Digital Cable) tuners can be used
-to watch unencrypted free-to-air channels.
-
-What is DVB T and what channels are
-provided through this transmission method on Cablenet’s network?
-
-DVB-T stands for Digital Video Broadcast
-Terrestrial and is the method for transmitting TV channels usually used for
-terrestrial digital transmission, as done in Cyprus by CyBC and Velister. When
-transmitted aerially, DVB-T signals are usually received by a common domestic
-antenna. Cablenet retransmits all DVB-T channels on its cable network in
-exactly the same way as they are transmitted by CyBC and Velister.
-Consequently, every premises connected to Cablenet’s coaxial network,
-regardless of whether it is subscribed to Cablenet’s services or not, can
-receive Cypriot free-to-air channels without the need for an external antenna.
-All channels transmitted by CyBC and Velister can be received via DVB-T on the
-Cablenet network.
-
-Any devices capable of receiving DVB-T, such as TV sets with DVB-T (Digital
-Aerial) tuners or suitable DVB-T receivers, can be used to watch free-to-air
-channels.
-
-What are the DVB-C broadcast frequencies on
-Cablenet’s network?
-
-If you aren’t using a Cablenet decoder, the
-best way to tune DVB-C channels transmitted on Cablenet’s network is to use
-your TV set’s automatic digital cable scanning feature (or similar), if this is
-an option.
-
-For manual tuning, Cablenet DVB-C channels are broadcast between frequencies
-610 MHz to 746 MHz. The tuning parameters are as follows:
-
-Modulation: QAM256
-
-Symbol Rate: 6950
-
-Network ID: 1
-
-If a network tuning mode or option is available, it can be selected to speed up
-tuning.
-
-N.B.: Cablenet reserves the right to change the transmission frequencies and
-parameters of its DVB-C channel broadcast at its discretion at any time.
-
-How can I watch Purple TV using the
-Cablenet TV GO service?
-
-The Cablenet TV GO service is offered to TV
-Service Subscribers who have chosen the Purple TV package. In using the
-Cablenet TV GO service, there is a limit to the number of registered devices
-and simultaneous viewing points per account. The number of devices and
-simultaneous viewing points depends on the TV Service you have chosen. You can
-download the Cablenet TV GO app viaApple StoreorGoogle Play, or connect via
-yourbrowser.
-
-Once you have installed the Cablenet TV GO app, enter the username and password
-that Cablenet will send you (via text message to the registered mobile number)
-on the access page so that you can accept the Special Terms for TV services.
-
-You can register up to three (3) personal devices (smartphone/tablet/browser)
-however, for every additional viewing point (decoder) registered, the number of
-available personal devices that can be added will be reduced accordingly.
-
-How can I get a new access code for the
-Cablenet TV GO service?
-
-To change your Cablenet TV GO password, you
-can call 130 for immediate assistance, or you can submit your request
-electronically athttps://tvgo-pass.cablenet.com.cy/forgot
-
-How can I watch Cablenet TV GO from
-multiple devices at the same time?
-
-Simultaneous viewing is permitted on 1 TV
-set and 1 phone. You are permitted an additional device if you are a STAR 1 or
-2 subscriber.
-
-How can I change the language of a TV show?
-
-Press. The  screenwill  appear,
-where you can select the language for audio and subtitles.
-
-How can I watch a TV show I missed?
-
-ArionPress the EPG button on the remote
-control.Select the show you wish to watch and press OK.Select Catch-up TVPress
-Back, Menu or EPG to return to normal programming.AMINOPress the Guide button
-on the remote control.Select the TV show you wish to watch and press OK.Select
-the ‘REPLAY’ icon.Press the back arrow on the remote control to display the
-horizontal menu where you can choose your desired option (such as TV, Guide
-etc.).Alternatively, press OK to display the playback overlay layer and select
-theicon to return to live TV programming.TV GO APPGo to TV Section and select
-TV.Select the channel you wish to watch.At the bottom of the screen, select the
-channel flow.Select the day and the episode/show.Select the name of the TV show
-and press ‘REPLAY’. Alternatively, select the three vertical dots and
-press‘REPLAY’
-
-Press the EPG button on the remote
-control.Select the show you wish to watch and press OK.Select Catch-up TVPress
-Back, Menu or EPG to return to normal programming.
-
-Press the Guide button on the remote
-control.Select the TV show you wish to watch and press OK.Select the ‘REPLAY’
-icon.Press the back arrow on the remote control to display the horizontal menu
-where you can choose your desired option (such as TV, Guide etc.).Alternatively,
-press OK to display the playback overlay layer and select theicon to return to
-live TV programming.
-
-Go to TV Section and select TV.Select the
-channel you wish to watch.At the bottom of the screen, select the channel
-flow.Select the day and the episode/show.Select the name of the TV show and
-press ‘REPLAY’. Alternatively, select the three vertical dots and press‘REPLAY’
-
-How can I record a TV show to watch later?
-
-If you’re a Purple TV subscriber, you have
-5 hours’ availability.
-
-If you’re a Star 1 or Star 2 subscriber, you have 10 hours’
-availability.AMINOPress the Guide button on the remote control.Select the TV
-show you wish to watch and press OK.Select the ‘Record TV’ icon.Press the back
-arrow on the remote control to display the horizontal menu where you can choose
-your desired option (such as TV, Guide etc.).Alternatively, press OK to display
-the playback overlay layer and select Record TV, or press the Record button on
-the remote control.TV GO APPGo to TV Section and select TV.Select the channel
-you wish to record.At the bottom of the screen, select the channel flow.Select
-the day and the episode/show.5. Select the name of the TV show and press
-‘Record TV’. Alternatively, select the three vertical dots and press ‘Record
-TV’.
-
-Press the Guide button on the remote
-control.Select the TV show you wish to watch and press OK.Select the ‘Record
-TV’ icon.Press the back arrow on the remote control to display the horizontal
-menu where you can choose your desired option (such as TV, Guide
-etc.).Alternatively, press OK to display the playback overlay layer and select
-Record TV, or press the Record button on the remote control.
-
-Go to TV Section and select TV.Select the
-channel you wish to record.At the bottom of the screen, select the channel
-flow.Select the day and the episode/show.
-
-How can I add an extra viewing point?
-
-The Purple TV service includes one (1)
-viewing point.
-
-For additional viewing points, you may visit a Cablenet Store, contact us on
-130, or make yourrequest online by clicking here.The maximum number of
-additional viewing points is 2.
-
-What sports events does NovaSports include?
-
-The NovaSports channels
-include:FootballSuper League exclusive rights for home matchesBundesliga &
-Bundesliga 2Ligue 1Serie BFrench Super CupGerman Super
-CupBasketballEuroLeagueEuroCupFIBA Men World Cup 2023FIBA Men and Women
-pre-Olympic TournamentsFIBA Mens Qualifies to EuroBasket 2025NCAATennisDavis
-Cup Finals 2023 - 2024WTA Tournaments (1000, 500, 250)MMAONE FC 2023Bare
-Knuckle Fight ChampionshipNational Fighting ChampionshipOther Sports –
-Highlights OnlySail GPWorld Sailing SeriesCycling Arctic Race of NorwayMobil 1
-– The GridHankook 6 hour seriesWorld of FreesportsGoodwood RaceTitan Desert
-Mountain BikeParis MarathonBarcelona Marathon
-
-Super League exclusive rights for home
-matchesBundesliga & Bundesliga 2Ligue 1Serie BFrench Super CupGerman Super
-Cup
-
-EuroLeagueEuroCupFIBA Men World Cup
-2023FIBA Men and Women pre-Olympic TournamentsFIBA Mens Qualifies to EuroBasket
-2025NCAA
-
-Davis Cup Finals 2023 - 2024WTA Tournaments
-(1000, 500, 250)
-
-ONE FC 2023Bare Knuckle Fight
-ChampionshipNational Fighting Championship
-
-Sail GPWorld Sailing SeriesCycling Arctic
-Race of NorwayMobil 1 – The GridHankook 6 hour seriesWorld of
-FreesportsGoodwood RaceTitan Desert Mountain BikeParis MarathonBarcelona
-Marathon
-
-I want to cancel my subscription, and my
-contract hasn’t expired yet. What do I need to pay?
-
-subscribers: early termination fees for a 24month
-
-## Cablenet.me
-Cablenet.me is the portal where a Cablenet Subscriber can login check its balances, call history make payments e.t.c
